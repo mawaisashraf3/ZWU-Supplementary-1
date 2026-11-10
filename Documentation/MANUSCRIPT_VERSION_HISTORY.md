@@ -11,6 +11,6 @@ Use the R8 Word document (Manuscript/Manuscript 10 Nov.docx, staged locally) and
 | [R5](../Manuscript_Revisions/R5) | November 9 single-column and journal-formatted manuscripts, each in Word and PDF. The publisher example is filed separately. |
 | R6 (Manuscript_Revisions/R6, staged locally) | November 9 revised manuscript and Energy & Environmental Science layout variant, with reference verification and versioned citation maps. |
 | R7 (Manuscript_Revisions/R7, staged locally) | November 10 baseline and EndNote-linked Word/PDF. The original and formatted review, library and preservation records document the citation workflow. |
-| R8 (Manuscript, staged locally) | Latest supplied Word/PDF, 19 figures and 209 numbered bibliography entries. R8 also includes an EndNote tagged import collection. |
+| [R8](../Manuscript) | Latest supplied Word/PDF, 19 figures and 209 numbered bibliography entries. R8 also includes an EndNote tagged import collection. |
 
 Compare versions through the [inventory](FILE_INVENTORY.md). Exact byte duplicates retain their original locations in the chronology, while same-named but distinct versions are grouped by revision. The R8 manuscript’s own supplementary-material URL names a different repository. This archive uses the GitHub destination named by the project owner. The Word and PDF bytes, including the embedded URL, are preserved.

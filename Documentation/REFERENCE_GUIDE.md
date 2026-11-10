@@ -1,6 +1,6 @@
 # Reference guide
 
-The [R8 bibliography](../References/R8_BIBLIOGRAPHY.md) indexes the manuscript’s 209 numbered entries. 103 entries have a matched DOI record in this archive. Entries without a verified match retain the manuscript bibliographic text. The number is the R8 bibliography number and can differ from a numeric EndNote filename or an earlier draft number.
+The [R8 bibliography](../References/R8_BIBLIOGRAPHY.md) indexes the manuscript’s 209 numbered entries. 208 entries link to matched DOI records. Reference 67 links directly to the publisher record. The number is the R8 bibliography number and can differ from a numeric EndNote filename or an earlier draft number.
 
 ## EndNote import
 

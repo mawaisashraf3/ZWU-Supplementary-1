@@ -1,6 +1,6 @@
 # R8 bibliography and publication links
 
-Numbering and citation strings follow the supplied R8 Word bibliography. DOI links are bibliographic matches to Crossref metadata. A valid DOI identifies a cited publication. Exact panel provenance requires comparison with the published artwork.
+Numbering and citation strings follow the supplied R8 Word bibliography. DOI and publisher links were checked against Crossref, publisher, or institutional metadata. A valid DOI identifies a cited publication. Exact panel provenance requires comparison with the published artwork.
 
 ### R8 reference 1
 
@@ -30,7 +30,7 @@ Zhang, Y.-Z., et al., MXene hydrogels: fundamentals and applications. Chemical S
 
 Nan, J., et al., Nanoengineering of 2D MXene‐based materials for energy storage applications. Small, 2021. 17(9): p. 1902085.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/smll.201902085)
 
 ### R8 reference 6
 
@@ -60,7 +60,7 @@ Luo, X., et al., A flexible multifunctional triboelectric nanogenerator based on
 
 Idumah, C.I., Recent trends in MXene polymeric hydrogel bionanoarchitectures and applications. Cleaner Materials, 2022. 5: p. 100103.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.clema.2022.100103)
 
 ### R8 reference 11
 
@@ -132,43 +132,43 @@ Xu, Z., et al., Three-dimensional polymer networks for solid-state electrochemic
 
 Shang, J., et al., Soft hybrid scaffold (SHS) strategy for realization of ultrahigh energy density of wearable aqueous supercapacitors. Advanced Materials, 2020. 32(4): p. 1907088.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/adma.201907088)
 
 ### R8 reference 23
 
 Sánchez-Fernández, J.A., Structural strategies for supramolecular hydrogels and their applications. Polymers, 2023. 15(6): p. 1365.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.3390/polym15061365)
 
 ### R8 reference 24
 
 Li, C.H. and J.L. Zuo, Self‐healing polymers based on coordination bonds. Advanced Materials, 2020. 32(27): p. 1903762.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/adma.201903762)
 
 ### R8 reference 25
 
 Li, J., et al., Engineering smart composite hydrogels for wearable disease monitoring. Nano-micro letters, 2023. 15(1): p. 105.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1007/s40820-023-01079-5)
 
 ### R8 reference 26
 
 Gogotsi, Y. and B. Anasori, The rise of MXenes. 2019, ACS Publications. p. 8491-8494.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1021/acsnano.9b06394)
 
 ### R8 reference 27
 
 Anasori, B., M.R. Lukatskaya, and Y. Gogotsi, 677 2D Metal Carbides and Nitrides (MXenes) for Energy Storage, in MXenes: From Discovery to Applications of Two-Dimensional Metal Carbides and Nitrides. 2023, Jenny Stanford Publishing. p. 677-722.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1201/9781003306511-35)
 
 ### R8 reference 28
 
 Naguib, M., et al., Two-dimensional transition metal carbides. ACS nano, 2012. 6(2): p. 1322-1331.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1021/nn204153h)
 
 ### R8 reference 29
 
@@ -198,13 +198,13 @@ Huang, J., X. Huang, and P. Wu, One stone for three birds: One-step engineering 
 
 Bin, X., M. Sheng, and W. Que, Highly conductive V4C3T x MXene-enhanced polyvinyl alcohol hydrogel electrolytes for flexible all-solid-state supercapacitors. Frontiers in Chemistry, 2024. 12: p. 1482072.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.3389/fchem.2024.1482072)
 
 ### R8 reference 34
 
 Thiruchelvam, P. and A.K. Dasmahapatra, Supramolecular Self‐Assembled, Conductive, Mechanically Flexible MXene Cross‐Linked Polypyrrole Hydrogel for Wearable Energy Storage Applications. Small, 2025. 21(34): p. 2502286.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/smll.202502286)
 
 ### R8 reference 35
 
@@ -222,13 +222,13 @@ Shi, Y., C. Liu, Z. Zuo, and X. Yang, Self-assembled ultrathick MoS2 conductive 
 
 Chen, Z., et al., Construction of MoOx/MoB heterojunction confined on sponge-like MoB MBene as the anode for high-performance lithium-ion cells with improved low-temperature tolerance. Journal of Energy Storage, 2026. 154: p. 121195.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.est.2026.121195)
 
 ### R8 reference 38
 
 Qin, H., et al., An MBene-based colloidal electrolyte for high depth-of-discharge and energy-density 2 Ah-scale Zn metal batteries. Energy & Environmental Science, 2025. 18(19): p. 8941-8951.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1039/d5ee02723c)
 
 ### R8 reference 39
 
@@ -246,7 +246,7 @@ Duan, Z., et al., An All‐MXene‐Based Flexible, Seamless System with Integrat
 
 Yang, X., et al., 3D porous oxidation‐resistant MXene/graphene architectures induced by in situ zinc template toward high‐performance supercapacitors. Advanced Functional Materials, 2021. 31(20): p. 2101087.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/adfm.202101087)
 
 ### R8 reference 42
 
@@ -258,19 +258,19 @@ Cheng, T., et al., High‐performance organic–inorganic hybrid conductive hydr
 
 Li, K., J. Li, Q. Zhu, and B. Xu, Three‐dimensional MXenes for supercapacitors: a review. Small Methods, 2022. 6(4): p. 2101537.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/smtd.202101537)
 
 ### R8 reference 44
 
 Chen, Y., et al., Ti3C2T x‑Based Three-Dimensional Hydrogel by a Graphene Oxide-Assisted Self-Convergence Process for Enhanced Photoredox Catalysis. Acs Nano, 2019. 13(1): p. 295-304.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1021/acsnano.8b06136)
 
 ### R8 reference 45
 
 Wang, Q., et al., Spider web-inspired ultra-stable 3D Ti3C2TX (MXene) hydrogels constructed by temporary ultrasonic alignment and permanent in-situ self-assembly fixation. Composites Part B: Engineering, 2020. 197: p. 108187.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.compositesb.2020.108187)
 
 ### R8 reference 46
 
@@ -288,7 +288,7 @@ Hou, Y., et al., Construction and ion transport-related applications of the hydr
 
 Wu, J., et al., Stretchable, stable, and room-temperature gas sensors based on self-healing and transparent organohydrogels. ACS applied materials & interfaces, 2020. 12(46): p. 52070-52081.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1021/acsami.0c17669)
 
 ### R8 reference 49
 
@@ -342,7 +342,7 @@ Nanda, O.P. and S. Badhulika, Fluorine-free sustainable synthesis of two-dimensi
 
 Wang, Y., et al., Ultrafast synthesis of MXenes in minutes via low‐temperature molten salt etching. Advanced Materials, 2024. 36(49): p. 2410736.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/adma.202410736)
 
 ### R8 reference 58
 
@@ -354,31 +354,31 @@ Wei, S., X. Lai, and G.M. Kale, Exploring the potential of MBenes supercapacitor
 
 Zapata‐Solvas, E., et al., Experimental synthesis and density functional theory investigation of radiation tolerance of Zr3 (Al1‐xS ix) C2 MAX phases. Journal of the American Ceramic Society, 2017. 100(4): p. 1377-1387.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1111/jace.14742)
 
 ### R8 reference 60
 
 Sinha, A., et al., MXene: An emerging material for sensing and biosensing. TrAC Trends in Analytical Chemistry, 2018. 105: p. 424-435.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.trac.2018.05.021)
 
 ### R8 reference 61
 
 Majed, A., et al., Toward MBenes battery electrode materials: layered molybdenum borides for Li‐ion batteries. Small methods, 2023. 7(8): p. 2300193.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/smtd.202300193)
 
 ### R8 reference 62
 
 Xiong, W., et al., Rapid synthesis of two-dimensional MoB MBene anodes for high-performance sodium-ion batteries. Journal of Materials Science & Technology, 2025. 212: p. 67-76.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.jmst.2024.05.060)
 
 ### R8 reference 63
 
 Li, Z., et al., Application of transition metal boride nanosheet as sulfur host in high loading Li-S batteries. Chemical Engineering Journal, 2023. 452: p. 139366.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.cej.2022.139366)
 
 ### R8 reference 64
 
@@ -390,61 +390,61 @@ Aghamohammadi, P., et al., Synthesis, characterization, and theoretical modeling
 
 Hou, L., et al., Graphene Modified NiCo-LDH and 3D CNTs@ rGO Carbon Hydrogel for High-Performance Asymmetric Supercapacitor. ACS Applied Energy Materials, 2026. 9(18): p. 12243-12254.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1021/acsaem.6c01498)
 
 ### R8 reference 66
 
 Wang, J., et al., Two dimensional MoS2 accelerates mechanically controlled polymerization and remodeling of hydrogel. Nature communications, 2025. 16(1): p. 1689.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1038/s41467-025-57068-2)
 
 ### R8 reference 67
 
 Naik, H.K., B.B. Mahadevappa, V.C. Anadebe, and R.C. Barik, Harnessing sulfur-doped 2D graphitic carbon nitride with 2D MXene for symmetric supercapacitor performance: Evaluating structural dynamics upon electrochemical cycling. Next Materials, 2026. 13: p. 102854.
 
-Publication link pending bibliographic verification.
+[Publisher record](https://www.sciencedirect.com/science/article/pii/S2949822826012712)
 
 ### R8 reference 68
 
 Xiao, G., et al., π-π stacking interface-mediated self-assembly of multidimensional GQDs/graphene hydrogel electrodes for enhanced supercapacitor performance. Chemical Engineering Science, 2025: p. 123129.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.ces.2025.123129)
 
 ### R8 reference 69
 
 Wang, Y., et al., An integrated photo-rechargeable ZnMoO4//reduced graphene oxide hydrogel supercapacitor. New Journal of Chemistry, 2026. 50(7): p. 3147-3157.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1039/d5nj01156f)
 
 ### R8 reference 70
 
 Ali, N.U.H.L., et al., Sodium polyacrylate hydrogel electrolyte: Flexible rechargeable supercapacitor using thermally reduced graphene oxide nanosheets. Journal of Power Sources, 2025. 625: p. 235648.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.jpowsour.2024.235648)
 
 ### R8 reference 71
 
 Meng, S., et al., Ti3C2TX@ PPy-reduced graphene oxide heterostructure hydrogel for supercapacitor with excellent rate capability. Journal of Alloys and Compounds, 2025. 1010: p. 177314.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.jallcom.2024.177314)
 
 ### R8 reference 72
 
 Sun, K., et al., Graphene oxide assisted triple network hydrogel electrolyte with high mechanical and temperature stability for self-healing supercapacitor. Journal of Energy Storage, 2023. 61: p. 106658.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.est.2023.106658)
 
 ### R8 reference 73
 
 Liu, D., et al., High conductive and low-temperature resistant reduced graphene oxide/polyacrylamide hydrogel for wearable sensors and supercapacitor electrolytes. Electrochimica Acta, 2025: p. 147014.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.electacta.2025.147014)
 
 ### R8 reference 74
 
 Zhang, S., et al., Urchin-like MoS2/MoO2 microspheres coated with GO hydrogel: achieve a long-term cyclability as anode for sodium ion batteries. Materials Today Sustainability, 2023. 21: p. 100289.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.mtsust.2022.100289)
 
 ### R8 reference 75
 
@@ -456,43 +456,43 @@ Gan, J., et al., High Performance Stretchable PVA-MoS2 Hydrogel Photodetectors w
 
 Shinde, S., et al., 3D-printable alginate-MoS2-AgNW hydrogel bioink for dual-mode wearable capacitive biosensors. International Journal of Bioprinting, 2025. 11(5): p. 301.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.36922/ijb025290295)
 
 ### R8 reference 77
 
 Lin, C., et al., Biocompatible, highly stretchable, and reusable MoS2-based hydrogel for multisensing and bioelectrical signal monitoring. Chemical Engineering Journal, 2026: p. 179709.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.cej.2026.179709)
 
 ### R8 reference 78
 
 Li, X., et al., Hierarchical graphene oxide/manganese dioxide/cobalt-nickel layered double hydroxide electrodes for high energy density asymmetric flexible supercapacitor. Chemical Engineering Journal, 2024. 484: p. 149430.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.cej.2024.149430)
 
 ### R8 reference 79
 
 Zheng, B., et al., 3D nanosheet array of cerium doping Al0. 2CoNi layered double hydroxide coated with NiMn layered double hydroxide for high-energy density asymmetric supercapacitors. Chemical Engineering Journal, 2025. 520: p. 165875.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.cej.2025.165875)
 
 ### R8 reference 80
 
 Kumar, S., et al., Highly efficient photo rechargeable supercapacitor based on ambipolar interface of graphitic carbon nitride and MXene. Batteries & Supercaps, 2024. 7(1): p. e202300393.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/batt.202300393)
 
 ### R8 reference 81
 
 Saka, C. and A. Levent, High-performance pseudo-capacitance supercapacitor with highly mesoporous fluorine doped polymeric carbon nitride nanosheets as electrode material. Diamond and Related Materials, 2024. 148: p. 111504.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.diamond.2024.111504)
 
 ### R8 reference 82
 
 Amirthavarshini, T. and S. Gunasekaran, Synergistic battery-type NiCo₂O₄-carbon nitride/NiFe-layered double hydroxide nanocomposites for high energy density asymmetric supercapacitor applications. Ionics, 2026. 32(10): p. 11267-11284.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1007/s11581-026-07434-x)
 
 ### R8 reference 83
 
@@ -504,7 +504,7 @@ Rodríguez-San-Miguel, D., C. Montoro, and F. Zamora, Covalent organic framework
 
 Zhao, X., P. Pachfule, and A. Thomas, Covalent organic frameworks (COFs) for electrochemical applications. Chemical Society Reviews, 2021. 50(12): p. 6871-6913.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1039/d0cs01569e)
 
 ### R8 reference 85
 
@@ -516,13 +516,13 @@ Miner, E.M., et al., Electrochemical oxygen reduction catalysed by Ni3 (hexaimin
 
 Sheberla, D., et al., Conductive MOF electrodes for stable supercapacitors with high areal capacitance. Nature materials, 2017. 16(2): p. 220-224.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1038/nmat4766)
 
 ### R8 reference 87
 
 Borysiewicz, M.A., J.-H. Dou, I. Stassen, and M. Dincă, Why conductivity is not always king–physical properties governing the capacitance of 2D metal–organic framework-based EDLC supercapacitor electrodes: a Ni3 (HITP) 2 case study. Faraday Discussions, 2021. 231: p. 298-304.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1039/d1fd00028d)
 
 ### R8 reference 88
 
@@ -546,7 +546,7 @@ Li, C., et al., Ultralight covalent organic framework/graphene aerogels with hie
 
 Xiong, P., et al., Covalent triazine frameworks for advanced energy storage: challenges and new opportunities. Energy & Environmental Science, 2023. 16(8): p. 3181-3213.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1039/d3ee01360j)
 
 ### R8 reference 92
 
@@ -558,7 +558,7 @@ Liu, W., et al., Two-dimensional polymer synthesized via solid-state polymerizat
 
 Zhang, J., et al., Ice-templated large-scale preparation of two-dimensional sheets of conjugated polymers: thickness-independent flexible supercapacitance. ACS nano, 2021. 15(5): p. 8870-8882.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1021/acsnano.1c01459)
 
 ### R8 reference 94
 
@@ -576,13 +576,13 @@ Du, J., et al., Heat-resistant covalent organic framework (COF) PVA-hybridized g
 
 Zhang, S., et al., Regulating water molecules via bioinspired covalent organic framework membranes for Zn metal anodes. Angewandte chemie, 2025. 137(14): p. e202424184.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/ange.202424184)
 
 ### R8 reference 97
 
 Cui, J., et al., A Stable Triazole‐Based Covalent Gel for Long‐Term Cycling Zn Anode in Zinc‐Ion Batteries. Small, 2023. 19(50): p. 2304640.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/smll.202304640)
 
 ### R8 reference 98
 
@@ -600,7 +600,7 @@ Sundriyal, S., et al., Tuning the interfacial chemistry in metal organic framewo
 
 Xu, S., J. Wu, X. Wang, and Q. Zhang, Recent advances in the utilization of covalent organic frameworks (COFs) as electrode materials for supercapacitors. Chemical Science, 2023. 14(47): p. 13601-13628.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1039/d3sc04571d)
 
 ### R8 reference 101
 
@@ -618,19 +618,19 @@ Shi, C., et al., Fabrication of 3D MXene@ graphene hydrogel with high ion access
 
 Huang, J.H.R., Y.-H. Chang, and I.-W.P. Chen, In-Situ Monitoring of Charge Storage Mechanism from Ti3C2T x MXene Nanostructures via Ionic Liquid Etching and Intercalation. ACS Applied Nano Materials, 2026. 9(2): p. 1295-1306.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1021/acsanm.5c05313)
 
 ### R8 reference 104
 
 Wang, S., C. Jiao, G. Gerlach, and J. Körner, A 3D porous MXene/PNIPAAm hydrogel composite with advanced degradation stability and control of electronic properties in air. Advanced Science, 2026. 13(6): p. e16529.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/advs.202516529)
 
 ### R8 reference 105
 
 Afzal, A., et al., Multifunctional Integration of 2D Materials in Triboelectric Nanogenerators: Fundamentals, Material Classification, and Emerging Applications. Advanced Materials Technologies, 2026: p. e71428.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/admt.71428)
 
 ### R8 reference 106
 
@@ -642,7 +642,7 @@ Yan, Q., et al., Stimuli‐Responsive MXene/PNIPAM Hydrogel WITH High‐Performa
 
 Cai, Y., et al., Mixed-dimensional MXene-hydrogel heterostructures for electronic skin sensors with ultrabroad working range. Science advances, 2020. 6(48): p. eabb5367.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1126/sciadv.abb5367)
 
 ### R8 reference 108
 
@@ -660,31 +660,31 @@ Zhang, C., et al., Stamping of flexible, coplanar micro‐supercapacitors using 
 
 Huang, J., X. Huang, and P. Wu, Readily prepared and processed multifunctional MXene nanocomposite hydrogels for smart electronics. SmartMat, 2024. 5(2): p. e1228.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/smm2.1228)
 
 ### R8 reference 111
 
 Damiri, F., et al., MXene (Ti3C2Tx)-embedded nanocomposite hydrogels for biomedical applications: a review. Materials, 2022. 15(5): p. 1666.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.3390/ma15051666)
 
 ### R8 reference 112
 
 Lin, Z., et al., Capacitance of Ti3C2Tx MXene in ionic liquid electrolyte. Journal of Power Sources, 2016. 326: p. 575-579.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.jpowsour.2016.04.035)
 
 ### R8 reference 113
 
 Kayali, E., A. VahidMohammadi, J. Orangi, and M. Beidaghi, Controlling the dimensions of 2D MXenes for ultrahigh-rate pseudocapacitive energy storage. ACS applied materials & interfaces, 2018. 10(31): p. 25949-25954.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1021/acsami.8b07397)
 
 ### R8 reference 114
 
 Wang, X., et al., Interface interaction-mediated design of tough and conductive MXene-composited polymer hydrogel with high stretchability and low hysteresis for high-performance multiple sensing. Science China Materials, 2023. 66(1): p. 272-283.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1007/s40843-022-2105-6)
 
 ### R8 reference 115
 
@@ -696,7 +696,7 @@ Huang, H., et al., A powder self‐healable hydrogel electrolyte for flexible hy
 
 Dutta, P., et al., Graphene aided gelation of MXene with oxidation protected surface for supercapacitor electrodes with excellent gravimetric performance. Carbon, 2020. 169: p. 225-234.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.carbon.2020.07.041)
 
 ### R8 reference 117
 
@@ -732,25 +732,25 @@ Wang, R., et al., Bioinspired Hierarchical Hydrogel Electrolyte for Ultralong-Li
 
 Guo, B., et al., 3D printing of electrically conductive and degradable hydrogel for epidermal strain sensor. Composites Communications, 2023. 37: p. 101454.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.coco.2022.101454)
 
 ### R8 reference 123
 
 Xiang, G.-T., et al., Flexible solid-state Zn-Co MOFs@ MXene supercapacitors and organic ion hydrogel sensors for self-powered smart sensing applications. Nano Energy, 2023. 118: p. 108936.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.nanoen.2023.108936)
 
 ### R8 reference 124
 
 Nada, A.A., A. Eckstein Andicsova, and J. Mosnaček, Irreversible and self-healing electrically conductive hydrogels made of bio-based polymers. International Journal of Molecular Sciences, 2022. 23(2): p. 842.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.3390/ijms23020842)
 
 ### R8 reference 125
 
 Liu, W., L. Li, and G. Shen, A Ti3C2T x MXene cathode and redox-active electrolyte based flexible Zn-ion microsupercapacitor for integrated pressure sensing application. Nanoscale, 2023. 15(6): p. 2624-2632.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1039/D2NR06626B)
 
 ### R8 reference 126
 
@@ -786,13 +786,13 @@ Radjendirane, A.C., et al., Engineering Ti-MXene integrated interpenetrating pol
 
 Zhang, C., et al., Additive-free MXene inks and direct printing of micro-supercapacitors. Nature communications, 2019. 10(1): p. 1795.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1038/s41467-019-09398-1)
 
 ### R8 reference 132
 
 Yu, L., et al., Versatile N‐doped MXene ink for printed electrochemical energy storage application. Advanced Energy Materials, 2019. 9(34): p. 1901839.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/aenm.201901839)
 
 ### R8 reference 133
 
@@ -810,13 +810,13 @@ Yang, J., J. Cheng, G. Qi, and B. Wang, Ultrastretchable, multihealable, and hig
 
 Li, M., et al., Flexible accelerated‐wound‐healing antibacterial MXene‐based epidermic sensor for intelligent wearable human‐machine interaction. Advanced Functional Materials, 2022. 32(47): p. 2208141.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/adfm.202208141)
 
 ### R8 reference 136
 
 Gong, T., et al., High-sensitivity wearable sensor based on a MXene nanochannel self-adhesive hydrogel. ACS Applied Materials & Interfaces, 2023. 15(15): p. 19349-19361.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1021/acsami.3c01748)
 
 ### R8 reference 137
 
@@ -858,13 +858,13 @@ Dong, L., et al., Fully biofriendly, biodegradable and recyclable hydrogels base
 
 Wang, J., F. Li, F. Zhu, and O.G. Schmidt, Recent progress in micro‐supercapacitor design, integration, and functionalization. Small Methods, 2019. 3(8): p. 1800367.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/smtd.201800367)
 
 ### R8 reference 144
 
 Cao, Z., et al., Super‐stretchable and high‐energy micro‐pseudocapacitors based on MXene embedded Ag nanoparticles. Advanced Materials, 2024. 36(26): p. 2401271.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/adma.202401271)
 
 ### R8 reference 145
 
@@ -876,7 +876,7 @@ Cao, Z., et al., Synchronously manipulating Zn2+ transfer and hydrogen/oxygen ev
 
 Huang, H., et al., Ti3C2T x MXene-based micro-supercapacitors with ultrahigh volumetric energy density for all-in-one Si-electronics. ACS nano, 2022. 16(3): p. 3776-3784.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1021/acsnano.1c08172)
 
 ### R8 reference 147
 
@@ -888,19 +888,19 @@ Nasrin, K., et al., In‐situ synergistic 2D/2D MXene/BCN heterostructure for su
 
 Nasrin, K., K. Subramani, M. Karnan, and M. Sathish, MnCo2S4–MXene: a novel hybrid electrode material for high performance long-life asymmetric supercapattery. Journal of colloid and interface science, 2021. 600: p. 264-277.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.jcis.2021.05.037)
 
 ### R8 reference 149
 
 Peng, Y.-Y., et al., All-MXene (2D titanium carbide) solid-state microsupercapacitors for on-chip energy storage. Energy & Environmental Science, 2016. 9(9): p. 2847-2854.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1039/c6ee01717g)
 
 ### R8 reference 150
 
 Zhang, Y.-Z., et al., Printed supercapacitors: materials, printing and applications. Chemical Society Reviews, 2019. 48(12): p. 3229-3264.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1039/c7cs00819h)
 
 ### R8 reference 151
 
@@ -912,49 +912,49 @@ Ali, S., et al., Micro-supercapacitors of exceptionally high capacitance fabrica
 
 Zhang, H., et al., Interlayer-spacing-regulated MXene/rGO foam for multi-functional zinc-ion microcapacitors. Energy Storage Materials, 2022. 50: p. 444-453.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.ensm.2022.05.033)
 
 ### R8 reference 153
 
 Ren, C.-Y., et al., Ionic liquid-wrapped MXene film with bowl-like structures for highly integrated micro-supercapacitor array with ultrahigh output voltage. Nano Research, 2023. 16(4): p. 4926-4932.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1007/s12274-022-5098-4)
 
 ### R8 reference 154
 
 Feng, X., et al., Functional integrated electromagnetic interference shielding in flexible micro-supercapacitors by cation-intercalation typed Ti3C2Tx MXene. Nano Energy, 2020. 72: p. 104741.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.nanoen.2020.104741)
 
 ### R8 reference 155
 
 Sun, P., et al., An inkjet-printing ink based on porous NiS/N-MXene for high-performance asymmetric micro-supercapacitors and self-powered microelectronics. Chemical Engineering Journal, 2023. 474: p. 145466.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.cej.2023.145466)
 
 ### R8 reference 156
 
 Xu, S., et al., Screen-printable microscale hybrid device based on MXene and layered double hydroxide electrodes for powering force sensors. Nano energy, 2018. 50: p. 479-488.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.nanoen.2018.05.064)
 
 ### R8 reference 157
 
 Wang, Y., et al., A MXene@ fluoride graphdiyne heterostructured anode with interface synergistic effects for lithium-ion batteries. Chemical Engineering Journal, 2025: p. 167719.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.cej.2025.167719)
 
 ### R8 reference 158
 
 Luo, J., et al., Pillared MXene with ultralarge interlayer spacing as a stable matrix for high performance sodium metal anodes. Advanced Functional Materials, 2019. 29(3): p. 1805946.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/adfm.201805946)
 
 ### R8 reference 159
 
 Bashir, T., et al., Progress in 3D-MXene electrodes for lithium/sodium/potassium/magnesium/zinc/aluminum-ion batteries. Electrochemical Energy Reviews, 2023. 6(1): p. 5.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1007/s41918-022-00174-2)
 
 ### R8 reference 160
 
@@ -984,13 +984,13 @@ Das, J.P., et al., Redox-Active MXene-Based Conductive Composite Ink for Bio-Com
 
 Shen, C., et al., A review of on-chip micro supercapacitors for integrated self-powering systems. Journal of Microelectromechanical Systems, 2017. 26(5): p. 949-965.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1109/jmems.2017.2723018)
 
 ### R8 reference 165
 
 Gao, C., et al., A seamlessly integrated device of micro-supercapacitor and wireless charging with ultrahigh energy density and capacitance. Nature communications, 2021. 12(1): p. 2647.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1038/s41467-021-22912-8)
 
 ### R8 reference 166
 
@@ -1002,7 +1002,7 @@ Ma, J., et al., Aqueous MXene/PH1000 hybrid inks for inkjet‐printing micro‐s
 
 Wen, Y., H. Chen, M. Wu, and C. Li, Vertically oriented MXene bridging the frequency response and capacity density gap for AC‐filtering pseudocapacitors. Advanced Functional Materials, 2022. 32(21): p. 2111613.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/adfm.202111613)
 
 ### R8 reference 168
 
@@ -1014,13 +1014,13 @@ Naguib, M., et al., New two-dimensional niobium and vanadium carbides as promisi
 
 Anasori, B., et al., Two-dimensional, ordered, double transition metals carbides (MXenes). ACS nano, 2015. 9(10): p. 9507-9516.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1021/acsnano.5b03591)
 
 ### R8 reference 170
 
 VahidMohammadi, A., A. Hadjikhani, S. Shahbazmohamadi, and M. Beidaghi, Two-dimensional vanadium carbide (MXene) as a high-capacity cathode material for rechargeable aluminum batteries. ACS nano, 2017. 11(11): p. 11135-11144.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1021/acsnano.7b05350)
 
 ### R8 reference 171
 
@@ -1044,25 +1044,25 @@ Cui, S., et al., Multifunctional zincophilic hydrogel electrolyte with abundant 
 
 Hill, J., R. Wildman, and A. Mata, Exploiting the fundamentals of biological organization for the advancement of biofabrication. Current opinion in biotechnology, 2022. 74: p. 42-54.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.copbio.2021.10.016)
 
 ### R8 reference 175
 
 Malda, J., et al., 25th anniversary article: engineering hydrogels for biofabrication. Advanced materials, 2013. 25(36): p. 5011-5028.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/adma.201302042)
 
 ### R8 reference 176
 
 Chimene, D., R. Kaunas, and A.K. Gaharwar, Hydrogel bioink reinforcement for additive manufacturing: a focused review of emerging strategies. Advanced materials, 2020. 32(1): p. 1902026.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/adma.201902026)
 
 ### R8 reference 177
 
 Malekmohammadi, S., et al., Smart and biomimetic 3D and 4D printed composite hydrogels: opportunities for different biomedical applications. Biomedicines, 2021. 9(11): p. 1537.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.3390/biomedicines9111537)
 
 ### R8 reference 178
 
@@ -1086,31 +1086,31 @@ Wang, Y., et al., Bio-inspired self-assembly of ordered interface topology for r
 
 Song, J., et al., Biomimetic design for zinc-based energy storage devices: principles, challenges and opportunities. Chemical Society Reviews, 2025. 54(17): p. 8071-8135.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1039/d5cs00093a)
 
 ### R8 reference 182
 
 Deshmukh, K., T. Kovářík, and S.K. Pasha, State of the art recent progress in two dimensional MXenes based gas sensors and biosensors: A comprehensive review. Coordination chemistry reviews, 2020. 424: p. 213514.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.ccr.2020.213514)
 
 ### R8 reference 183
 
 Qin, R., G. Shan, M. Hu, and W. Huang, Two-dimensional transition metal carbides and/or nitrides (MXenes) and their applications in sensors. Materials Today Physics, 2021. 21: p. 100527.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.mtphys.2021.100527)
 
 ### R8 reference 184
 
 Chao, M., et al., Wearable MXene nanocomposites-based strain sensor with tile-like stacked hierarchical microstructure for broad-range ultrasensitive sensing. Nano Energy, 2020. 78: p. 105187.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.nanoen.2020.105187)
 
 ### R8 reference 185
 
 Li, X., et al., All‐MXene‐printed RF resonators as wireless plant wearable sensors for in situ ethylene detection. Small, 2023. 19(24): p. 2207889.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/smll.202207889)
 
 ### R8 reference 186
 
@@ -1122,7 +1122,7 @@ Ma, K., et al., Bioinspired Self-Assembly-Reinforced Ion Transport and Interface
 
 Lin, K., et al., Flexible Zinc-Ion Battery-Powered Wearable Devices for Vital Sign Monitoring. Advanced Materials & Sustainable Manufacturing, 2026. 3(2): p. 10006.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.70322/amsm.2026.10006)
 
 ### R8 reference 188
 
@@ -1146,7 +1146,7 @@ Manoharan, K. and M. Pumera, Integrated health monitoring system with flexible a
 
 Deshmukh, S., et al., Phase Transition Driven Zn‐Ion Battery With Laser‐Processed V2C/V2O5 Electrodes for Wearable Temperature Monitoring. Small, 2025. 21(7): p. 2409987.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/smll.202409987)
 
 ### R8 reference 192
 
@@ -1158,19 +1158,19 @@ Lu, D., et al., Zn-PAA-C hydrogel for integrated energy storage and self-diagnos
 
 Kougkolos, G., et al., Hydrogels with electrically conductive nanomaterials for biomedical applications. Journal of Materials Chemistry B, 2023. 11(10): p. 2036-2062.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1039/d2tb02019j)
 
 ### R8 reference 194
 
 Olvera, D. and M.G. Monaghan, Electroactive material-based biosensors for detection and drug delivery. Advanced drug delivery reviews, 2021. 170: p. 396-424.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.addr.2020.09.011)
 
 ### R8 reference 195
 
 Karbalaei Akbari, M., et al., Functional two-dimensional materials for bioelectronic neural interfacing. Journal of Functional Biomaterials, 2023. 14(1): p. 35.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.3390/jfb14010035)
 
 ### R8 reference 196
 
@@ -1218,37 +1218,37 @@ Lu, Y., et al., Antibacterial and antioxidant bifunctional hydrogel based on hya
 
 Gou, X., et al., Rational Design of High Concentration Gel Electrolytes for Advanced Rechargeable Batteries. Advanced Sustainable Systems, 2026. 10(11): p. e70702.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1002/adsu.70702)
 
 ### R8 reference 204
 
 Tao, X., et al., ATMP doped conductive PANI/CNTs composite hydrogel electrodes toward high energy density flexible supercapacitors. ACS Applied Energy Materials, 2023. 6(15): p. 8177-8188.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1021/acsaem.3c01325)
 
 ### R8 reference 205
 
 Gong, K., et al., A flexible supercapacitor with high energy density and wide range of temperature tolerance using a high-concentration aqueous gel electrolyte. Electrochimica Acta, 2024. 475: p. 143585.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.electacta.2023.143585)
 
 ### R8 reference 206
 
 Chi, C., et al., Flexible solvent-free supercapacitors with high energy density enabled by electrical-ionic hybrid polymer nanocomposites. Journal of Materials Chemistry A, 2019. 7(28): p. 16748-16760.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1039/c9ta04612g)
 
 ### R8 reference 207
 
 Kwak, C.-S., et al., Flexible transparent symmetric solid-state supercapacitors based on NiO-decorated nanofiber-based composite electrodes with excellent mechanical flexibility and cyclability. ACS Applied Energy Materials, 2020. 3(3): p. 2394-2403.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1021/acsaem.9b02073)
 
 ### R8 reference 208
 
 Javed, M.S., et al., Achieving high-energy density and superior cyclic stability in flexible and lightweight pseudocapacitor through synergic effects of binder-free CoGa2O4 2D-hexagonal nanoplates. Nano Energy, 2020. 77: p. 105276.
 
-Publication link pending bibliographic verification.
+[DOI record](https://doi.org/10.1016/j.nanoen.2020.105276)
 
 ### R8 reference 209
 

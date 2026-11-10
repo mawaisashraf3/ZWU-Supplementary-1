@@ -194,3 +194,17 @@ Future-challenge and opportunity roadmap for hydrogel-MXene flexible energy-stor
 - **Figure 3.** R8 references 54 and 55 point to Alam et al. (2024) and Magnuson and Mattesini (2017). These disagree with the 2021 RSC and 2023 Elsevier caption credits. Candidate sources are the RSC paper on computational discovery of MAX phases for panel a and the review on MAX phases for panels b–f. Verify exact artwork against the published originals before updating the manuscript. [RSC paper](https://doi.org/10.1039/D0NR08791B), [MAX phases review](https://doi.org/10.1016/j.mattod.2023.11.010).
 - **Figure 5.** The R4 note specifies the original source figure for each of the seven composite panels. It uses historical reference numbers. Panels c and d have inconsistent year and publisher credits in R8. Compare the original papers and licenses before reusing the crops. [R4 panel-by-panel source note](../Figure_Source_Panels/R4/Source-%20Published_Panels_Figure_5.md).
 - **Other figures.** Where a caption credits a block of panels collectively or a legacy slide omits the source figure number, finer attribution remains open.
+
+## R8 Figure 5 original published panels
+
+The R4 source note records the crop origins below. Figure numbers in the middle column refer to the original articles.
+
+| Composite panel | Original figure | Publication |
+|---|---|---|
+| a | Figure 1 | [Miner et al., Ni₃(HITP)₂ structure](https://doi.org/10.1038/ncomms10942) |
+| b | Figure 1a–c | [Xu et al., covalent organic framework on carbon nanotubes](https://doi.org/10.1038/srep08225) |
+| c | Figure 2b, d, f | [Liu et al., CAP-2 synthesis and microscopy](https://doi.org/10.1021/acsnano.7b08354) |
+| d | Figure 1a–c | [Li et al., COF/graphene aerogel](https://doi.org/10.1038/s41467-020-18427-3) |
+| e | Figures 2b and 5f | [Li et al., hydrogen-bonded framework zinc cathode](https://doi.org/10.1038/s41467-023-40969-5) |
+| f | Figure 1d | [Three-layer hydrogel electrolyte study](https://doi.org/10.1038/s41467-022-30691-z) |
+| g | Figure 4 | [Ni₃(HITP)₂ sodium-storage study](https://doi.org/10.1038/s41467-025-63772-w) |

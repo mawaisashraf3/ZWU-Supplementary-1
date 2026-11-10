@@ -1,6 +1,7 @@
 # Supplementary materials for the 2D material and hydrogel flexible energy storage review
 
-> **Publication status.** This GitHub commit contains the R8 manuscript PDF, available figure files, captions, documentation, citation records, citation maps, and the local archive inventory. Files labeled “staged locally” are in the organized local archive and are pending the bulk Git upload.
+> **Publication status.** This public snapshot contains the R8 PDF, the available figures and decks, citation records, and archive documentation. Items marked “staged locally” are pending bulk Git transfer.
+
 
 This repository accompanies **2D–Hydrogel-Based Flexible Materials for Soft Robotics, Wearable Electronics, and Biomedical Applications: Progress and Challenges** by Muhammad Awais Ashraf and Muhammad Sufyan Javed. The review examines how hydrated, mechanically compliant networks and two-dimensional materials can support energy storage in deformable devices. It connects materials and interfaces to processing, device architectures and applications in soft robotics, wearable electronics and biomedical systems.
 
@@ -11,15 +12,15 @@ Use the archive to follow the literature evidence, locate the exact figure asset
 1. Read the latest supplied R8 manuscript as a [PDF](Manuscript/Manuscript%2010%20Nov.pdf) or download the Word document (Manuscript/Manuscript 10 Nov.docx, staged locally). Use the revision history to distinguish the same-named R7 copies.
 2. Use the figure table to open a raster, caption, source map or editable PowerPoint. Download the file to view it at full resolution or edit a copy. Picture objects can be repositioned, while plot traces and labels embedded in a raster remain part of that image.
 3. Use [the data guide](Documentation/DATA_DESCRIPTION.md) for the review tables and citation CSVs. Use [the reference guide](Documentation/REFERENCE_GUIDE.md) to import the tagged records or reopen the R7 native EndNote library. For study data, follow the publication links and the corresponding data-availability statements.
-4. Download or clone this repository for the files currently published here. The largest original file fits standard GitHub Git storage. [GitHub file limits](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github).
+4. Download the current public snapshot as a ZIP or clone it to preserve relative paths. The largest original file fits standard GitHub Git storage. [GitHub file limits](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github).
 
 ## Repository folders
 
 | Folder | Contents |
 |---|---|
-| Manuscript (Manuscript, staged locally) | Latest supplied R8 Word and PDF manuscript. |
+| [Manuscript](Manuscript/) | Latest supplied R8 Word and PDF manuscript. |
 | [Manuscript_Revisions](Manuscript_Revisions/) | Earlier R1–R7 drafts, section documents, outlines and layout variants. |
-| Figures (Figures, staged locally) | Exact embedded R8 images and versioned raster exports. |
+| [Figures](Figures/) | Exact embedded R8 images and versioned raster exports. |
 | [Figure_Source_Panels](Figure_Source_Panels/) | Reference decks, published panel crops and source notes. |
 | [Editable_Presentations](Editable_Presentations/) | Editable and historical PowerPoint decks. |
 | [Figure_Captions](Figure_Captions/) | R8 captions and a historical draft with caption credit lines. |
