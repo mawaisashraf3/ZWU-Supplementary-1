@@ -113,7 +113,7 @@ Electrochemical performance, mechanical properties, adhesion, flexibility, and c
 
 Advanced MXene patterning, printing techniques, and fabrication strategies for microsupercapacitors (MSCs).
 
-- Exact R8 raster asset (Figures/R8/Figure_12.png, staged locally). Word package member word/media/image12.png. SHA-256 efeca4ac7022af87e4f756ddb95f8f6f3b57ef101ddee76f18e5c174e7e4c3b8.
+- [Exact R8 raster asset](../Figures/R8/Figure_12.png). Word package member word/media/image12.png. SHA-256 efeca4ac7022af87e4f756ddb95f8f6f3b57ef101ddee76f18e5c174e7e4c3b8.
 - [Full R8 caption](../Figure_Captions/R8_CAPTIONS.md#r8-figure-12).
 - [Corresponding editable deck](../Editable_Presentations/Legacy_Editable_Set/Figure_11.pptx) from the earlier 18-figure sequence.
 - Legacy source/reference deck (Figure_Source_Panels/Legacy/Fig.10 (Combined - 11-12) - Done/Reference Fig..pptx, staged locally). The slide labels are generic. Exact source-panel attribution requires comparing the cited articles.
@@ -123,7 +123,7 @@ Advanced MXene patterning, printing techniques, and fabrication strategies for m
 
 Fabrication, electrochemical performance, electrical interconnection, energy harvesting integration, and self-powered applications of flexible zinc-ion microbatteries (FZIMBs) and MXene-based microsupercapacitors (MSCs).
 
-- Exact R8 raster asset (Figures/R8/Figure_13.png, staged locally). Word package member word/media/image13.png. SHA-256 1ba0bd9639af7add9c5112218cb21a7985cbf0d11b97d21c82f6880487f147dd.
+- [Exact R8 raster asset](../Figures/R8/Figure_13.png). Word package member word/media/image13.png. SHA-256 1ba0bd9639af7add9c5112218cb21a7985cbf0d11b97d21c82f6880487f147dd.
 - [Full R8 caption](../Figure_Captions/R8_CAPTIONS.md#r8-figure-13).
 - [Corresponding editable deck](../Editable_Presentations/Legacy_Editable_Set/Figure_12.pptx) from the earlier 18-figure sequence.
 - Legacy source/reference deck (Figure_Source_Panels/Legacy/Fig.11- Done/Reference Fig..pptx, staged locally). The slide labels are generic. Exact source-panel attribution requires comparing the cited articles.
@@ -133,7 +133,7 @@ Fabrication, electrochemical performance, electrical interconnection, energy har
 
 Multifunctional applications, sensing performance, mechanical responsiveness, and electrochemical characterization of self-powered microsensor devices and hydrogel-based energy storage systems.
 
-- Exact R8 raster asset (Figures/R8/Figure_14.png, staged locally). Word package member word/media/image14.png. SHA-256 96126c3aeacc04e7bea709f4713ba776dffe3909d6034475ac09b8f7375d7148.
+- [Exact R8 raster asset](../Figures/R8/Figure_14.png). Word package member word/media/image14.png. SHA-256 96126c3aeacc04e7bea709f4713ba776dffe3909d6034475ac09b8f7375d7148.
 - [Full R8 caption](../Figure_Captions/R8_CAPTIONS.md#r8-figure-14).
 - [Corresponding editable deck](../Editable_Presentations/Legacy_Editable_Set/Figure_13.pptx) from the earlier 18-figure sequence.
 - Legacy source/reference deck (Figure_Source_Panels/Legacy/Fig.12- New Done/Reference Fig..pptx, staged locally). The slide labels are generic. Exact source-panel attribution requires comparing the cited articles.
@@ -143,7 +143,7 @@ Multifunctional applications, sensing performance, mechanical responsiveness, an
 
 Structural design, electrochemical performance, mechanical properties, adhesion, and self-healing characteristics of gradient-networked hydrogel electrolytes and gel polymer electrolytes (GPEs) for flexible zinc-ion batteries (ZIBs).
 
-- Exact R8 raster asset (Figures/R8/Figure_15.png, staged locally). Word package member word/media/image15.png. SHA-256 5a8b98d6ddc61a0c78904639709f6319394718187039bcbad65d44aec66a19a6.
+- [Exact R8 raster asset](../Figures/R8/Figure_15.png). Word package member word/media/image15.png. SHA-256 5a8b98d6ddc61a0c78904639709f6319394718187039bcbad65d44aec66a19a6.
 - [Full R8 caption](../Figure_Captions/R8_CAPTIONS.md#r8-figure-15).
 - [Corresponding editable deck](../Editable_Presentations/Legacy_Editable_Set/Figure_14.pptx) from the earlier 18-figure sequence.
 - Legacy source/reference deck (Figure_Source_Panels/Legacy/Fig.13- New Done/Reference Fig..pptx, staged locally). The slide labels are generic. Exact source-panel attribution requires comparing the cited articles.
@@ -153,7 +153,7 @@ Structural design, electrochemical performance, mechanical properties, adhesion,
 
 Structural design, mechanical flexibility, electrochemical performance, and wearable applications of bioinspired flexible Zn-based batteries and Ti₃C₂Tₓ CF-based fiber-shaped energy storage devices.
 
-- Exact R8 raster asset (Figures/R8/Figure_16.png, staged locally). Word package member word/media/image16.png. SHA-256 e4f7e276e847d79a21118dce1c86548295c9452ab16d0f5e28bdec92f69a33d3.
+- [Exact R8 raster asset](../Figures/R8/Figure_16.png). Word package member word/media/image16.png. SHA-256 e4f7e276e847d79a21118dce1c86548295c9452ab16d0f5e28bdec92f69a33d3.
 - [Full R8 caption](../Figure_Captions/R8_CAPTIONS.md#r8-figure-16).
 - [Corresponding editable deck](../Editable_Presentations/Legacy_Editable_Set/Figure_15.pptx) from the earlier 18-figure sequence.
 - Legacy source/reference deck (Figure_Source_Panels/Legacy/Fig.14- New Done/Reference Fig..pptx, staged locally). The slide labels are generic. Exact source-panel attribution requires comparing the cited articles.
@@ -163,7 +163,7 @@ Structural design, mechanical flexibility, electrochemical performance, and wear
 
 Electrochemical performance, mechanical flexibility, and wearable health-monitoring applications of flexible energy storage and sensing devices.
 
-- Exact R8 raster asset (Figures/R8/Figure_17.png, staged locally). Word package member word/media/image17.png. SHA-256 301e9beb92f985b32d7ce11816d81adbcf989568b37cd539bdce5b876e97457a.
+- [Exact R8 raster asset](../Figures/R8/Figure_17.png). Word package member word/media/image17.png. SHA-256 301e9beb92f985b32d7ce11816d81adbcf989568b37cd539bdce5b876e97457a.
 - [Full R8 caption](../Figure_Captions/R8_CAPTIONS.md#r8-figure-17).
 - [Corresponding editable deck](../Editable_Presentations/Legacy_Editable_Set/Figure_16.pptx) from the earlier 18-figure sequence.
 - Legacy source/reference deck (Figure_Source_Panels/Legacy/Fig.16 - New Done/Reference Fig..pptx, staged locally). The slide labels are generic. Exact source-panel attribution requires comparing the cited articles.
@@ -173,7 +173,7 @@ Electrochemical performance, mechanical flexibility, and wearable health-monitor
 
 Electrochemical performance, structural configurations, packaging strategies, degradation behavior, and biodegradability of flexible and biodegradable energy storage devices.
 
-- Exact R8 raster asset (Figures/R8/Figure_18.png, staged locally). Word package member word/media/image18.png. SHA-256 bd113c3af69c7be477cfd505d1275988a6e6a1c4e6be410f211f5febe18d1eb7.
+- [Exact R8 raster asset](../Figures/R8/Figure_18.png). Word package member word/media/image18.png. SHA-256 bd113c3af69c7be477cfd505d1275988a6e6a1c4e6be410f211f5febe18d1eb7.
 - [Full R8 caption](../Figure_Captions/R8_CAPTIONS.md#r8-figure-18).
 - [Corresponding editable deck](../Editable_Presentations/Legacy_Editable_Set/Figure_17.pptx) from the earlier 18-figure sequence.
 - Legacy source/reference deck (Figure_Source_Panels/Legacy/Fig.15 - New Done/Reference Fig..pptx, staged locally). The slide labels are generic. Exact source-panel attribution requires comparing the cited articles.
@@ -183,7 +183,7 @@ Electrochemical performance, structural configurations, packaging strategies, de
 
 Future-challenge and opportunity roadmap for hydrogel-MXene flexible energy-storage systems in soft mechatronics.
 
-- Exact R8 raster asset (Figures/R8/Figure_19.png, staged locally). Word package member word/media/image19.png. SHA-256 d9f1f3fd416a471d4fe284ec6fcbedeea5c41f91d06c8d06513141b7a25d1e54.
+- [Exact R8 raster asset](../Figures/R8/Figure_19.png). Word package member word/media/image19.png. SHA-256 d9f1f3fd416a471d4fe284ec6fcbedeea5c41f91d06c8d06513141b7a25d1e54.
 - [Full R8 caption](../Figure_Captions/R8_CAPTIONS.md#r8-figure-19).
 - [Corresponding editable deck](../Editable_Presentations/Legacy_Editable_Set/Figure_18.pptx) from the earlier 18-figure sequence.
 - Legacy source/reference deck (Figure_Source_Panels/Legacy/Fig.17 - Done/Reference Fig..pptx, staged locally). The slide labels are generic. Exact source-panel attribution requires comparing the cited articles.
