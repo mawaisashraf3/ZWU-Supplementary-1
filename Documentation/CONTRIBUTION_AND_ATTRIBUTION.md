@@ -1,0 +1,9 @@
+# Contribution and attribution
+
+Muhammad Awais Ashraf and Muhammad Sufyan Javed are named on the R8 review. The archive preserves their review manuscript, the organization and synthesis of published results, its drafts and editing materials, and the documentation used to trace those materials. Measurements, plots, micrographs and reproduced scientific artwork remain attributable to the original researchers and rights holders credited in the figure captions and original papers. Editable assembly and labeling of a composite are separate from authorship of its embedded artwork.
+
+The project owner confirmed permission to publish the supplied research materials in this public GitHub repository. The archive preserves the caption credit lines and any supplied attribution evidence. It does not contain separate grants for each panel or a repository-wide redistribution license. Check the applicable rights and required credit for any onward copying, adaptation, or republication. A caption that reports permission is a record of the manuscript’s assertion. Its scope should be checked with the rights holder where the grant itself is unavailable. Publisher artwork and third-party files retain their original terms.
+
+The [source map](FIGURE_SOURCE_MAPPING.md) identifies which credits and source panels can be traced from the supplied record, including discrepancies in Figures 3 and 5. The R5 published layout exemplar is Dieterich et al., Energy & Environmental Science (2020), and is credited to its authors and the Royal Society of Chemistry. [Publisher record](https://pubs.rsc.org/en/content/articlelanding/2020/ee/d0ee01187h).
+
+Acknowledgement is due to the researchers who produced the underlying work, the publishers and rights holders, and the contributors acknowledged in the manuscript. Cite both the review archive for its synthesis and the specific original publication for any reused result or panel.

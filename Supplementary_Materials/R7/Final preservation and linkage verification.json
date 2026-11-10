@@ -1,0 +1,34 @@
+{
+  "target": "Manuscript 10 Nov.docx",
+  "original_sha256": "c29f662e2aca14dbb234208f0363ae83c094988690cbe75e31329b09767b581c",
+  "noncitation_text_differences": [],
+  "body_paragraph_count": 591,
+  "paragraph_property_differences": [],
+  "source_counts": {
+    "tables": 5,
+    "drawings": 19,
+    "sections": 48,
+    "equations": 21
+  },
+  "final_counts": {
+    "tables": 5,
+    "drawings": 19,
+    "sections": 48,
+    "equations": 21
+  },
+  "media_files": 19,
+  "media_byte_identical": true,
+  "equations_identical": true,
+  "section_layout_properties_identical": true,
+  "table_properties_identical": true,
+  "endnote_cite_instructions": 493,
+  "endnote_data_instructions": 138,
+  "linked_bibliography_fields": 1,
+  "unique_cited_records": 209,
+  "missing_cited_record_ids": [],
+  "citation_metadata_mismatches": [],
+  "bibliography_entries": 209,
+  "bibliography_numbers_sequential": true,
+  "numbered_style": true,
+  "remaining_temporary_citations": false
+}

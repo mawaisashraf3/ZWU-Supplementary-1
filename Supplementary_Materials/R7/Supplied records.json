@@ -1,0 +1,8273 @@
+[
+  {
+    "number": 1,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Opportunities of flexible and portable electrochemical devices for energy storage: expanding the spotlight onto semi-solid/solid electrolytes"
+      ],
+      "A": [
+        "Fan, Xiayue",
+        "Zhong, Cheng",
+        "Liu, Jie",
+        "Ding, Jia",
+        "Deng, Yida",
+        "Han, Xiaopeng",
+        "Zhang, Lei",
+        "Hu, Wenbin",
+        "Wilkinson, David P",
+        "Zhang, Jiujun"
+      ],
+      "J": [
+        "Chemical Reviews"
+      ],
+      "V": [
+        "122"
+      ],
+      "N": [
+        "23"
+      ],
+      "P": [
+        "17155-17239"
+      ],
+      "@": [
+        "0009-2665"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 2,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Hydrogel interfaces for merging humans and machines"
+      ],
+      "A": [
+        "Yuk, Hyunwoo",
+        "Wu, Jingjing",
+        "Zhao, Xuanhe"
+      ],
+      "J": [
+        "Nature Reviews Materials"
+      ],
+      "V": [
+        "7"
+      ],
+      "N": [
+        "12"
+      ],
+      "P": [
+        "935-952"
+      ],
+      "@": [
+        "2058-8437"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "Nature Publishing Group UK, London"
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Conductive hydrogels for bioenergy harvesting and self-powered application"
+      ],
+      "A": [
+        "Zhang, Chenyang",
+        "Nayeem, Md Osman Goni",
+        "Wang, Zhiqi",
+        "Pu, Xiong",
+        "Dagdeviren, Canan",
+        "Wang, Zhong Lin",
+        "Zhang, Xiaohong",
+        "Liu, Ruiyuan"
+      ],
+      "J": [
+        "Progress in Materials Science"
+      ],
+      "V": [
+        "138"
+      ],
+      "P": [
+        "101156"
+      ],
+      "@": [
+        "0079-6425"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 4,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "MXene hydrogels: fundamentals and applications"
+      ],
+      "A": [
+        "Zhang, Yi-Zhou",
+        "El-Demellawi, Jehad K",
+        "Jiang, Qiu",
+        "Ge, Gang",
+        "Liang, Hanfeng",
+        "Lee, Kanghyuck",
+        "Dong, Xiaochen",
+        "Alshareef, Husam N"
+      ],
+      "J": [
+        "Chemical Society Reviews"
+      ],
+      "V": [
+        "49"
+      ],
+      "N": [
+        "20"
+      ],
+      "P": [
+        "7229-7251"
+      ],
+      "@": [
+        "0306-0012"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 5,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Nanoengineering of 2D MXene‐based materials for energy storage applications"
+      ],
+      "A": [
+        "Nan, Jianxiao",
+        "Guo, Xin",
+        "Xiao, Jun",
+        "Li, Xiao",
+        "Chen, Weihua",
+        "Wu, Wenjian",
+        "Liu, Hao",
+        "Wang, Yong",
+        "Wu, Minghong",
+        "Wang, Guoxiu"
+      ],
+      "J": [
+        "Small"
+      ],
+      "V": [
+        "17"
+      ],
+      "N": [
+        "9"
+      ],
+      "P": [
+        "1902085"
+      ],
+      "@": [
+        "1613-6810"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 6,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Flexible MXene–hydrogel mechatronics for next-generation energy storage applications: a review"
+      ],
+      "A": [
+        "Ashraf, Muhammad Awais",
+        "Wong, Kelvin KL",
+        "Javed, Muhammad Sufyan",
+        "Zhang, WJ Chris"
+      ],
+      "J": [
+        "Energy Storage Materials"
+      ],
+      "P": [
+        "104765"
+      ],
+      "@": [
+        "2405-8297"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 7,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "MXene based hybrid materials for supercapacitors: Recent developments and future perspectives"
+      ],
+      "A": [
+        "Thomas, Susmi Anna",
+        "Patra, Abhinandan",
+        "Al-Shehri, Badria M",
+        "Selvaraj, Manickam",
+        "Aravind, Arun",
+        "Rout, Chandra Sekhar"
+      ],
+      "J": [
+        "Journal of Energy Storage"
+      ],
+      "V": [
+        "55"
+      ],
+      "P": [
+        "105765"
+      ],
+      "@": [
+        "2352-152X"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 8,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "MXene based emerging materials for supercapacitor applications: Recent advances, challenges, and future perspectives"
+      ],
+      "A": [
+        "Panda, Subhasree",
+        "Deshmukh, Kalim",
+        "Pasha, SK Khadheer",
+        "Theerthagiri, Jayaraman",
+        "Manickam, Sivakumar",
+        "Choi, Myong Yong"
+      ],
+      "J": [
+        "Coordination Chemistry Reviews"
+      ],
+      "V": [
+        "462"
+      ],
+      "P": [
+        "214518"
+      ],
+      "@": [
+        "0010-8545"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 9,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "A flexible multifunctional triboelectric nanogenerator based on MXene/PVA hydrogel"
+      ],
+      "A": [
+        "Luo, Xiongxin",
+        "Zhu, Laipan",
+        "Wang, Yi‐Chi",
+        "Li, Jiayu",
+        "Nie, Jiajia",
+        "Wang, Zhong Lin"
+      ],
+      "J": [
+        "Advanced Functional Materials"
+      ],
+      "V": [
+        "31"
+      ],
+      "N": [
+        "38"
+      ],
+      "P": [
+        "2104928"
+      ],
+      "@": [
+        "1616-301X"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 10,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Recent trends in MXene polymeric hydrogel bionanoarchitectures and applications"
+      ],
+      "A": [
+        "Idumah, Christopher Igwe"
+      ],
+      "J": [
+        "Cleaner Materials"
+      ],
+      "V": [
+        "5"
+      ],
+      "P": [
+        "100103"
+      ],
+      "@": [
+        "2772-3976"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 11,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Supercritical fluid assisted synthesis of titanium carbide particles embedded in mesoporous carbon for advanced Li-S batteries"
+      ],
+      "A": [
+        "Huang, Hui",
+        "Liu, Junjie",
+        "Xia, Yang",
+        "Cheng, Cheng",
+        "Liang, Chu",
+        "Gan, Yongping",
+        "Zhang, Jun",
+        "Tao, Xinyong",
+        "Zhang, Wenkui"
+      ],
+      "J": [
+        "Journal of Alloys and Compounds"
+      ],
+      "V": [
+        "706"
+      ],
+      "P": [
+        "227-233"
+      ],
+      "@": [
+        "0925-8388"
+      ],
+      "D": [
+        "2017"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 12,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Recent developments of artificial intelligence in MXene-based devices: from synthesis to applications"
+      ],
+      "A": [
+        "Hussain, Talib",
+        "Chandio, Imamdin",
+        "Ali, Akbar",
+        "Hyder, Ali",
+        "Memon, Ayaz Ali",
+        "Yang, Jun",
+        "Thebo, Khalid Hussain"
+      ],
+      "J": [
+        "Nanoscale"
+      ],
+      "V": [
+        "16"
+      ],
+      "N": [
+        "38"
+      ],
+      "P": [
+        "17723-17760"
+      ],
+      "@": [
+        "2040-3364"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 13,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Mucosa-interfacing electronics"
+      ],
+      "A": [
+        "Nan, Kewang",
+        "Feig, Vivian R",
+        "Ying, Binbin",
+        "Howarth, Julia G",
+        "Kang, Ziliang",
+        "Yang, Yiyuan",
+        "Traverso, Giovanni"
+      ],
+      "J": [
+        "Nature Reviews Materials"
+      ],
+      "V": [
+        "7"
+      ],
+      "N": [
+        "11"
+      ],
+      "P": [
+        "908-925"
+      ],
+      "@": [
+        "2058-8437"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "Nature Publishing Group UK, London"
+      ]
+    }
+  },
+  {
+    "number": 14,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Degradation behavior, biocompatibility, electrochemical performance, and circularity potential of transient batteries"
+      ],
+      "A": [
+        "Mittal, Neeru",
+        "Ojanguren, Alazne",
+        "Niederberger, Markus",
+        "Lizundia, Erlantz"
+      ],
+      "J": [
+        "Advanced Science"
+      ],
+      "V": [
+        "8"
+      ],
+      "N": [
+        "12"
+      ],
+      "P": [
+        "2004814"
+      ],
+      "@": [
+        "2198-3844"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 15,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Healable, degradable, and conductive MXene nanocomposite hydrogel for multifunctional epidermal sensors"
+      ],
+      "A": [
+        "Li, Xiaobin",
+        "He, Lingzhang",
+        "Li, Yanfei",
+        "Chao, Mingyuan",
+        "Li, Mingkun",
+        "Wan, Pengbo",
+        "Zhang, Liqun"
+      ],
+      "J": [
+        "ACS nano"
+      ],
+      "V": [
+        "15"
+      ],
+      "N": [
+        "4"
+      ],
+      "P": [
+        "7765-7773"
+      ],
+      "@": [
+        "1936-0851"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 16,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Progress and perspectives in designing flexible microsupercapacitors"
+      ],
+      "A": [
+        "Li, La",
+        "Hu, Chuqiao",
+        "Liu, Weijia",
+        "Shen, Guozhen"
+      ],
+      "J": [
+        "Micromachines"
+      ],
+      "V": [
+        "12"
+      ],
+      "N": [
+        "11"
+      ],
+      "P": [
+        "1305"
+      ],
+      "@": [
+        "2072-666X"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "MDPI"
+      ]
+    }
+  },
+  {
+    "number": 17,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Extremely flexible and mechanically durable planar supercapacitors: High energy density and low-cost power source for E-skin electronics"
+      ],
+      "A": [
+        "Yun, Yeonghun",
+        "Nandanapalli, Koteeswara Reddy",
+        "Choi, Ji-Hyuk",
+        "Son, Wonkyeong",
+        "Choi, Changsoon",
+        "Lee, Sungwon"
+      ],
+      "J": [
+        "Nano Energy"
+      ],
+      "V": [
+        "78"
+      ],
+      "P": [
+        "105356"
+      ],
+      "@": [
+        "2211-2855"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 18,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Flexible self‐powered integrated sensing system with 3D periodic ordered black phosphorus@ MXene thin‐films"
+      ],
+      "A": [
+        "Zhang, Yupu",
+        "Wang, Lili",
+        "Zhao, Lianjia",
+        "Wang, Kang",
+        "Zheng, Yiqiang",
+        "Yuan, Zeyu",
+        "Wang, Dongyi",
+        "Fu, Xiyao",
+        "Shen, Guozhen",
+        "Han, Wei"
+      ],
+      "J": [
+        "Advanced Materials"
+      ],
+      "V": [
+        "33"
+      ],
+      "N": [
+        "22"
+      ],
+      "P": [
+        "2007890"
+      ],
+      "@": [
+        "0935-9648"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 19,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Multitasking MXene inks enable high‐performance printable microelectrochemical energy storage devices for all‐flexible self‐powered integrated systems"
+      ],
+      "A": [
+        "Zheng, Shuanghao",
+        "Wang, Hui",
+        "Das, Pratteek",
+        "Zhang, Ying",
+        "Cao, Yuexian",
+        "Ma, Jiaxin",
+        "Liu, Shengzhong",
+        "Wu, Zhong‐Shuai"
+      ],
+      "J": [
+        "Advanced Materials"
+      ],
+      "V": [
+        "33"
+      ],
+      "N": [
+        "10"
+      ],
+      "P": [
+        "2005449"
+      ],
+      "@": [
+        "0935-9648"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 20,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Room-temperature high-precision printing of flexible wireless electronics based on MXene inks"
+      ],
+      "A": [
+        "Shao, Yuzhou",
+        "Wei, Lusong",
+        "Wu, Xinyue",
+        "Jiang, Chengmei",
+        "Yao, Yao",
+        "Peng, Bo",
+        "Chen, Han",
+        "Huangfu, Jiangtao",
+        "Ying, Yibin",
+        "Zhang, Chuanfang John"
+      ],
+      "J": [
+        "Nature communications"
+      ],
+      "V": [
+        "13"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "3223"
+      ],
+      "@": [
+        "2041-1723"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "Nature Publishing Group UK, London"
+      ]
+    }
+  },
+  {
+    "number": 21,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Three-dimensional polymer networks for solid-state electrochemical energy storage"
+      ],
+      "A": [
+        "Xu, Zhong",
+        "Chu, Xiang",
+        "Wang, Yihan",
+        "Zhang, Haitao",
+        "Yang, Weiqing"
+      ],
+      "J": [
+        "Chemical Engineering Journal"
+      ],
+      "V": [
+        "391"
+      ],
+      "P": [
+        "123548"
+      ],
+      "@": [
+        "1385-8947"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 22,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Soft hybrid scaffold (SHS) strategy for realization of ultrahigh energy density of wearable aqueous supercapacitors"
+      ],
+      "A": [
+        "Shang, Jian",
+        "Huang, Qiyao",
+        "Wang, Lei",
+        "Yang, Yu",
+        "Li, Peng",
+        "Zheng, Zijian"
+      ],
+      "J": [
+        "Advanced Materials"
+      ],
+      "V": [
+        "32"
+      ],
+      "N": [
+        "4"
+      ],
+      "P": [
+        "1907088"
+      ],
+      "@": [
+        "0935-9648"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 23,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Structural strategies for supramolecular hydrogels and their applications"
+      ],
+      "A": [
+        "Sánchez-Fernández, José Antonio"
+      ],
+      "J": [
+        "Polymers"
+      ],
+      "V": [
+        "15"
+      ],
+      "N": [
+        "6"
+      ],
+      "P": [
+        "1365"
+      ],
+      "@": [
+        "2073-4360"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "MDPI"
+      ]
+    }
+  },
+  {
+    "number": 24,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Self‐healing polymers based on coordination bonds"
+      ],
+      "A": [
+        "Li, Cheng‐Hui",
+        "Zuo, Jing‐Lin"
+      ],
+      "J": [
+        "Advanced Materials"
+      ],
+      "V": [
+        "32"
+      ],
+      "N": [
+        "27"
+      ],
+      "P": [
+        "1903762"
+      ],
+      "@": [
+        "0935-9648"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 25,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Engineering smart composite hydrogels for wearable disease monitoring"
+      ],
+      "A": [
+        "Li, Jianye",
+        "Ding, Qiongling",
+        "Wang, Hao",
+        "Wu, Zixuan",
+        "Gui, Xuchun",
+        "Li, Chunwei",
+        "Hu, Ning",
+        "Tao, Kai",
+        "Wu, Jin"
+      ],
+      "J": [
+        "Nano-micro letters"
+      ],
+      "V": [
+        "15"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "105"
+      ],
+      "@": [
+        "2311-6706"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Springer"
+      ]
+    }
+  },
+  {
+    "number": 26,
+    "fields": {
+      "0": [
+        "Generic"
+      ],
+      "T": [
+        "The rise of MXenes"
+      ],
+      "A": [
+        "Gogotsi, Yury",
+        "Anasori, Babak"
+      ],
+      "J": [
+        "ACS nano"
+      ],
+      "V": [
+        "13"
+      ],
+      "N": [
+        "8"
+      ],
+      "P": [
+        "8491-8494"
+      ],
+      "@": [
+        "1936-0851"
+      ],
+      "D": [
+        "2019"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 27,
+    "fields": {
+      "0": [
+        "Book Section"
+      ],
+      "T": [
+        "677 2D Metal Carbides and Nitrides (MXenes) for Energy Storage"
+      ],
+      "A": [
+        "Anasori, Babak",
+        "Lukatskaya, Maria R",
+        "Gogotsi, Yury"
+      ],
+      "B": [
+        "MXenes: From Discovery to Applications of Two-Dimensional Metal Carbides and Nitrides"
+      ],
+      "P": [
+        "677-722"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Jenny Stanford Publishing"
+      ]
+    }
+  },
+  {
+    "number": 28,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Two-dimensional transition metal carbides"
+      ],
+      "A": [
+        "Naguib, Michael",
+        "Mashtalir, Olha",
+        "Carle, Joshua",
+        "Presser, Volker",
+        "Lu, Jun",
+        "Hultman, Lars",
+        "Gogotsi, Yury",
+        "Barsoum, Michel W"
+      ],
+      "J": [
+        "ACS nano"
+      ],
+      "V": [
+        "6"
+      ],
+      "N": [
+        "2"
+      ],
+      "P": [
+        "1322-1331"
+      ],
+      "@": [
+        "1936-0851"
+      ],
+      "D": [
+        "2012"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 29,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Emerging MBenes for Energy Technologies"
+      ],
+      "A": [
+        "Ding, Yingrui",
+        "Li, Hongyang",
+        "Qian, Pengsen",
+        "Huang, Zhanpeng",
+        "Cai, Wenlong",
+        "Li, Gaoran"
+      ],
+      "J": [
+        "Rare Metals"
+      ],
+      "V": [
+        "45"
+      ],
+      "N": [
+        "6"
+      ],
+      "P": [
+        "e70346"
+      ],
+      "@": [
+        "1001-0521"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 30,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Interface chemistry on MXene‐based materials for enhanced energy storage and conversion performance"
+      ],
+      "A": [
+        "Hui, Xiaobin",
+        "Ge, Xiaoli",
+        "Zhao, Ruizheng",
+        "Li, Zhaoqiang",
+        "Yin, Longwei"
+      ],
+      "J": [
+        "Advanced Functional Materials"
+      ],
+      "V": [
+        "30"
+      ],
+      "N": [
+        "50"
+      ],
+      "P": [
+        "2005190"
+      ],
+      "@": [
+        "1616-301X"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 31,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Conductive MXene nanocomposite organohydrogel for flexible, healable, low‐temperature tolerant strain sensors"
+      ],
+      "A": [
+        "Liao, Hui",
+        "Guo, Xuelin",
+        "Wan, Pengbo",
+        "Yu, Guihua"
+      ],
+      "J": [
+        "Advanced Functional Materials"
+      ],
+      "V": [
+        "29"
+      ],
+      "N": [
+        "39"
+      ],
+      "P": [
+        "1904507"
+      ],
+      "@": [
+        "1616-301X"
+      ],
+      "D": [
+        "2019"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 32,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "One stone for three birds: One-step engineering highly elastic and conductive hydrogel electronics with multilayer MXene as initiator, crosslinker and conductive filler simultaneously"
+      ],
+      "A": [
+        "Huang, Jiahui",
+        "Huang, Xianwu",
+        "Wu, Peiyi"
+      ],
+      "J": [
+        "Chemical Engineering Journal"
+      ],
+      "V": [
+        "428"
+      ],
+      "P": [
+        "132515"
+      ],
+      "@": [
+        "1385-8947"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 33,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Highly conductive V4C3T x MXene-enhanced polyvinyl alcohol hydrogel electrolytes for flexible all-solid-state supercapacitors"
+      ],
+      "A": [
+        "Bin, Xiaoqing",
+        "Sheng, Minhao",
+        "Que, Wenxiu"
+      ],
+      "J": [
+        "Frontiers in Chemistry"
+      ],
+      "V": [
+        "12"
+      ],
+      "P": [
+        "1482072"
+      ],
+      "@": [
+        "2296-2646"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "Frontiers Media SA"
+      ]
+    }
+  },
+  {
+    "number": 34,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Supramolecular Self‐Assembled, Conductive, Mechanically Flexible MXene Cross‐Linked Polypyrrole Hydrogel for Wearable Energy Storage Applications"
+      ],
+      "A": [
+        "Thiruchelvam, Prathyumnan",
+        "Dasmahapatra, Ashok Kumar"
+      ],
+      "J": [
+        "Small"
+      ],
+      "V": [
+        "21"
+      ],
+      "N": [
+        "34"
+      ],
+      "P": [
+        "2502286"
+      ],
+      "@": [
+        "1613-6810"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 35,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "3D N-doped Ti3C2TX/reduced graphene oxide hybrid hydrogel achieved by gelation for high performance zinc-ion hybrid supercapacitor"
+      ],
+      "A": [
+        "Wang, Xingyu",
+        "Wang, Haiping",
+        "Li, Zhiqiang",
+        "Yan, Wenjie",
+        "He, Jiaqi",
+        "Qiu, Zenghui",
+        "Zhang, Xin",
+        "Xu, Haijun"
+      ],
+      "J": [
+        "Journal of Power Sources"
+      ],
+      "V": [
+        "687"
+      ],
+      "P": [
+        "240581"
+      ],
+      "@": [
+        "0378-7753"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 36,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Self-assembled ultrathick MoS2 conductive hydrogel membrane via ionic gelation for superior capacitive energy storage"
+      ],
+      "A": [
+        "Shi, Yayun",
+        "Liu, Congcong",
+        "Zuo, Zhijun",
+        "Yang, Xiaowei"
+      ],
+      "J": [
+        "Chinese Chemical Letters"
+      ],
+      "V": [
+        "36"
+      ],
+      "N": [
+        "6"
+      ],
+      "P": [
+        "109772"
+      ],
+      "@": [
+        "1001-8417"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 37,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Construction of MoOx/MoB heterojunction confined on sponge-like MoB MBene as the anode for high-performance lithium-ion cells with improved low-temperature tolerance"
+      ],
+      "A": [
+        "Chen, Zhongwei",
+        "Xu, Chunyan",
+        "Tian, Kai",
+        "Liang, Tianyi",
+        "Wang, Zechao",
+        "Chang, Yu",
+        "Yang, Liying",
+        "Yin, Shougen"
+      ],
+      "J": [
+        "Journal of Energy Storage"
+      ],
+      "V": [
+        "154"
+      ],
+      "P": [
+        "121195"
+      ],
+      "@": [
+        "2352-152X"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 38,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "An MBene-based colloidal electrolyte for high depth-of-discharge and energy-density 2 Ah-scale Zn metal batteries"
+      ],
+      "A": [
+        "Qin, Hongyu",
+        "Liu, Ao",
+        "Ouyang, Kefeng",
+        "Chen, Sheng",
+        "Wei, Shubing",
+        "Huang, Yan"
+      ],
+      "J": [
+        "Energy & Environmental Science"
+      ],
+      "V": [
+        "18"
+      ],
+      "N": [
+        "19"
+      ],
+      "P": [
+        "8941-8951"
+      ],
+      "@": [
+        "1754-5692"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 39,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "MXene printing and patterned coating for device applications"
+      ],
+      "A": [
+        "Zhang, Yi‐Zhou",
+        "Wang, Yang",
+        "Jiang, Qiu",
+        "El‐Demellawi, Jehad K",
+        "Kim, Hyunho",
+        "Alshareef, Husam N"
+      ],
+      "J": [
+        "Advanced Materials"
+      ],
+      "V": [
+        "32"
+      ],
+      "N": [
+        "21"
+      ],
+      "P": [
+        "1908486"
+      ],
+      "@": [
+        "0935-9648"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 40,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "An All‐MXene‐Based Flexible, Seamless System with Integrated Wireless Charging Coil, Micro‐Supercapacitor, and Photodetector"
+      ],
+      "A": [
+        "Duan, Zhongyi",
+        "Hu, Chuqiao",
+        "Liu, Weijia",
+        "Liu, Jinhai",
+        "Chu, Zhengyu",
+        "Yang, Weiqing",
+        "Li, La",
+        "Shen, Guozhen"
+      ],
+      "J": [
+        "Advanced Materials Technologies"
+      ],
+      "V": [
+        "8"
+      ],
+      "N": [
+        "15"
+      ],
+      "P": [
+        "2300157"
+      ],
+      "@": [
+        "2365-709X"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 41,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "3D porous oxidation‐resistant MXene/graphene architectures induced by in situ zinc template toward high‐performance supercapacitors"
+      ],
+      "A": [
+        "Yang, Xue",
+        "Wang, Qian",
+        "Zhu, Kai",
+        "Ye, Ke",
+        "Wang, Guiling",
+        "Cao, Dianxue",
+        "Yan, Jun"
+      ],
+      "J": [
+        "Advanced Functional Materials"
+      ],
+      "V": [
+        "31"
+      ],
+      "N": [
+        "20"
+      ],
+      "P": [
+        "2101087"
+      ],
+      "@": [
+        "1616-301X"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 42,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "High‐performance organic–inorganic hybrid conductive hydrogels for stretchable elastic all‐hydrogel supercapacitors and flexible self‐powered integrated systems"
+      ],
+      "A": [
+        "Cheng, Tao",
+        "Liu, Zhong‐Ting",
+        "Qu, Jie",
+        "Meng, Chao‐Fu",
+        "He, Ling‐Jun",
+        "Li, Lang",
+        "Yang, Xuan‐Li",
+        "Cao, Yu‐Jie",
+        "Han, Kai",
+        "Zhang, Yi‐Zhou"
+      ],
+      "J": [
+        "Advanced Science"
+      ],
+      "V": [
+        "11"
+      ],
+      "N": [
+        "34"
+      ],
+      "P": [
+        "2403358"
+      ],
+      "@": [
+        "2198-3844"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 43,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Three‐dimensional MXenes for supercapacitors: a review"
+      ],
+      "A": [
+        "Li, Kangle",
+        "Li, Jiapeng",
+        "Zhu, Qizhen",
+        "Xu, Bin"
+      ],
+      "J": [
+        "Small Methods"
+      ],
+      "V": [
+        "6"
+      ],
+      "N": [
+        "4"
+      ],
+      "P": [
+        "2101537"
+      ],
+      "@": [
+        "2366-9608"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 44,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Ti3C2T x‑Based Three-Dimensional Hydrogel by a Graphene Oxide-Assisted Self-Convergence Process for Enhanced Photoredox Catalysis"
+      ],
+      "A": [
+        "Chen, Yan",
+        "Xie, Xiuqiang",
+        "Xin, Xin",
+        "Tang, Zi-Rong",
+        "Xu, Yi-Jun"
+      ],
+      "J": [
+        "Acs Nano"
+      ],
+      "V": [
+        "13"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "295-304"
+      ],
+      "@": [
+        "1936-0851"
+      ],
+      "D": [
+        "2019"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 45,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Spider web-inspired ultra-stable 3D Ti3C2TX (MXene) hydrogels constructed by temporary ultrasonic alignment and permanent in-situ self-assembly fixation"
+      ],
+      "A": [
+        "Wang, Qinhua",
+        "Pan, Xiaofeng",
+        "Wang, Xinpin",
+        "Gao, Haili",
+        "Chen, Yongbiao",
+        "Chen, Lei",
+        "Ni, Yonghao",
+        "Cao, Shilin",
+        "Ma, Xiaojuan"
+      ],
+      "J": [
+        "Composites Part B: Engineering"
+      ],
+      "V": [
+        "197"
+      ],
+      "P": [
+        "108187"
+      ],
+      "@": [
+        "1359-8368"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 46,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Smart/stimuli-responsive hydrogels: Cutting-edge platforms for tissue engineering and other biomedical applications"
+      ],
+      "A": [
+        "El-Husseiny, Hussein M",
+        "Mady, Eman A",
+        "Hamabe, Lina",
+        "Abugomaa, Amira",
+        "Shimada, Kazumi",
+        "Yoshida, Tomohiko",
+        "Tanaka, Takashi",
+        "Yokoi, Aimi",
+        "Elbadawy, Mohamed",
+        "Tanaka, Ryou"
+      ],
+      "J": [
+        "Materials Today Bio"
+      ],
+      "V": [
+        "13"
+      ],
+      "P": [
+        "100186"
+      ],
+      "@": [
+        "2590-0064"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 47,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Construction and ion transport-related applications of the hydrogel-based membrane with 3D nanochannels"
+      ],
+      "A": [
+        "Hou, Yushuang",
+        "Ma, Shuhui",
+        "Hao, Jinlin",
+        "Lin, Cuncai",
+        "Zhao, Jiawei",
+        "Sui, Xin"
+      ],
+      "J": [
+        "Polymers"
+      ],
+      "V": [
+        "14"
+      ],
+      "N": [
+        "19"
+      ],
+      "P": [
+        "4037"
+      ],
+      "@": [
+        "2073-4360"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "MDPI"
+      ]
+    }
+  },
+  {
+    "number": 48,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Stretchable, stable, and room-temperature gas sensors based on self-healing and transparent organohydrogels"
+      ],
+      "A": [
+        "Wu, Jin",
+        "Wu, Zixuan",
+        "Huang, Wenxi",
+        "Yang, Xing",
+        "Liang, Yuning",
+        "Tao, Kai",
+        "Yang, Bo-Ru",
+        "Shi, Wenxiong",
+        "Xie, Xi"
+      ],
+      "J": [
+        "ACS applied materials & interfaces"
+      ],
+      "V": [
+        "12"
+      ],
+      "N": [
+        "46"
+      ],
+      "P": [
+        "52070-52081"
+      ],
+      "@": [
+        "1944-8244"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 49,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "A chemically crosslinked hydrogel electrolyte based all-in-one flexible supercapacitor with superior performance"
+      ],
+      "A": [
+        "Guo, Lin",
+        "Ma, Wen-Bin",
+        "Wang, Yao",
+        "Song, Xiang-Zhu",
+        "Ma, Jie",
+        "Han, Xiao-Dong",
+        "Tao, Xue-Yu",
+        "Guo, Li-Tong",
+        "Fan, He-Liang",
+        "Liu, Zhang-Sheng"
+      ],
+      "J": [
+        "Journal of Alloys and Compounds"
+      ],
+      "V": [
+        "843"
+      ],
+      "P": [
+        "155895"
+      ],
+      "@": [
+        "0925-8388"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 50,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Extremely stretchable thermosensitive hydrogels by introducing slide-ring polyrotaxane cross-linkers and ionic groups into the polymer network"
+      ],
+      "A": [
+        "Bin Imran, Abu",
+        "Esaki, Kenta",
+        "Gotoh, Hiroaki",
+        "Seki, Takahiro",
+        "Ito, Kohzo",
+        "Sakai, Yasuhiro",
+        "Takeoka, Yukikazu"
+      ],
+      "J": [
+        "Nature communications"
+      ],
+      "V": [
+        "5"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "5124"
+      ],
+      "@": [
+        "2041-1723"
+      ],
+      "D": [
+        "2014"
+      ],
+      "I": [
+        "Nature Publishing Group UK, London"
+      ]
+    }
+  },
+  {
+    "number": 51,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Muscle‐inspired highly anisotropic, strong, ion‐conductive hydrogels"
+      ],
+      "A": [
+        "Kong, Weiqing",
+        "Wang, Chengwei",
+        "Jia, Chao",
+        "Kuang, Yudi",
+        "Pastel, Glenn",
+        "Chen, Chaoji",
+        "Chen, Gegu",
+        "He, Shuaiming",
+        "Huang, Hao",
+        "Zhang, Jianhua"
+      ],
+      "J": [
+        "Advanced Materials"
+      ],
+      "V": [
+        "30"
+      ],
+      "N": [
+        "39"
+      ],
+      "P": [
+        "1801934"
+      ],
+      "@": [
+        "0935-9648"
+      ],
+      "D": [
+        "2018"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 52,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Tissue adhesive hydrogel bioelectronics"
+      ],
+      "A": [
+        "Li, Shengnan",
+        "Cong, Yang",
+        "Fu, Jun"
+      ],
+      "J": [
+        "Journal of Materials Chemistry B"
+      ],
+      "V": [
+        "9"
+      ],
+      "N": [
+        "22"
+      ],
+      "P": [
+        "4423-4443"
+      ],
+      "@": [
+        "2050-750X"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 53,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Rapid self-healing and self-adhesive chitosan-based hydrogels by host-guest interaction and dynamic covalent bond as flexible sensor"
+      ],
+      "A": [
+        "Ren, Zhijun",
+        "Ke, Tao",
+        "Ling, Qiangjun",
+        "Zhao, Li",
+        "Gu, Haibin"
+      ],
+      "J": [
+        "Carbohydrate polymers"
+      ],
+      "V": [
+        "273"
+      ],
+      "P": [
+        "118533"
+      ],
+      "@": [
+        "0144-8617"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 54,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Advances of MAX phases: Synthesis, characterizations and challenges"
+      ],
+      "A": [
+        "Alam, Md Shahinoor",
+        "Chowdhury, Mohammad Asaduzzaman",
+        "Kowser, Md Arefin",
+        "Islam, Md Saiful",
+        "Islam, Md Moynul",
+        "Khandaker, Tasmina"
+      ],
+      "J": [
+        "Engineering Reports"
+      ],
+      "V": [
+        "6"
+      ],
+      "N": [
+        "8"
+      ],
+      "P": [
+        "e12911"
+      ],
+      "@": [
+        "2577-8196"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 55,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Chemical bonding and electronic-structure in MAX phases as viewed by X-ray spectroscopy and density functional theory"
+      ],
+      "A": [
+        "Magnuson, Martin",
+        "Mattesini, Maurizio"
+      ],
+      "J": [
+        "Thin Solid Films"
+      ],
+      "V": [
+        "621"
+      ],
+      "P": [
+        "108-130"
+      ],
+      "@": [
+        "0040-6090"
+      ],
+      "D": [
+        "2017"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 56,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Fluorine-free sustainable synthesis of two-dimensional molybdenum boride (MoB) embedded hydrogel for advanced flexible all solid-state supercapacitor with excellent long-term stability"
+      ],
+      "A": [
+        "Nanda, Om Priya",
+        "Badhulika, Sushmee"
+      ],
+      "J": [
+        "FlatChem"
+      ],
+      "P": [
+        "100948"
+      ],
+      "@": [
+        "2452-2627"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 57,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Exploring the potential of MBenes supercapacitors: fluorine-free synthesized MoAl1–x B with ultrahigh conductivity and open space"
+      ],
+      "A": [
+        "Wei, Shudan",
+        "Lai, Xiaojun",
+        "Kale, Girish M"
+      ],
+      "J": [
+        "ACS Applied Materials & Interfaces"
+      ],
+      "V": [
+        "15"
+      ],
+      "N": [
+        "28"
+      ],
+      "P": [
+        "33560-33570"
+      ],
+      "@": [
+        "1944-8244"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 58,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Supercritical etching method for the large-scale manufacturing of MXenes"
+      ],
+      "A": [
+        "Chen, Ningjun",
+        "Duan, Zhongyi",
+        "Cai, Wenrui",
+        "Wang, Yongbin",
+        "Pu, Ben",
+        "Huang, Haichao",
+        "Xie, Yanting",
+        "Tang, Qi",
+        "Zhang, Haitao",
+        "Yang, Weiqing"
+      ],
+      "J": [
+        "Nano Energy"
+      ],
+      "V": [
+        "107"
+      ],
+      "P": [
+        "108147"
+      ],
+      "@": [
+        "2211-2855"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 59,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Direct synthesis and chemical vapor deposition of 2D carbide and nitride MXenes"
+      ],
+      "A": [
+        "Wang, Di",
+        "Zhou, Chenkun",
+        "Filatov, Alexander S",
+        "Cho, Wooje",
+        "Lagunas, Francisco",
+        "Wang, Mingzhan",
+        "Vaikuntanathan, Suriyanarayanan",
+        "Liu, Chong",
+        "Klie, Robert F",
+        "Talapin, Dmitri V"
+      ],
+      "J": [
+        "Science"
+      ],
+      "V": [
+        "379"
+      ],
+      "N": [
+        "6638"
+      ],
+      "P": [
+        "1242-1247"
+      ],
+      "@": [
+        "0036-8075"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "American Association for the Advancement of Science"
+      ]
+    }
+  },
+  {
+    "number": 60,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Chemical scissor–mediated structural editing of layered transition metal carbides"
+      ],
+      "A": [
+        "Ding, Haoming",
+        "Li, Youbing",
+        "Li, Mian",
+        "Chen, Ke",
+        "Liang, Kun",
+        "Chen, Guoxin",
+        "Lu, Jun",
+        "Palisaitis, Justinas",
+        "Persson, Per OÅ",
+        "Eklund, Per"
+      ],
+      "J": [
+        "Science"
+      ],
+      "V": [
+        "379"
+      ],
+      "N": [
+        "6637"
+      ],
+      "P": [
+        "1130-1135"
+      ],
+      "@": [
+        "0036-8075"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "American Association for the Advancement of Science"
+      ]
+    }
+  },
+  {
+    "number": 61,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Ultrafast synthesis of MXenes in minutes via low‐temperature molten salt etching"
+      ],
+      "A": [
+        "Wang, Yongbin",
+        "Zhou, Bin",
+        "Tang, Qi",
+        "Yang, Yi",
+        "Pu, Ben",
+        "Bai, Jia",
+        "Xu, Jing",
+        "Feng, Qingguo",
+        "Liu, Yan",
+        "Yang, Weiqing"
+      ],
+      "J": [
+        "Advanced Materials"
+      ],
+      "V": [
+        "36"
+      ],
+      "N": [
+        "49"
+      ],
+      "P": [
+        "2410736"
+      ],
+      "@": [
+        "0935-9648"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 62,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Biomimetic design for zinc-based energy storage devices: principles, challenges and opportunities"
+      ],
+      "A": [
+        "Song, Jian",
+        "Zhang, Qian",
+        "Yang, Guangjie",
+        "Qi, Kai",
+        "Li, Xue",
+        "Liu, Zhenlu",
+        "Yang, Haoqi",
+        "Park, Ho Seok",
+        "Jiang, Shaohua",
+        "Han, Jingquan"
+      ],
+      "J": [
+        "Chemical Society Reviews"
+      ],
+      "V": [
+        "54"
+      ],
+      "N": [
+        "17"
+      ],
+      "P": [
+        "8071-8135"
+      ],
+      "@": [
+        "0306-0012"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 63,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Experimental synthesis and density functional theory investigation of radiation tolerance of Zr3 (Al1‐xS ix) C2 MAX phases"
+      ],
+      "A": [
+        "Zapata‐Solvas, Eugenio",
+        "Christopoulos, Stavros‐Richard G",
+        "Ni, Na",
+        "Parfitt, David C",
+        "Horlait, Denis",
+        "Fitzpatrick, Michael E",
+        "Chroneos, Alexander",
+        "Lee, William E"
+      ],
+      "J": [
+        "Journal of the American Ceramic Society"
+      ],
+      "V": [
+        "100"
+      ],
+      "N": [
+        "4"
+      ],
+      "P": [
+        "1377-1387"
+      ],
+      "@": [
+        "0002-7820"
+      ],
+      "D": [
+        "2017"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 64,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "State of the art recent progress in two dimensional MXenes based gas sensors and biosensors: A comprehensive review"
+      ],
+      "A": [
+        "Deshmukh, Kalim",
+        "Kovářík, Tomáš",
+        "Pasha, SK Khadheer"
+      ],
+      "J": [
+        "Coordination chemistry reviews"
+      ],
+      "V": [
+        "424"
+      ],
+      "P": [
+        "213514"
+      ],
+      "@": [
+        "0010-8545"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 65,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Two-dimensional transition metal carbides and/or nitrides (MXenes) and their applications in sensors"
+      ],
+      "A": [
+        "Qin, R",
+        "Shan, G",
+        "Hu, M",
+        "Huang, W"
+      ],
+      "J": [
+        "Materials Today Physics"
+      ],
+      "V": [
+        "21"
+      ],
+      "P": [
+        "100527"
+      ],
+      "@": [
+        "2542-5293"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 66,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "MXene: An emerging material for sensing and biosensing"
+      ],
+      "A": [
+        "Sinha, Ankita",
+        "Zhao, Huimin",
+        "Huang, Yujin",
+        "Lu, Xianbo",
+        "Chen, Jiping",
+        "Jain, Rajeev"
+      ],
+      "J": [
+        "TrAC Trends in Analytical Chemistry"
+      ],
+      "V": [
+        "105"
+      ],
+      "P": [
+        "424-435"
+      ],
+      "@": [
+        "0165-9936"
+      ],
+      "D": [
+        "2018"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 67,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Toward MBenes battery electrode materials: layered molybdenum borides for Li‐ion batteries"
+      ],
+      "A": [
+        "Majed, Ahmad",
+        "Torkamanzadeh, Mohammad",
+        "Nwaokorie, Chukwudi F",
+        "Eisawi, Karamullah",
+        "Dun, Chaochao",
+        "Buck, Audrey",
+        "Urban, Jeffrey J",
+        "Montemore, Matthew M",
+        "Presser, Volker",
+        "Naguib, Michael"
+      ],
+      "J": [
+        "Small methods"
+      ],
+      "V": [
+        "7"
+      ],
+      "N": [
+        "8"
+      ],
+      "P": [
+        "2300193"
+      ],
+      "@": [
+        "2366-9608"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 68,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Rapid synthesis of two-dimensional MoB MBene anodes for high-performance sodium-ion batteries"
+      ],
+      "A": [
+        "Xiong, Wei",
+        "Feng, Xingyu",
+        "Huang, Tao",
+        "Huang, Zhencheng",
+        "He, Xuanlong",
+        "Liu, Jianhong",
+        "Xiao, Yi",
+        "Wang, Xinzhong",
+        "Zhang, Qianling"
+      ],
+      "J": [
+        "Journal of Materials Science & Technology"
+      ],
+      "V": [
+        "212"
+      ],
+      "P": [
+        "67-76"
+      ],
+      "@": [
+        "1005-0302"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 69,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Application of transition metal boride nanosheet as sulfur host in high loading Li-S batteries"
+      ],
+      "A": [
+        "Li, Zhenfeng",
+        "Zeng, Qinghui",
+        "Yu, Yang",
+        "Liu, Yu",
+        "Chen, Anqi",
+        "Guan, Jiazhu",
+        "Wang, Honghao",
+        "Liu, Wei",
+        "Liu, Xu",
+        "Liu, Xiangfeng"
+      ],
+      "J": [
+        "Chemical Engineering Journal"
+      ],
+      "V": [
+        "452"
+      ],
+      "P": [
+        "139366"
+      ],
+      "@": [
+        "1385-8947"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 70,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Synthesis, characterization, and theoretical modeling of 2D molybdenum boride (MBene) for all solid-State flexible interdigitated Supercapacitor application"
+      ],
+      "A": [
+        "Aghamohammadi, Parya",
+        "Karakaya Mert, Fatma",
+        "Akgul, Eda Taga",
+        "Aghabalapoor Keshtiban, Nahid",
+        "Altıncı, Osman Cem",
+        "Gelir, Ali",
+        "Sanga, Cem",
+        "Nayir, Nadire",
+        "Aydın, Hamide",
+        "Demir, Muslum"
+      ],
+      "J": [
+        "ACS omega"
+      ],
+      "V": [
+        "10"
+      ],
+      "N": [
+        "8"
+      ],
+      "P": [
+        "8202-8212"
+      ],
+      "@": [
+        "2470-1343"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 71,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Graphene Modified NiCo-LDH and 3D CNTs@ rGO Carbon Hydrogel for High-Performance Asymmetric Supercapacitor"
+      ],
+      "A": [
+        "Hou, Liyin",
+        "Kong, Lina",
+        "Ni, Xuepeng",
+        "Ren, Caixia",
+        "Li, Gangyue",
+        "Dong, Min",
+        "Wu, Zhiyun",
+        "Shao, Guangjie"
+      ],
+      "J": [
+        "ACS Applied Energy Materials"
+      ],
+      "V": [
+        "9"
+      ],
+      "N": [
+        "18"
+      ],
+      "P": [
+        "12243-12254"
+      ],
+      "@": [
+        "2574-0962"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 72,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Two dimensional MoS2 accelerates mechanically controlled polymerization and remodeling of hydrogel"
+      ],
+      "A": [
+        "Wang, Jian",
+        "Han, Zhijun",
+        "Zhang, Longfei",
+        "Ding, Ran",
+        "Ding, Chengqiang",
+        "Chen, Kai",
+        "Wang, Zhao"
+      ],
+      "J": [
+        "Nature communications"
+      ],
+      "V": [
+        "16"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "1689"
+      ],
+      "@": [
+        "2041-1723"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Nature Publishing Group UK, London"
+      ]
+    }
+  },
+  {
+    "number": 73,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Harnessing sulfur-doped 2D graphitic carbon nitride with 2D MXene for symmetric supercapacitor performance: Evaluating structural dynamics upon electrochemical cycling"
+      ],
+      "A": [
+        "Naik, Hemalatha Krishna",
+        "Mahadevappa, Basavaraja Basavanakote",
+        "Anadebe, Valentine Chikaodili",
+        "Barik, Rakesh Chandra"
+      ],
+      "J": [
+        "Next Materials"
+      ],
+      "V": [
+        "13"
+      ],
+      "P": [
+        "102854"
+      ],
+      "@": [
+        "2949-8228"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 74,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "π-π stacking interface-mediated self-assembly of multidimensional GQDs/graphene hydrogel electrodes for enhanced supercapacitor performance"
+      ],
+      "A": [
+        "Xiao, Gao",
+        "Liu, Juan",
+        "Chen, Liyin",
+        "Luo, Peihui",
+        "Cen, Wanglai",
+        "Zou, Longhua",
+        "Afewerki, Samson",
+        "Guo, Junling"
+      ],
+      "J": [
+        "Chemical Engineering Science"
+      ],
+      "P": [
+        "123129"
+      ],
+      "@": [
+        "0009-2509"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 75,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "An integrated photo-rechargeable ZnMoO4//reduced graphene oxide hydrogel supercapacitor"
+      ],
+      "A": [
+        "Wang, Yu",
+        "Zhong, Rong",
+        "Bassanyin, Chirstopher",
+        "Li, Jiake",
+        "Jiang, Hedong",
+        "Liu, Xin",
+        "Chen, Ziyi",
+        "Guo, Pingchun",
+        "Zhu, Hua",
+        "Wang, Yanxiang"
+      ],
+      "J": [
+        "New Journal of Chemistry"
+      ],
+      "V": [
+        "50"
+      ],
+      "N": [
+        "7"
+      ],
+      "P": [
+        "3147-3157"
+      ],
+      "@": [
+        "1144-0546"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 76,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Sodium polyacrylate hydrogel electrolyte: Flexible rechargeable supercapacitor using thermally reduced graphene oxide nanosheets"
+      ],
+      "A": [
+        "Ali, Noor Ul Haq Liyakath",
+        "Pazhamalai, Parthiban",
+        "Sathyaseelan, Arunprasath",
+        "Swaminathan, Rajavarman",
+        "Kim, Sang-Jae"
+      ],
+      "J": [
+        "Journal of Power Sources"
+      ],
+      "V": [
+        "625"
+      ],
+      "P": [
+        "235648"
+      ],
+      "@": [
+        "0378-7753"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 77,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Ti3C2TX@ PPy-reduced graphene oxide heterostructure hydrogel for supercapacitor with excellent rate capability"
+      ],
+      "A": [
+        "Meng, Shutong",
+        "Liao, Peng",
+        "Zhang, Xin",
+        "Yan, Wenjie",
+        "Qiu, Zenghui",
+        "Xu, Haijun"
+      ],
+      "J": [
+        "Journal of Alloys and Compounds"
+      ],
+      "V": [
+        "1010"
+      ],
+      "P": [
+        "177314"
+      ],
+      "@": [
+        "0925-8388"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 78,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Graphene oxide assisted triple network hydrogel electrolyte with high mechanical and temperature stability for self-healing supercapacitor"
+      ],
+      "A": [
+        "Sun, Kanjun",
+        "Cui, Shuzhen",
+        "Gao, Xiaojie",
+        "Liu, Xianyu",
+        "Lu, Taotao",
+        "Wei, Huijuan",
+        "Peng, Hui",
+        "Ma, Guofu"
+      ],
+      "J": [
+        "Journal of Energy Storage"
+      ],
+      "V": [
+        "61"
+      ],
+      "P": [
+        "106658"
+      ],
+      "@": [
+        "2352-152X"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 79,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "High conductive and low-temperature resistant reduced graphene oxide/polyacrylamide hydrogel for wearable sensors and supercapacitor electrolytes"
+      ],
+      "A": [
+        "Liu, Dan",
+        "Cai, Bin",
+        "Jiang, Yi",
+        "Wang, Liying",
+        "Gao, Yang",
+        "Li, Xuesong",
+        "Yang, Xijia",
+        "Lü, Wei"
+      ],
+      "J": [
+        "Electrochimica Acta"
+      ],
+      "P": [
+        "147014"
+      ],
+      "@": [
+        "0013-4686"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 80,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Urchin-like MoS2/MoO2 microspheres coated with GO hydrogel: achieve a long-term cyclability as anode for sodium ion batteries"
+      ],
+      "A": [
+        "Zhang, S",
+        "Li, S",
+        "Li, L",
+        "Wen, D",
+        "Peng, X",
+        "Zhang, H"
+      ],
+      "J": [
+        "Materials Today Sustainability"
+      ],
+      "V": [
+        "21"
+      ],
+      "P": [
+        "100289"
+      ],
+      "@": [
+        "2589-2347"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 81,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "High Performance Stretchable PVA-MoS2 Hydrogel Photodetectors with Electron–Cation Dual Charge Transport"
+      ],
+      "A": [
+        "Gan, Jianghao",
+        "Mi, Yuran",
+        "Qiao, Hui",
+        "Huang, Zongyu",
+        "Tang, Pinghua",
+        "Qi, Xiang"
+      ],
+      "J": [
+        "The Journal of Physical Chemistry Letters"
+      ],
+      "V": [
+        "17"
+      ],
+      "N": [
+        "35"
+      ],
+      "P": [
+        "10155-10164"
+      ],
+      "@": [
+        "1948-7185"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 82,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "3D-printable alginate-MoS2-AgNW hydrogel bioink for dual-mode wearable capacitive biosensors"
+      ],
+      "A": [
+        "Shinde, Suraj",
+        "Kim, Kang Hyeon",
+        "Pawar, Omkar",
+        "Patil, Omkar A",
+        "Lim, Sooman",
+        "Lee, Han Eol"
+      ],
+      "J": [
+        "International Journal of Bioprinting"
+      ],
+      "V": [
+        "11"
+      ],
+      "N": [
+        "5"
+      ],
+      "P": [
+        "301"
+      ],
+      "@": [
+        "2424-7723"
+      ],
+      "D": [
+        "2025"
+      ]
+    }
+  },
+  {
+    "number": 83,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Biocompatible, highly stretchable, and reusable MoS2-based hydrogel for multisensing and bioelectrical signal monitoring"
+      ],
+      "A": [
+        "Lin, Chunqing",
+        "Fu, Chunmei",
+        "Chen, Yanmei",
+        "Zheng, Nan",
+        "Huang, Jie",
+        "Nie, Yujin",
+        "He, Zhanfeng",
+        "Guo, Zanru"
+      ],
+      "J": [
+        "Chemical Engineering Journal"
+      ],
+      "P": [
+        "179709"
+      ],
+      "@": [
+        "1385-8947"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 84,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Hierarchical graphene oxide/manganese dioxide/cobalt-nickel layered double hydroxide electrodes for high energy density asymmetric flexible supercapacitor"
+      ],
+      "A": [
+        "Li, Xue",
+        "Lin, Zhongtai",
+        "Wang, Chunjin",
+        "Wang, Haowen",
+        "Feng, Shixuan",
+        "Li, Tingxi",
+        "Ma, Yong"
+      ],
+      "J": [
+        "Chemical Engineering Journal"
+      ],
+      "V": [
+        "484"
+      ],
+      "P": [
+        "149430"
+      ],
+      "@": [
+        "1385-8947"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 85,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "3D nanosheet array of cerium doping Al0. 2CoNi layered double hydroxide coated with NiMn layered double hydroxide for high-energy density asymmetric supercapacitors"
+      ],
+      "A": [
+        "Zheng, Bingyue",
+        "Song, Shuxin",
+        "Chen, Lihua",
+        "Shu, Huimin",
+        "Gao, Dongtai",
+        "Lan, Di",
+        "Li, Tingxi",
+        "Liu, Xin",
+        "Ma, Yong"
+      ],
+      "J": [
+        "Chemical Engineering Journal"
+      ],
+      "V": [
+        "520"
+      ],
+      "P": [
+        "165875"
+      ],
+      "@": [
+        "1385-8947"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 86,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Highly efficient photo rechargeable supercapacitor based on ambipolar interface of graphitic carbon nitride and MXene"
+      ],
+      "A": [
+        "Kumar, Sumana",
+        "Mondal, Anindita",
+        "Panwar, Vinod",
+        "Shekhawat, Roopali",
+        "Misra, Abha"
+      ],
+      "J": [
+        "Batteries & Supercaps"
+      ],
+      "V": [
+        "7"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "e202300393"
+      ],
+      "@": [
+        "2566-6223"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 87,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "High-performance pseudo-capacitance supercapacitor with highly mesoporous fluorine doped polymeric carbon nitride nanosheets as electrode material"
+      ],
+      "A": [
+        "Saka, Cafer",
+        "Levent, Abdulkadir"
+      ],
+      "J": [
+        "Diamond and Related Materials"
+      ],
+      "V": [
+        "148"
+      ],
+      "P": [
+        "111504"
+      ],
+      "@": [
+        "0925-9635"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 88,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Synergistic battery-type NiCo₂O₄-carbon nitride/NiFe-layered double hydroxide nanocomposites for high energy density asymmetric supercapacitor applications"
+      ],
+      "A": [
+        "Amirthavarshini, T",
+        "Gunasekaran, SG"
+      ],
+      "J": [
+        "Ionics"
+      ],
+      "V": [
+        "32"
+      ],
+      "N": [
+        "10"
+      ],
+      "P": [
+        "11267-11284"
+      ],
+      "@": [
+        "1862-0760"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "Springer"
+      ]
+    }
+  },
+  {
+    "number": 89,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Covalent organic framework nanosheets: preparation, properties and applications"
+      ],
+      "A": [
+        "Rodríguez-San-Miguel, David",
+        "Montoro, Carmen",
+        "Zamora, Félix"
+      ],
+      "J": [
+        "Chemical Society Reviews"
+      ],
+      "V": [
+        "49"
+      ],
+      "N": [
+        "8"
+      ],
+      "P": [
+        "2291-2302"
+      ],
+      "@": [
+        "0306-0012"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 90,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Covalent organic frameworks (COFs) for electrochemical applications"
+      ],
+      "A": [
+        "Zhao, Xiaojia",
+        "Pachfule, Pradip",
+        "Thomas, Arne"
+      ],
+      "J": [
+        "Chemical Society Reviews"
+      ],
+      "V": [
+        "50"
+      ],
+      "N": [
+        "12"
+      ],
+      "P": [
+        "6871-6913"
+      ],
+      "@": [
+        "0306-0012"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 91,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Electrochemical oxygen reduction catalysed by Ni3 (hexaiminotriphenylene) 2"
+      ],
+      "A": [
+        "Miner, Elise M",
+        "Fukushima, Tomohiro",
+        "Sheberla, Dennis",
+        "Sun, Lei",
+        "Surendranath, Yogesh",
+        "Dincă, Mircea"
+      ],
+      "J": [
+        "Nature communications"
+      ],
+      "V": [
+        "7"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "10942"
+      ],
+      "@": [
+        "2041-1723"
+      ],
+      "D": [
+        "2016"
+      ],
+      "I": [
+        "Nature Publishing Group UK, London"
+      ]
+    }
+  },
+  {
+    "number": 92,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Conductive MOF electrodes for stable supercapacitors with high areal capacitance"
+      ],
+      "A": [
+        "Sheberla, Dennis",
+        "Bachman, John C",
+        "Elias, Joseph S",
+        "Sun, Cheng-Jun",
+        "Shao-Horn, Yang",
+        "Dincă, Mircea"
+      ],
+      "J": [
+        "Nature materials"
+      ],
+      "V": [
+        "16"
+      ],
+      "N": [
+        "2"
+      ],
+      "P": [
+        "220-224"
+      ],
+      "@": [
+        "1476-1122"
+      ],
+      "D": [
+        "2017"
+      ],
+      "I": [
+        "Nature Publishing Group UK, London"
+      ]
+    }
+  },
+  {
+    "number": 93,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Why conductivity is not always king–physical properties governing the capacitance of 2D metal–organic framework-based EDLC supercapacitor electrodes: a Ni3 (HITP) 2 case study"
+      ],
+      "A": [
+        "Borysiewicz, Michał Adam",
+        "Dou, Jin-Hu",
+        "Stassen, Ivo",
+        "Dincă, Mircea"
+      ],
+      "J": [
+        "Faraday Discussions"
+      ],
+      "V": [
+        "231"
+      ],
+      "P": [
+        "298-304"
+      ],
+      "@": [
+        "1359-6640"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 94,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Selective anion anchoring in MOF-based supercapacitors revealed with operando small-angle X-ray scattering"
+      ],
+      "A": [
+        "Seyffertitz, Malina",
+        "Balhatchet, Chloe J",
+        "Rauscher, Max V",
+        "Stock, Sebastian",
+        "Fritz-Popovski, Gerhard",
+        "Leiner, Thomas",
+        "Holec, David",
+        "Amenitsch, Heinz",
+        "Forse, Alexander C",
+        "Paris, Oskar"
+      ],
+      "J": [
+        "Nature Communications"
+      ],
+      "V": [
+        "16"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "8649"
+      ],
+      "@": [
+        "2041-1723"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Nature Publishing Group UK, London"
+      ]
+    }
+  },
+  {
+    "number": 95,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Electrochemically active, crystalline, mesoporous covalent organic frameworks on carbon nanotubes for synergistic lithium-ion battery energy storage"
+      ],
+      "A": [
+        "Xu, Fei",
+        "Jin, Shangbin",
+        "Zhong, Hui",
+        "Wu, Dingcai",
+        "Yang, Xiaoqing",
+        "Chen, Xiong",
+        "Wei, Hao",
+        "Fu, Ruowen",
+        "Jiang, Donglin"
+      ],
+      "J": [
+        "Scientific Reports"
+      ],
+      "V": [
+        "5"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "8225"
+      ],
+      "@": [
+        "2045-2322"
+      ],
+      "D": [
+        "2015"
+      ],
+      "I": [
+        "Nature Publishing Group UK, London"
+      ]
+    }
+  },
+  {
+    "number": 96,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Ultralight covalent organic framework/graphene aerogels with hierarchical porosity"
+      ],
+      "A": [
+        "Li, Changxia",
+        "Yang, Jin",
+        "Pachfule, Pradip",
+        "Li, Shuang",
+        "Ye, Meng-Yang",
+        "Schmidt, Johannes",
+        "Thomas, Arne"
+      ],
+      "J": [
+        "Nature communications"
+      ],
+      "V": [
+        "11"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "4712"
+      ],
+      "@": [
+        "2041-1723"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "Nature Publishing Group UK, London"
+      ]
+    }
+  },
+  {
+    "number": 97,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Covalent triazine frameworks for advanced energy storage: challenges and new opportunities"
+      ],
+      "A": [
+        "Xiong, Peng",
+        "Zhang, Shilin",
+        "Wang, Rui",
+        "Zhang, Longhai",
+        "Ma, Quanwei",
+        "Ren, Xiang",
+        "Gao, Yuchen",
+        "Wang, Ziyang",
+        "Guo, Zaiping",
+        "Zhang, Chaofeng"
+      ],
+      "J": [
+        "Energy & Environmental Science"
+      ],
+      "V": [
+        "16"
+      ],
+      "N": [
+        "8"
+      ],
+      "P": [
+        "3181-3213"
+      ],
+      "@": [
+        "1754-5692"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 98,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Two-dimensional polymer synthesized via solid-state polymerization for high-performance supercapacitors"
+      ],
+      "A": [
+        "Liu, Wei",
+        "Ulaganathan, Mani",
+        "Abdelwahab, Ibrahim",
+        "Luo, Xin",
+        "Chen, Zhongxin",
+        "Rong Tan, Sherman Jun",
+        "Wang, Xiaowei",
+        "Liu, Yanpeng",
+        "Geng, Dechao",
+        "Bao, Yang"
+      ],
+      "J": [
+        "ACS nano"
+      ],
+      "V": [
+        "12"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "852-860"
+      ],
+      "@": [
+        "1936-0851"
+      ],
+      "D": [
+        "2018"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 99,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Ice-templated large-scale preparation of two-dimensional sheets of conjugated polymers: thickness-independent flexible supercapacitance"
+      ],
+      "A": [
+        "Zhang, Jie",
+        "Fan, Xueying",
+        "Meng, Xiaodong",
+        "Zhou, Ji",
+        "Wang, Manyun",
+        "Chen, Shang",
+        "Cao, Yawen",
+        "Chen, Yu",
+        "Bielawski, Christopher W",
+        "Geng, Jianxin"
+      ],
+      "J": [
+        "ACS nano"
+      ],
+      "V": [
+        "15"
+      ],
+      "N": [
+        "5"
+      ],
+      "P": [
+        "8870-8882"
+      ],
+      "@": [
+        "1936-0851"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 100,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Tuning electron delocalization of hydrogen-bonded organic framework cathode for high-performance zinc-organic batteries"
+      ],
+      "A": [
+        "Li, Wenda",
+        "Xu, Hengyue",
+        "Zhang, Hongyi",
+        "Wei, Facai",
+        "Huang, Lingyan",
+        "Ke, Shanzhe",
+        "Fu, Jianwei",
+        "Jing, Chengbin",
+        "Cheng, Jiangong",
+        "Liu, Shaohua"
+      ],
+      "J": [
+        "Nature Communications"
+      ],
+      "V": [
+        "14"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "5235"
+      ],
+      "@": [
+        "2041-1723"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Nature Publishing Group UK, London"
+      ]
+    }
+  },
+  {
+    "number": 101,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Heat-resistant covalent organic framework (COF) PVA-hybridized gel electrolyte for the preparation of dendrite-free zinc-ion batteries"
+      ],
+      "A": [
+        "Du, Jingyu",
+        "Zhan, Xiao",
+        "Xu, Yuhuan",
+        "Zhang, Daohai",
+        "Qin, Shuhao"
+      ],
+      "J": [
+        "Nano Letters"
+      ],
+      "V": [
+        "24"
+      ],
+      "N": [
+        "43"
+      ],
+      "P": [
+        "13592-13599"
+      ],
+      "@": [
+        "1530-6984"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 102,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Regulating water molecules via bioinspired covalent organic framework membranes for Zn metal anodes"
+      ],
+      "A": [
+        "Zhang, Sida",
+        "Chen, Jiashu",
+        "Chen, Weigen",
+        "Su, Yiwen",
+        "Gou, Qianzhi",
+        "Yuan, Ruduan",
+        "Wang, Ziyi",
+        "Wang, Kaixin",
+        "Zhang, Wentao",
+        "Hu, Xiqian"
+      ],
+      "J": [
+        "Angewandte chemie"
+      ],
+      "V": [
+        "137"
+      ],
+      "N": [
+        "14"
+      ],
+      "P": [
+        "e202424184"
+      ],
+      "@": [
+        "0044-8249"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 103,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "A Stable Triazole‐Based Covalent Gel for Long‐Term Cycling Zn Anode in Zinc‐Ion Batteries"
+      ],
+      "A": [
+        "Cui, Jiawei",
+        "Tao, Zengren",
+        "Wu, Jinyi",
+        "Ma, Shasha",
+        "Yang, Yangyi",
+        "Zhang, Jianyong"
+      ],
+      "J": [
+        "Small"
+      ],
+      "V": [
+        "19"
+      ],
+      "N": [
+        "50"
+      ],
+      "P": [
+        "2304640"
+      ],
+      "@": [
+        "1613-6810"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 104,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Superstrong, superstiff, and conductive alginate hydrogels"
+      ],
+      "A": [
+        "Ji, Donghwan",
+        "Park, Jae Min",
+        "Oh, Myeong Seon",
+        "Nguyen, Thanh Loc",
+        "Shin, Hyunsu",
+        "Kim, Jae Seong",
+        "Kim, Dukjoon",
+        "Park, Ho Seok",
+        "Kim, Jaeyun"
+      ],
+      "J": [
+        "Nature Communications"
+      ],
+      "V": [
+        "13"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "3019"
+      ],
+      "@": [
+        "2041-1723"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "Nature Publishing Group UK, London"
+      ]
+    }
+  },
+  {
+    "number": 105,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Tuning the interfacial chemistry in metal organic framework/graphene electrodes for boosting energy storage"
+      ],
+      "A": [
+        "Sundriyal, Shashank",
+        "Shrivastav, Vishal",
+        "Dubey, Prashant",
+        "Mansi",
+        "Kvasnička, Vit",
+        "Khandelwal, Mahima",
+        "Poulose, Aby Cheruvathoor",
+        "Zbořil, Radek",
+        "Bakandritsos, Aristides"
+      ],
+      "J": [
+        "Journal of Materials Chemistry A"
+      ],
+      "V": [
+        "13"
+      ],
+      "N": [
+        "22"
+      ],
+      "P": [
+        "16785-16796"
+      ],
+      "@": [
+        "2050-7488"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 106,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Recent advances in the utilization of covalent organic frameworks (COFs) as electrode materials for supercapacitors"
+      ],
+      "A": [
+        "Xu, Shen",
+        "Wu, Jinghang",
+        "Wang, Xiang",
+        "Zhang, Qichun"
+      ],
+      "J": [
+        "Chemical Science"
+      ],
+      "V": [
+        "14"
+      ],
+      "N": [
+        "47"
+      ],
+      "P": [
+        "13601-13628"
+      ],
+      "@": [
+        "2041-6520"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 107,
+    "fields": {
+      "0": [
+        "Book Section"
+      ],
+      "T": [
+        "Conductive two-dimensional titanium carbide ‘clay’with high volumetric capacitance"
+      ],
+      "A": [
+        "Ghidiu, Michael",
+        "Lukatskaya, Maria R",
+        "Zhao, Meng-Qiang",
+        "Gogotsi, Yury",
+        "Barsoum, Michel W"
+      ],
+      "B": [
+        "MXenes"
+      ],
+      "P": [
+        "379-399"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Jenny Stanford Publishing"
+      ]
+    }
+  },
+  {
+    "number": 108,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Fabrication of 3D MXene@ graphene hydrogel with high ion accessibility via Al-induced self-assembly and reduction for high-performance supercapacitors"
+      ],
+      "A": [
+        "Shi, Chenjing",
+        "Liu, Zijie",
+        "Tian, Zhen",
+        "Li, Dan",
+        "Chen, Yanjun",
+        "Guo, Li",
+        "Wang, Yanzhong"
+      ],
+      "J": [
+        "Electrochimica Acta"
+      ],
+      "V": [
+        "464"
+      ],
+      "P": [
+        "142892"
+      ],
+      "@": [
+        "0013-4686"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 109,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "In-Situ Monitoring of Charge Storage Mechanism from Ti3C2T x MXene Nanostructures via Ionic Liquid Etching and Intercalation"
+      ],
+      "A": [
+        "Huang, Jeremiah Hao Ran",
+        "Chang, Yu-Hsuan",
+        "Chen, I-Wen Peter"
+      ],
+      "J": [
+        "ACS Applied Nano Materials"
+      ],
+      "V": [
+        "9"
+      ],
+      "N": [
+        "2"
+      ],
+      "P": [
+        "1295-1306"
+      ],
+      "@": [
+        "2574-0970"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 110,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "A 3D porous MXene/PNIPAAm hydrogel composite with advanced degradation stability and control of electronic properties in air"
+      ],
+      "A": [
+        "Wang, Sitao",
+        "Jiao, Chen",
+        "Gerlach, Gerald",
+        "Körner, Julia"
+      ],
+      "J": [
+        "Advanced Science"
+      ],
+      "V": [
+        "13"
+      ],
+      "N": [
+        "6"
+      ],
+      "P": [
+        "e16529"
+      ],
+      "@": [
+        "2198-3844"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 111,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Multifunctional Integration of 2D Materials in Triboelectric Nanogenerators: Fundamentals, Material Classification, and Emerging Applications"
+      ],
+      "A": [
+        "Afzal, Adnan",
+        "Farhan, Muhammad",
+        "Sun, Enqi",
+        "Rehman, Hafeez Ur",
+        "Shoaib, Muhammad",
+        "Cao, Xia",
+        "Wang, Long",
+        "Wang, Ning"
+      ],
+      "J": [
+        "Advanced Materials Technologies"
+      ],
+      "P": [
+        "e71428"
+      ],
+      "@": [
+        "2365-709X"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 112,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Stimuli‐Responsive MXene/PNIPAM Hydrogel WITH High‐Performance and Tunable Electromagnetic Interference Shielding Performance"
+      ],
+      "A": [
+        "Yan, Qian",
+        "Liu, Zonglin",
+        "Xiong, Jinhua",
+        "Lian, Huanxin",
+        "Chen, He",
+        "Fei, Teng",
+        "Chen, Yunxiang",
+        "Zheng, Haowen",
+        "Zhao, Xu",
+        "Xu, Liangliang"
+      ],
+      "J": [
+        "Advanced Science"
+      ],
+      "V": [
+        "12"
+      ],
+      "N": [
+        "31"
+      ],
+      "P": [
+        "e05551"
+      ],
+      "@": [
+        "2198-3844"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 113,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Mixed-dimensional MXene-hydrogel heterostructures for electronic skin sensors with ultrabroad working range"
+      ],
+      "A": [
+        "Cai, Yichen",
+        "Shen, Jie",
+        "Yang, Chi-Wen",
+        "Wan, Yi",
+        "Tang, Hao-Ling",
+        "Aljarb, Areej A",
+        "Chen, Cailing",
+        "Fu, Jui-Han",
+        "Wei, Xuan",
+        "Huang, Kuo-Wei"
+      ],
+      "J": [
+        "Science advances"
+      ],
+      "V": [
+        "6"
+      ],
+      "N": [
+        "48"
+      ],
+      "P": [
+        "eabb5367"
+      ],
+      "@": [
+        "2375-2548"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "American Association for the Advancement of Science"
+      ]
+    }
+  },
+  {
+    "number": 114,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Ti3C2T x MXene-activated fast gelation of stretchable and self-healing hydrogels: a molecular approach"
+      ],
+      "A": [
+        "Ge, Gang",
+        "Zhang, Yi-Zhou",
+        "Zhang, Wenli",
+        "Yuan, Wei",
+        "El-Demellawi, Jehad K",
+        "Zhang, Peng",
+        "Di Fabrizio, Enzo",
+        "Dong, Xiaochen",
+        "Alshareef, Husam N"
+      ],
+      "J": [
+        "ACS nano"
+      ],
+      "V": [
+        "15"
+      ],
+      "N": [
+        "2"
+      ],
+      "P": [
+        "2698-2706"
+      ],
+      "@": [
+        "1936-0851"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 115,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Stamping of flexible, coplanar micro‐supercapacitors using MXene inks"
+      ],
+      "A": [
+        "Zhang, Chuanfang",
+        "Kremer, Matthias P",
+        "Seral‐Ascaso, Andrés",
+        "Park, Sang‐Hoon",
+        "McEvoy, Niall",
+        "Anasori, Babak",
+        "Gogotsi, Yury",
+        "Nicolosi, Valeria"
+      ],
+      "J": [
+        "Advanced Functional Materials"
+      ],
+      "V": [
+        "28"
+      ],
+      "N": [
+        "9"
+      ],
+      "P": [
+        "1705506"
+      ],
+      "@": [
+        "1616-301X"
+      ],
+      "D": [
+        "2018"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 116,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Readily prepared and processed multifunctional MXene nanocomposite hydrogels for smart electronics"
+      ],
+      "A": [
+        "Huang, Jiahui",
+        "Huang, Xianwu",
+        "Wu, Peiyi"
+      ],
+      "J": [
+        "SmartMat"
+      ],
+      "V": [
+        "5"
+      ],
+      "N": [
+        "2"
+      ],
+      "P": [
+        "e1228"
+      ],
+      "@": [
+        "2688-819X"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 117,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "MXene (Ti3C2Tx)-embedded nanocomposite hydrogels for biomedical applications: a review"
+      ],
+      "A": [
+        "Damiri, Fouad",
+        "Rahman, Md Habibur",
+        "Zehravi, Mehrukh",
+        "Awaji, Aeshah A",
+        "Nasrullah, Mohammed Z",
+        "Gad, Heba A",
+        "Bani-Fwaz, Mutasem Z",
+        "Varma, Rajender S",
+        "Germoush, Mousa O",
+        "Al-Malky, Hamdan S"
+      ],
+      "J": [
+        "Materials"
+      ],
+      "V": [
+        "15"
+      ],
+      "N": [
+        "5"
+      ],
+      "P": [
+        "1666"
+      ],
+      "@": [
+        "1996-1944"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "MDPI"
+      ]
+    }
+  },
+  {
+    "number": 118,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Capacitance of Ti3C2Tx MXene in ionic liquid electrolyte"
+      ],
+      "A": [
+        "Lin, Zifeng",
+        "Barbara, Daffos",
+        "Taberna, Pierre-Louis",
+        "Van Aken, Katherine L",
+        "Anasori, Babak",
+        "Gogotsi, Yury",
+        "Simon, Patrice"
+      ],
+      "J": [
+        "Journal of Power Sources"
+      ],
+      "V": [
+        "326"
+      ],
+      "P": [
+        "575-579"
+      ],
+      "@": [
+        "0378-7753"
+      ],
+      "D": [
+        "2016"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 119,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Controlling the dimensions of 2D MXenes for ultrahigh-rate pseudocapacitive energy storage"
+      ],
+      "A": [
+        "Kayali, Emre",
+        "VahidMohammadi, Armin",
+        "Orangi, Jafar",
+        "Beidaghi, Majid"
+      ],
+      "J": [
+        "ACS applied materials & interfaces"
+      ],
+      "V": [
+        "10"
+      ],
+      "N": [
+        "31"
+      ],
+      "P": [
+        "25949-25954"
+      ],
+      "@": [
+        "1944-8244"
+      ],
+      "D": [
+        "2018"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 120,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Interface interaction-mediated design of tough and conductive MXene-composited polymer hydrogel with high stretchability and low hysteresis for high-performance multiple sensing"
+      ],
+      "A": [
+        "Wang, Xinliang",
+        "Li, Na",
+        "Yin, Juanjuan",
+        "Wang, Xiaoming",
+        "Xu, Linli",
+        "Jiao, Tifeng",
+        "Qin, Zhihui"
+      ],
+      "J": [
+        "Science China Materials"
+      ],
+      "V": [
+        "66"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "272-283"
+      ],
+      "@": [
+        "2095-8226"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Springer"
+      ]
+    }
+  },
+  {
+    "number": 121,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "A powder self‐healable hydrogel electrolyte for flexible hybrid supercapacitors with high energy density and sustainability"
+      ],
+      "A": [
+        "Huang, Hailong",
+        "Han, Lu",
+        "Fu, Xiaobin",
+        "Wang, Yanling",
+        "Yang, Zhongli",
+        "Pan, Likun",
+        "Xu, Min"
+      ],
+      "J": [
+        "Small"
+      ],
+      "V": [
+        "17"
+      ],
+      "N": [
+        "10"
+      ],
+      "P": [
+        "2006807"
+      ],
+      "@": [
+        "1613-6810"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 122,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Graphene aided gelation of MXene with oxidation protected surface for supercapacitor electrodes with excellent gravimetric performance"
+      ],
+      "A": [
+        "Dutta, Pronoy",
+        "Sikdar, Anirban",
+        "Majumdar, Abhisek",
+        "Borah, Munu",
+        "Padma, N",
+        "Ghosh, Subhradip",
+        "Maiti, Uday Narayan"
+      ],
+      "J": [
+        "Carbon"
+      ],
+      "V": [
+        "169"
+      ],
+      "P": [
+        "225-234"
+      ],
+      "@": [
+        "0008-6223"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 123,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "MXene reinforced PAA/PEDOT: PSS/MXene conductive hydrogel for highly sensitive strain sensors"
+      ],
+      "A": [
+        "Liang, Jionghong",
+        "He, Jie",
+        "Xin, Yue",
+        "Gao, Wenshuo",
+        "Zeng, Guang",
+        "He, Xin"
+      ],
+      "J": [
+        "Macromolecular Materials and Engineering"
+      ],
+      "V": [
+        "308"
+      ],
+      "N": [
+        "3"
+      ],
+      "P": [
+        "2200519"
+      ],
+      "@": [
+        "1438-7492"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 124,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "A mechanically compliant MnO2–MXene–GelMA cardiac patch for modulating the post-infarction microelectrical environment and alleviating oxidative stress"
+      ],
+      "A": [
+        "Han, Meng",
+        "Jin, Hang",
+        "Zhang, Jinhui",
+        "Zhang, Changrui",
+        "Yang, Weihu",
+        "Sun, Daoheng",
+        "Huang, Wenhua"
+      ],
+      "J": [
+        "RSC advances"
+      ],
+      "V": [
+        "16"
+      ],
+      "N": [
+        "32"
+      ],
+      "P": [
+        "29350-29360"
+      ],
+      "@": [
+        "2046-2069"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 125,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Robust and anti-swelling MXene composite hydrogel sensors for intelligent gait monitoring via a CNN-LSTM network"
+      ],
+      "A": [
+        "Wei, Qiujiang",
+        "Chu, Fuhuan",
+        "Tian, Chunyan",
+        "Ke, Hua",
+        "Wang, Xiya",
+        "Chen, Xiaomin",
+        "Qiang, Linhui",
+        "Xu, Shiqi"
+      ],
+      "J": [
+        "RSC advances"
+      ],
+      "V": [
+        "16"
+      ],
+      "N": [
+        "16"
+      ],
+      "P": [
+        "14159-14169"
+      ],
+      "@": [
+        "2046-2069"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 126,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Recent developments in conducting polymers: Applications for electrochemistry"
+      ],
+      "A": [
+        "Tajik, Somayeh",
+        "Beitollahi, Hadi",
+        "Nejad, Fariba Garkani",
+        "Shoaie, Iran Sheikh",
+        "Khalilzadeh, Mohammad A",
+        "Asl, Mehdi Shahedi",
+        "Van Le, Quyet",
+        "Zhang, Kaiqiang",
+        "Jang, Ho Won",
+        "Shokouhimehr, Mohammadreza"
+      ],
+      "J": [
+        "RSC advances"
+      ],
+      "V": [
+        "10"
+      ],
+      "N": [
+        "62"
+      ],
+      "P": [
+        "37834-37856"
+      ],
+      "@": [
+        "2046-2069"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 127,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Bioinspired Hierarchical Hydrogel Electrolyte for Ultralong-Life Flexible Zinc-Ion Batteries"
+      ],
+      "A": [
+        "Wang, Ran",
+        "Gao, Qian",
+        "Wu, Runhai",
+        "Mi, Yongqi",
+        "Yang, Shaopei",
+        "Wang, Hongxiao",
+        "Wan, Ting",
+        "Gull, Sehrish",
+        "Xie, Kefeng",
+        "Long, Guankui"
+      ],
+      "J": [
+        "Nano-Micro Letters"
+      ],
+      "V": [
+        "18"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "399"
+      ],
+      "@": [
+        "2150-5551"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "Springer"
+      ]
+    }
+  },
+  {
+    "number": 128,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "3D printing of electrically conductive and degradable hydrogel for epidermal strain sensor"
+      ],
+      "A": [
+        "Guo, Binbin",
+        "Zhong, Yukun",
+        "Chen, Xiaoteng",
+        "Yu, Shixiang",
+        "Bai, Jiaming"
+      ],
+      "J": [
+        "Composites Communications"
+      ],
+      "V": [
+        "37"
+      ],
+      "P": [
+        "101454"
+      ],
+      "@": [
+        "2452-2139"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 129,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Flexible solid-state Zn-Co MOFs@ MXene supercapacitors and organic ion hydrogel sensors for self-powered smart sensing applications"
+      ],
+      "A": [
+        "Xiang, Guo-Tao",
+        "Chen, Na",
+        "Lu, Bin",
+        "Xu, Jia-Lei",
+        "Rodriguez, Raul D",
+        "Sheremet, Evgeniya",
+        "Hu, Yong-Da",
+        "Chen, Jin-Ju"
+      ],
+      "J": [
+        "Nano Energy"
+      ],
+      "V": [
+        "118"
+      ],
+      "P": [
+        "108936"
+      ],
+      "@": [
+        "2211-2855"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 130,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Irreversible and self-healing electrically conductive hydrogels made of bio-based polymers"
+      ],
+      "A": [
+        "Nada, Ahmed Ali",
+        "Eckstein Andicsova, Anita",
+        "Mosnaček, Jaroslav"
+      ],
+      "J": [
+        "International Journal of Molecular Sciences"
+      ],
+      "V": [
+        "23"
+      ],
+      "N": [
+        "2"
+      ],
+      "P": [
+        "842"
+      ],
+      "@": [
+        "1422-0067"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "MDPI"
+      ]
+    }
+  },
+  {
+    "number": 131,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "A Ti3C2T x MXene cathode and redox-active electrolyte based flexible Zn-ion microsupercapacitor for integrated pressure sensing application"
+      ],
+      "A": [
+        "Liu, Weijia",
+        "Li, La",
+        "Shen, Guozhen"
+      ],
+      "J": [
+        "Nanoscale"
+      ],
+      "V": [
+        "15"
+      ],
+      "N": [
+        "6"
+      ],
+      "P": [
+        "2624-2632"
+      ],
+      "@": [
+        "2040-3364"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 132,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Mechanically endurable Ti3C2Tx MXene incorporated P (AM-AA) hybrid hydrogel electrolyte with enhanced Zn2+ conductivity for flexible zinc-ion batteries"
+      ],
+      "A": [
+        "Radjendirane, Aakash Carthick",
+        "Ramasamy, Senthilkumar",
+        "Rajendra, Saradh Prasad",
+        "Murali, G",
+        "In, Insik",
+        "Lee, Seung Jun",
+        "Angaiah, Subramania"
+      ],
+      "J": [
+        "Electrochimica Acta"
+      ],
+      "V": [
+        "531"
+      ],
+      "P": [
+        "146368"
+      ],
+      "@": [
+        "0013-4686"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 133,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Rapidly Crosslinked Self‐Healing, Adhesive MXene Hydrogel Toward Electromagnetic/Shockwave Protection and Wide‐Frequency Sensing"
+      ],
+      "A": [
+        "Wang, Yadi",
+        "Jiao, Sen",
+        "Weng, Chuanxin",
+        "Guo, Xiaodong",
+        "Wu, Na",
+        "Gao, Ze",
+        "Sui, Zhuyin",
+        "Zeng, Zhihui"
+      ],
+      "J": [
+        "Advanced Functional Materials"
+      ],
+      "P": [
+        "e76276"
+      ],
+      "@": [
+        "1616-301X"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 134,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Advanced hydrogel electrolyte with enhanced interfacial adhesion and low-temperature resistant for flexible zinc-ion batteries"
+      ],
+      "A": [
+        "Huang, Fuyao",
+        "Guo, YuJia",
+        "Zhao, Wenkai",
+        "Wu, Runhai",
+        "Dong, Yuman",
+        "Long, Guankui",
+        "Du, Pengcheng"
+      ],
+      "J": [
+        "Chemical Engineering Journal"
+      ],
+      "V": [
+        "498"
+      ],
+      "P": [
+        "155248"
+      ],
+      "@": [
+        "1385-8947"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 135,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "MXene embedded hydrogel electrolyte enables stable zinc metal anodes for high-performance self-healing flexible zinc-ion batteries"
+      ],
+      "A": [
+        "Huang, Fuyao",
+        "Wu, Runhai",
+        "Zhang, Li",
+        "Yang, Shaopei",
+        "Li, Junyi",
+        "Zhou, Sai",
+        "Guo, Yujia",
+        "Du, Pengcheng"
+      ],
+      "J": [
+        "Journal of Power Sources"
+      ],
+      "V": [
+        "632"
+      ],
+      "P": [
+        "236343"
+      ],
+      "@": [
+        "0378-7753"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 136,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Engineering Ti-MXene integrated interpenetrating polymer network based hybrid hydrogel electrolytes for high-performance flexible zinc-ion batteries"
+      ],
+      "A": [
+        "Radjendirane, Aakash Carthick",
+        "Ramakrishnan, Saraswathi",
+        "Rajendra, Saradh Prasad",
+        "Vediappan, Kumaran",
+        "In, Insik",
+        "Lee, Seung Jun",
+        "Angaiah, Subramania"
+      ],
+      "J": [
+        "Journal of Power Sources"
+      ],
+      "V": [
+        "652"
+      ],
+      "P": [
+        "237660"
+      ],
+      "@": [
+        "0378-7753"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 137,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Additive-free MXene inks and direct printing of micro-supercapacitors"
+      ],
+      "A": [
+        "Zhang, Chuanfang",
+        "McKeon, Lorcan",
+        "Kremer, Matthias P",
+        "Park, Sang-Hoon",
+        "Ronan, Oskar",
+        "Seral‐Ascaso, Andrés",
+        "Barwich, Sebastian",
+        "Coileáin, Cormac Ó",
+        "McEvoy, Niall",
+        "Nerl, Hannah C"
+      ],
+      "J": [
+        "Nature communications"
+      ],
+      "V": [
+        "10"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "1795"
+      ],
+      "@": [
+        "2041-1723"
+      ],
+      "D": [
+        "2019"
+      ],
+      "I": [
+        "Nature Publishing Group UK, London"
+      ]
+    }
+  },
+  {
+    "number": 138,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Versatile N‐doped MXene ink for printed electrochemical energy storage application"
+      ],
+      "A": [
+        "Yu, Lianghao",
+        "Fan, Zhaodi",
+        "Shao, Yuanlong",
+        "Tian, Zhengnan",
+        "Sun, Jingyu",
+        "Liu, Zhongfan"
+      ],
+      "J": [
+        "Advanced Energy Materials"
+      ],
+      "V": [
+        "9"
+      ],
+      "N": [
+        "34"
+      ],
+      "P": [
+        "1901839"
+      ],
+      "@": [
+        "1614-6832"
+      ],
+      "D": [
+        "2019"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 139,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Direct writing of additive‐free MXene‐in‐Water ink for electronics and energy storage"
+      ],
+      "A": [
+        "Quain, Evan",
+        "Mathis, Tyler S",
+        "Kurra, Narendra",
+        "Maleski, Kathleen",
+        "Van Aken, Katherine L",
+        "Alhabeb, Mohamed",
+        "Alshareef, Husam N",
+        "Gogotsi, Yury"
+      ],
+      "J": [
+        "Advanced Materials Technologies"
+      ],
+      "V": [
+        "4"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "1800256"
+      ],
+      "@": [
+        "2365-709X"
+      ],
+      "D": [
+        "2019"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 140,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Ultrastretchable, multihealable, and highly sensitive strain sensor based on a double cross-linked MXene hydrogel"
+      ],
+      "A": [
+        "Yang, Jie",
+        "Cheng, Jianli",
+        "Qi, Guicai",
+        "Wang, Bin"
+      ],
+      "J": [
+        "ACS Applied Materials & Interfaces"
+      ],
+      "V": [
+        "15"
+      ],
+      "N": [
+        "13"
+      ],
+      "P": [
+        "17163-17174"
+      ],
+      "@": [
+        "1944-8244"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 141,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Flexible accelerated‐wound‐healing antibacterial MXene‐based epidermic sensor for intelligent wearable human‐machine interaction"
+      ],
+      "A": [
+        "Li, Mingkun",
+        "Zhang, Yunfei",
+        "Lian, Lishuyi",
+        "Liu, Kuo",
+        "Lu, Ming",
+        "Chen, Youbai",
+        "Zhang, Liqun",
+        "Zhang, Xingcai",
+        "Wan, Pengbo"
+      ],
+      "J": [
+        "Advanced Functional Materials"
+      ],
+      "V": [
+        "32"
+      ],
+      "N": [
+        "47"
+      ],
+      "P": [
+        "2208141"
+      ],
+      "@": [
+        "1616-301X"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 142,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "High-sensitivity wearable sensor based on a MXene nanochannel self-adhesive hydrogel"
+      ],
+      "A": [
+        "Gong, Tao",
+        "Li, Zo ngyang",
+        "Liang, Huanyi",
+        "Li, Youming",
+        "Tang, Xia",
+        "Chen, Fengyue",
+        "Hu, Qinghua",
+        "Wang, HongQing"
+      ],
+      "J": [
+        "ACS Applied Materials & Interfaces"
+      ],
+      "V": [
+        "15"
+      ],
+      "N": [
+        "15"
+      ],
+      "P": [
+        "19349-19361"
+      ],
+      "@": [
+        "1944-8244"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 143,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Biodegradable electronics: cornerstone for sustainable electronics and transient applications"
+      ],
+      "A": [
+        "Tan, Mein Jin",
+        "Owh, Cally",
+        "Chee, Pei Lin",
+        "Kyaw, Aung Ko Ko",
+        "Kai, Dan",
+        "Loh, Xian Jun"
+      ],
+      "J": [
+        "Journal of Materials Chemistry C"
+      ],
+      "V": [
+        "4"
+      ],
+      "N": [
+        "24"
+      ],
+      "P": [
+        "5531-5558"
+      ],
+      "@": [
+        "2050-7526"
+      ],
+      "D": [
+        "2016"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 144,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Self-healable, self-adhesive and degradable MXene-based multifunctional hydrogel for flexible epidermal sensors"
+      ],
+      "A": [
+        "Sun, Shuxian",
+        "Yuan, Ruoxin",
+        "Ling, Shangwen",
+        "Zhou, Tiantian",
+        "Wu, Ziqin",
+        "Fu, Mengyuan",
+        "He, Hanna",
+        "Li, Xiaolong",
+        "Zhang, Chuhong"
+      ],
+      "J": [
+        "ACS Applied Materials & Interfaces"
+      ],
+      "V": [
+        "16"
+      ],
+      "N": [
+        "6"
+      ],
+      "P": [
+        "7826-7837"
+      ],
+      "@": [
+        "1944-8244"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 145,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Self‐Evolving Hydrogel Dressing Temporally Accelerates Infected Diabetic Wound Healing"
+      ],
+      "A": [
+        "Liu, Chenyang",
+        "Zhao, Huichen",
+        "Qian, Junmin",
+        "Xiao, Mofan",
+        "Wang, Jinlei",
+        "Wang, Yaping",
+        "Li, Xinyu",
+        "Han, Bei",
+        "Bai, Zhuanli",
+        "Xu, Weijun"
+      ],
+      "J": [
+        "Advanced Materials"
+      ],
+      "V": [
+        "38"
+      ],
+      "N": [
+        "30"
+      ],
+      "P": [
+        "e23302"
+      ],
+      "@": [
+        "0935-9648"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 146,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "A Unified Polymer Hydrogel Electrolyte Integrating Robust Adhesion, Self‐Healing, and Oxygen Permeability in Flexible Neutral Zn‐Air Batteries"
+      ],
+      "A": [
+        "Sun, Zhenyu",
+        "Liao, Kaiming",
+        "Zhou, Wei",
+        "Shao, Zongping"
+      ],
+      "J": [
+        "Advanced Materials"
+      ],
+      "P": [
+        "e73665"
+      ],
+      "@": [
+        "0935-9648"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 147,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "A high-performance and biodegradable tribopositive poly-ε-caprolactone/ethyl cellulose material"
+      ],
+      "A": [
+        "Fan, Chonghui",
+        "Huang, Jieyu",
+        "Mensah, Alfred",
+        "Long, Zhiwen",
+        "Sun, Jianguo",
+        "Wei, Qufu"
+      ],
+      "J": [
+        "Cell Reports Physical Science"
+      ],
+      "V": [
+        "3"
+      ],
+      "N": [
+        "8"
+      ],
+      "@": [
+        "2666-3864"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 148,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Fully biofriendly, biodegradable and recyclable hydrogels based on covalent-like hydrogen bond engineering towards multimodal transient electronics"
+      ],
+      "A": [
+        "Dong, Li",
+        "Wang, Mingxu",
+        "Wu, Jiajia",
+        "Zhang, Chenyang",
+        "Shi, Jian",
+        "Oh, Keimei",
+        "Yao, Lirong",
+        "Zhu, Chunhong",
+        "Morikawa, Hideaki"
+      ],
+      "J": [
+        "Chemical Engineering Journal"
+      ],
+      "V": [
+        "457"
+      ],
+      "P": [
+        "141276"
+      ],
+      "@": [
+        "1385-8947"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 149,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Recent progress in micro‐supercapacitor design, integration, and functionalization"
+      ],
+      "A": [
+        "Wang, Jinhui",
+        "Li, Fei",
+        "Zhu, Feng",
+        "Schmidt, Oliver G"
+      ],
+      "J": [
+        "Small Methods"
+      ],
+      "V": [
+        "3"
+      ],
+      "N": [
+        "8"
+      ],
+      "P": [
+        "1800367"
+      ],
+      "@": [
+        "2366-9608"
+      ],
+      "D": [
+        "2019"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 150,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Super‐stretchable and high‐energy micro‐pseudocapacitors based on MXene embedded Ag nanoparticles"
+      ],
+      "A": [
+        "Cao, Zhiqian",
+        "Zhu, Yin‐Bo",
+        "Chen, Kai",
+        "Wang, Quan",
+        "Li, Yujin",
+        "Xing, Xianjun",
+        "Ru, Jie",
+        "Meng, Ling‐Guo",
+        "Shu, Jie",
+        "Shpigel, Netanel"
+      ],
+      "J": [
+        "Advanced Materials"
+      ],
+      "V": [
+        "36"
+      ],
+      "N": [
+        "26"
+      ],
+      "P": [
+        "2401271"
+      ],
+      "@": [
+        "0935-9648"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 151,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Super‐stretchable and high‐energy micro‐pseudocapacitors based on MXene embedded Ag nanoparticles"
+      ],
+      "A": [
+        "Cao, Zhiqian",
+        "Zhu, Yin‐Bo",
+        "Chen, Kai",
+        "Wang, Quan",
+        "Li, Yujin",
+        "Xing, Xianjun",
+        "Ru, Jie",
+        "Meng, Ling‐Guo",
+        "Shu, Jie",
+        "Shpigel, Netanel"
+      ],
+      "J": [
+        "Advanced Materials"
+      ],
+      "V": [
+        "36"
+      ],
+      "N": [
+        "26"
+      ],
+      "P": [
+        "2401271"
+      ],
+      "@": [
+        "0935-9648"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 152,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Ti3C2T x MXene-based micro-supercapacitors with ultrahigh volumetric energy density for all-in-one Si-electronics"
+      ],
+      "A": [
+        "Huang, Haichao",
+        "Chu, Xiang",
+        "Xie, Yanting",
+        "Zhang, Binbin",
+        "Wang, Zixing",
+        "Duan, Zhongyi",
+        "Chen, Ningjun",
+        "Xu, Zhong",
+        "Zhang, Haitao",
+        "Yang, Weiqing"
+      ],
+      "J": [
+        "ACS nano"
+      ],
+      "V": [
+        "16"
+      ],
+      "N": [
+        "3"
+      ],
+      "P": [
+        "3776-3784"
+      ],
+      "@": [
+        "1936-0851"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 153,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "In‐situ synergistic 2D/2D MXene/BCN heterostructure for superlative energy density supercapacitor with super‐long life"
+      ],
+      "A": [
+        "Nasrin, Kabeer",
+        "Sudharshan, Vasudevan",
+        "Subramani, Kaipannan",
+        "Karnan, Manickavasakam",
+        "Sathish, Marappan"
+      ],
+      "J": [
+        "Small"
+      ],
+      "V": [
+        "18"
+      ],
+      "N": [
+        "4"
+      ],
+      "P": [
+        "2106051"
+      ],
+      "@": [
+        "1613-6810"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 154,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "MnCo2S4–MXene: a novel hybrid electrode material for high performance long-life asymmetric supercapattery"
+      ],
+      "A": [
+        "Nasrin, K",
+        "Subramani, K",
+        "Karnan, M",
+        "Sathish, M"
+      ],
+      "J": [
+        "Journal of colloid and interface science"
+      ],
+      "V": [
+        "600"
+      ],
+      "P": [
+        "264-277"
+      ],
+      "@": [
+        "0021-9797"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 155,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "All-MXene (2D titanium carbide) solid-state microsupercapacitors for on-chip energy storage"
+      ],
+      "A": [
+        "Peng, You-Yu",
+        "Akuzum, Bilen",
+        "Kurra, Narendra",
+        "Zhao, Meng-Qiang",
+        "Alhabeb, Mohamed",
+        "Anasori, Babak",
+        "Kumbur, Emin Caglan",
+        "Alshareef, Husam N",
+        "Ger, Ming-Der",
+        "Gogotsi, Yury"
+      ],
+      "J": [
+        "Energy & Environmental Science"
+      ],
+      "V": [
+        "9"
+      ],
+      "N": [
+        "9"
+      ],
+      "P": [
+        "2847-2854"
+      ],
+      "@": [
+        "1754-5692"
+      ],
+      "D": [
+        "2016"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 156,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Printed supercapacitors: materials, printing and applications"
+      ],
+      "A": [
+        "Zhang, Yi-Zhou",
+        "Wang, Yang",
+        "Cheng, Tao",
+        "Yao, Lan-Qian",
+        "Li, Xiangchun",
+        "Lai, Wen-Yong",
+        "Huang, Wei"
+      ],
+      "J": [
+        "Chemical Society Reviews"
+      ],
+      "V": [
+        "48"
+      ],
+      "N": [
+        "12"
+      ],
+      "P": [
+        "3229-3264"
+      ],
+      "@": [
+        "0306-0012"
+      ],
+      "D": [
+        "2019"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 157,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Micro-supercapacitors of exceptionally high capacitance fabricated using intrinsically stable MXene inks via electrohydrodynamic jet printing"
+      ],
+      "A": [
+        "Ali, Shahzaib",
+        "Khalil, Shaheer Mohiuddin",
+        "Shahzad, Faisal",
+        "Im, Busi",
+        "Hussain, Tanveer",
+        "Kotmool, Komsilp",
+        "Nguyen, Vu Dat",
+        "Arafat, Hassan A",
+        "Cho, Dae-Hyun",
+        "Byun, Doyoung"
+      ],
+      "J": [
+        "Materials Science and Engineering: R: Reports"
+      ],
+      "V": [
+        "168"
+      ],
+      "P": [
+        "101148"
+      ],
+      "@": [
+        "0927-796X"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 158,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Interlayer-spacing-regulated MXene/rGO foam for multi-functional zinc-ion microcapacitors"
+      ],
+      "A": [
+        "Zhang, Hongyun",
+        "Wei, Zhichao",
+        "Wu, Jinghang",
+        "Cheng, Feng",
+        "Ma, Yanan",
+        "Liu, Weijie",
+        "Cheng, Yongfa",
+        "Lin, Yangjian",
+        "Liu, Nishuang",
+        "Gao, Yihua"
+      ],
+      "J": [
+        "Energy Storage Materials"
+      ],
+      "V": [
+        "50"
+      ],
+      "P": [
+        "444-453"
+      ],
+      "@": [
+        "2405-8297"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 159,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Ionic liquid-wrapped MXene film with bowl-like structures for highly integrated micro-supercapacitor array with ultrahigh output voltage"
+      ],
+      "A": [
+        "Ren, Cai-Yun",
+        "Qiu, Sheng-You",
+        "Zhai, Jing-Ru",
+        "Zhang, Ke-Qi",
+        "Lu, Jia-Xing",
+        "Gao, Jian",
+        "Wang, Chuang",
+        "Zhang, Yong-Chao",
+        "Zhu, Xiao-Dong"
+      ],
+      "J": [
+        "Nano Research"
+      ],
+      "V": [
+        "16"
+      ],
+      "N": [
+        "4"
+      ],
+      "P": [
+        "4926-4932"
+      ],
+      "@": [
+        "1998-0124"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Springer"
+      ]
+    }
+  },
+  {
+    "number": 160,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Functional integrated electromagnetic interference shielding in flexible micro-supercapacitors by cation-intercalation typed Ti3C2Tx MXene"
+      ],
+      "A": [
+        "Feng, Xin",
+        "Ning, Jing",
+        "Wang, Boyu",
+        "Guo, Haibin",
+        "Xia, Maoyang",
+        "Wang, Dong",
+        "Zhang, Jincheng",
+        "Wu, Zhong-Shuai",
+        "Hao, Yue"
+      ],
+      "J": [
+        "Nano Energy"
+      ],
+      "V": [
+        "72"
+      ],
+      "P": [
+        "104741"
+      ],
+      "@": [
+        "2211-2855"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 161,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "An inkjet-printing ink based on porous NiS/N-MXene for high-performance asymmetric micro-supercapacitors and self-powered microelectronics"
+      ],
+      "A": [
+        "Sun, Pengcheng",
+        "Liu, Jingyuan",
+        "Liu, Qi",
+        "Yu, Jing",
+        "Chen, Rongrong",
+        "Zhu, Jiahui",
+        "Sun, Gaohui",
+        "Li, Ying",
+        "Liu, Peili",
+        "Wang, Jun"
+      ],
+      "J": [
+        "Chemical Engineering Journal"
+      ],
+      "V": [
+        "474"
+      ],
+      "P": [
+        "145466"
+      ],
+      "@": [
+        "1385-8947"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 162,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Screen-printable microscale hybrid device based on MXene and layered double hydroxide electrodes for powering force sensors"
+      ],
+      "A": [
+        "Xu, Shuaikai",
+        "Dall’Agnese, Yohan",
+        "Wei, Guodong",
+        "Zhang, Chao",
+        "Gogotsi, Yury",
+        "Han, Wei"
+      ],
+      "J": [
+        "Nano energy"
+      ],
+      "V": [
+        "50"
+      ],
+      "P": [
+        "479-488"
+      ],
+      "@": [
+        "2211-2855"
+      ],
+      "D": [
+        "2018"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 163,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "A MXene@ fluoride graphdiyne heterostructured anode with interface synergistic effects for lithium-ion batteries"
+      ],
+      "A": [
+        "Wang, Yongbin",
+        "Xu, Jing",
+        "Zhou, Bin",
+        "Wang, Hanying",
+        "Pu, Ben",
+        "Zeng, Xianhao",
+        "Luo, Zimeng",
+        "Feng, Qingguo",
+        "Feng, Guilin",
+        "Liu, Yan"
+      ],
+      "J": [
+        "Chemical Engineering Journal"
+      ],
+      "P": [
+        "167719"
+      ],
+      "@": [
+        "1385-8947"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 164,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Pillared MXene with ultralarge interlayer spacing as a stable matrix for high performance sodium metal anodes"
+      ],
+      "A": [
+        "Luo, Jianmin",
+        "Wang, Chuanlong",
+        "Wang, Huan",
+        "Hu, Xiaofei",
+        "Matios, Edward",
+        "Lu, Xuan",
+        "Zhang, Wenkui",
+        "Tao, Xinyong",
+        "Li, Weiyang"
+      ],
+      "J": [
+        "Advanced Functional Materials"
+      ],
+      "V": [
+        "29"
+      ],
+      "N": [
+        "3"
+      ],
+      "P": [
+        "1805946"
+      ],
+      "@": [
+        "1616-301X"
+      ],
+      "D": [
+        "2019"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 165,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Progress in 3D-MXene electrodes for lithium/sodium/potassium/magnesium/zinc/aluminum-ion batteries"
+      ],
+      "A": [
+        "Bashir, Tariq",
+        "Zhou, Shaowen",
+        "Yang, Shiqi",
+        "Ismail, Sara Adeeba",
+        "Ali, Tariq",
+        "Wang, Hao",
+        "Zhao, Jianqing",
+        "Gao, Lijun"
+      ],
+      "J": [
+        "Electrochemical Energy Reviews"
+      ],
+      "V": [
+        "6"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "5"
+      ],
+      "@": [
+        "2520-8489"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Springer"
+      ]
+    }
+  },
+  {
+    "number": 166,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Flexible self-supporting CoFe-LDH/MXene film as a chloride ions storage electrode in capacitive deionization"
+      ],
+      "A": [
+        "Lei, Jingjing",
+        "Xiong, Yuecheng",
+        "Yu, Fei",
+        "Ma, Jie"
+      ],
+      "J": [
+        "Chemical Engineering Journal"
+      ],
+      "V": [
+        "437"
+      ],
+      "P": [
+        "135381"
+      ],
+      "@": [
+        "1385-8947"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 167,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "3D printed dual network Cross-Linked hydrogel electrolytes for high area capacity flexible zinc ion Micro-Batteries"
+      ],
+      "A": [
+        "Lu, Yongyi",
+        "Li, Zongyang",
+        "Wang, Xin",
+        "Wang, Zhihao",
+        "Li, Min",
+        "Hu, Xinyu",
+        "Wang, Yuehui",
+        "Liu, Haimei",
+        "Wang, Yonggang"
+      ],
+      "J": [
+        "Chemical Engineering Journal"
+      ],
+      "V": [
+        "490"
+      ],
+      "P": [
+        "151523"
+      ],
+      "@": [
+        "1385-8947"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 168,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Scalable, and low-cost treating-cutting-coating manufacture platform for MXene-based on-chip micro-supercapacitors"
+      ],
+      "A": [
+        "Huang, Haichao",
+        "He, Jiaqi",
+        "Wang, Zixing",
+        "Zhang, Haitao",
+        "Jin, Long",
+        "Chen, Ningjun",
+        "Xie, Yanting",
+        "Chu, Xiang",
+        "Gu, Bingni",
+        "Deng, Weili"
+      ],
+      "J": [
+        "Nano Energy"
+      ],
+      "V": [
+        "69"
+      ],
+      "P": [
+        "104431"
+      ],
+      "@": [
+        "2211-2855"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 169,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Redox-Active MXene-Based Conductive Composite Ink for Bio-Compatible 3D-Printed Microsupercapacitors and Mechanically Adaptive Electronics"
+      ],
+      "A": [
+        "Das, Jyoti Prakash",
+        "Banti, Boka Fikadu",
+        "Nardekar, Swapnil Shital",
+        "Rao, Vempuluru Navakoteswara",
+        "Bejigo, Keyru Serbara",
+        "Joshua, Alex",
+        "Lee, Jaebeom",
+        "Kim, Sang-Jae"
+      ],
+      "J": [
+        "Composites Part B: Engineering"
+      ],
+      "P": [
+        "113950"
+      ],
+      "@": [
+        "1359-8368"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 170,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "A review of on-chip micro supercapacitors for integrated self-powering systems"
+      ],
+      "A": [
+        "Shen, Caiwei",
+        "Xu, Sixing",
+        "Xie, Yingxi",
+        "Sanghadasa, Mohan",
+        "Wang, Xiaohong",
+        "Lin, Liwei"
+      ],
+      "J": [
+        "Journal of Microelectromechanical Systems"
+      ],
+      "V": [
+        "26"
+      ],
+      "N": [
+        "5"
+      ],
+      "P": [
+        "949-965"
+      ],
+      "@": [
+        "1057-7157"
+      ],
+      "D": [
+        "2017"
+      ],
+      "I": [
+        "IEEE"
+      ]
+    }
+  },
+  {
+    "number": 171,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "A seamlessly integrated device of micro-supercapacitor and wireless charging with ultrahigh energy density and capacitance"
+      ],
+      "A": [
+        "Gao, Chang",
+        "Huang, Jiancheng",
+        "Xiao, Yukun",
+        "Zhang, Guoqiang",
+        "Dai, Chunlong",
+        "Li, Zengling",
+        "Zhao, Yang",
+        "Jiang, Lan",
+        "Qu, Liangti"
+      ],
+      "J": [
+        "Nature communications"
+      ],
+      "V": [
+        "12"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "2647"
+      ],
+      "@": [
+        "2041-1723"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "Nature Publishing Group UK, London"
+      ]
+    }
+  },
+  {
+    "number": 172,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Aqueous MXene/PH1000 hybrid inks for inkjet‐printing micro‐supercapacitors with unprecedented volumetric capacitance and modular self‐powered microelectronics"
+      ],
+      "A": [
+        "Ma, Jiaxin",
+        "Zheng, Shuanghao",
+        "Cao, Yuexian",
+        "Zhu, Yuanyuan",
+        "Das, Pratteek",
+        "Wang, Hui",
+        "Liu, Yu",
+        "Wang, Jiemin",
+        "Chi, Liping",
+        "Liu, Shengzhong"
+      ],
+      "J": [
+        "Advanced Energy Materials"
+      ],
+      "V": [
+        "11"
+      ],
+      "N": [
+        "23"
+      ],
+      "P": [
+        "2100746"
+      ],
+      "@": [
+        "1614-6832"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 173,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Vertically oriented MXene bridging the frequency response and capacity density gap for AC‐filtering pseudocapacitors"
+      ],
+      "A": [
+        "Wen, Yeye",
+        "Chen, Hongwu",
+        "Wu, Mingmao",
+        "Li, Chun"
+      ],
+      "J": [
+        "Advanced Functional Materials"
+      ],
+      "V": [
+        "32"
+      ],
+      "N": [
+        "21"
+      ],
+      "P": [
+        "2111613"
+      ],
+      "@": [
+        "1616-301X"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 174,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "New two-dimensional niobium and vanadium carbides as promising materials for Li-ion batteries"
+      ],
+      "A": [
+        "Naguib, Michael",
+        "Halim, Joseph",
+        "Lu, Jun",
+        "Cook, Kevin M",
+        "Hultman, Lars",
+        "Gogotsi, Yury",
+        "Barsoum, Michel W"
+      ],
+      "J": [
+        "Journal of the American Chemical Society"
+      ],
+      "V": [
+        "135"
+      ],
+      "N": [
+        "43"
+      ],
+      "P": [
+        "15966-15969"
+      ],
+      "@": [
+        "0002-7863"
+      ],
+      "D": [
+        "2013"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 175,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Two-dimensional, ordered, double transition metals carbides (MXenes)"
+      ],
+      "A": [
+        "Anasori, Babak",
+        "Xie, Yu",
+        "Beidaghi, Majid",
+        "Lu, Jun",
+        "Hosler, Brian C",
+        "Hultman, Lars",
+        "Kent, Paul RC",
+        "Gogotsi, Yury",
+        "Barsoum, Michel W"
+      ],
+      "J": [
+        "ACS nano"
+      ],
+      "V": [
+        "9"
+      ],
+      "N": [
+        "10"
+      ],
+      "P": [
+        "9507-9516"
+      ],
+      "@": [
+        "1936-0851"
+      ],
+      "D": [
+        "2015"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 176,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Two-dimensional vanadium carbide (MXene) as a high-capacity cathode material for rechargeable aluminum batteries"
+      ],
+      "A": [
+        "VahidMohammadi, Armin",
+        "Hadjikhani, Ali",
+        "Shahbazmohamadi, Sina",
+        "Beidaghi, Majid"
+      ],
+      "J": [
+        "ACS nano"
+      ],
+      "V": [
+        "11"
+      ],
+      "N": [
+        "11"
+      ],
+      "P": [
+        "11135-11144"
+      ],
+      "@": [
+        "1936-0851"
+      ],
+      "D": [
+        "2017"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 177,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "A hydrogel electrolyte toward a flexible zinc-ion battery and multifunctional health monitoring electronics"
+      ],
+      "A": [
+        "Wang, Zhiqiao",
+        "Xue, Rongrong",
+        "Zhang, Huiqing",
+        "Zhang, Yichi",
+        "Tang, Xiaoyu",
+        "Wang, Helin",
+        "Shao, Ahu",
+        "Ma, Yue"
+      ],
+      "J": [
+        "ACS nano"
+      ],
+      "V": [
+        "18"
+      ],
+      "N": [
+        "10"
+      ],
+      "P": [
+        "7596-7609"
+      ],
+      "@": [
+        "1936-0851"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 178,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "A self-powered flexible tactile sensor utilizing chemical battery reactions to detect static and dynamic stimuli"
+      ],
+      "A": [
+        "Li, Sen",
+        "Cheng, Yu",
+        "Deng, Ka",
+        "Sun, Hongyan"
+      ],
+      "J": [
+        "Nano Energy"
+      ],
+      "V": [
+        "124"
+      ],
+      "P": [
+        "109461"
+      ],
+      "@": [
+        "2211-2855"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 179,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Multifunctional zincophilic hydrogel electrolyte with abundant hydrogen bonds for zinc-ion capacitors and supercapacitors"
+      ],
+      "A": [
+        "Cui, Shuzhen",
+        "Miao, Wenxing",
+        "Wang, Xiangbing",
+        "Sun, Kanjun",
+        "Peng, Hui",
+        "Ma, Guofu"
+      ],
+      "J": [
+        "ACS nano"
+      ],
+      "V": [
+        "18"
+      ],
+      "N": [
+        "19"
+      ],
+      "P": [
+        "12355-12366"
+      ],
+      "@": [
+        "1936-0851"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 180,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Exploiting the fundamentals of biological organization for the advancement of biofabrication"
+      ],
+      "A": [
+        "Hill, Jordan",
+        "Wildman, Ricky",
+        "Mata, Alvaro"
+      ],
+      "J": [
+        "Current opinion in biotechnology"
+      ],
+      "V": [
+        "74"
+      ],
+      "P": [
+        "42-54"
+      ],
+      "@": [
+        "0958-1669"
+      ],
+      "D": [
+        "2022"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 181,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "25th anniversary article: engineering hydrogels for biofabrication"
+      ],
+      "A": [
+        "Malda, Jos",
+        "Visser, Jetze",
+        "Melchels, Ferry P",
+        "Jüngst, Tomasz",
+        "Hennink, Wim E",
+        "Dhert, Wouter JA",
+        "Groll, Jürgen",
+        "Hutmacher, Dietmar W"
+      ],
+      "J": [
+        "Advanced materials"
+      ],
+      "V": [
+        "25"
+      ],
+      "N": [
+        "36"
+      ],
+      "P": [
+        "5011-5028"
+      ],
+      "@": [
+        "0935-9648"
+      ],
+      "D": [
+        "2013"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 182,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Hydrogel bioink reinforcement for additive manufacturing: a focused review of emerging strategies"
+      ],
+      "A": [
+        "Chimene, David",
+        "Kaunas, Roland",
+        "Gaharwar, Akhilesh K"
+      ],
+      "J": [
+        "Advanced materials"
+      ],
+      "V": [
+        "32"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "1902026"
+      ],
+      "@": [
+        "0935-9648"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 183,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Smart and biomimetic 3D and 4D printed composite hydrogels: opportunities for different biomedical applications"
+      ],
+      "A": [
+        "Malekmohammadi, Samira",
+        "Sedghi Aminabad, Negar",
+        "Sabzi, Amin",
+        "Zarebkohan, Amir",
+        "Razavi, Mehdi",
+        "Vosough, Massoud",
+        "Bodaghi, Mahdi",
+        "Maleki, Hajar"
+      ],
+      "J": [
+        "Biomedicines"
+      ],
+      "V": [
+        "9"
+      ],
+      "N": [
+        "11"
+      ],
+      "P": [
+        "1537"
+      ],
+      "@": [
+        "2227-9059"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "MDPI"
+      ]
+    }
+  },
+  {
+    "number": 184,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "A bioinspired gradient hydrogel electrolyte network with optimized interfacial chemistry toward robust aqueous zinc-ion batteries"
+      ],
+      "A": [
+        "Wang, Qunhao",
+        "Huang, Jing",
+        "Qi, Luhe",
+        "Li, Mei",
+        "Wang, Sijun",
+        "Chen, Junqing",
+        "Sui, Zengyan",
+        "Bi, Tingting",
+        "Tang, Qicai",
+        "Yu, Le"
+      ],
+      "J": [
+        "ACS nano"
+      ],
+      "V": [
+        "19"
+      ],
+      "N": [
+        "29"
+      ],
+      "P": [
+        "26770-26781"
+      ],
+      "@": [
+        "1936-0851"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 185,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Mussel-inspired, hydrophobic association-regulated hydrogel electrolytes with super-adhesive and self-healing properties for durable and flexible zinc-ion batteries"
+      ],
+      "A": [
+        "Wang, Xilin",
+        "Yang, Mengmeng",
+        "Ren, Zhihong",
+        "Zhou, Lei",
+        "Wang, Zhiyu",
+        "Liu, Dan",
+        "Wang, Bin",
+        "Razal, Joselito M",
+        "Cheng, Jianli"
+      ],
+      "J": [
+        "Energy Storage Materials"
+      ],
+      "V": [
+        "70"
+      ],
+      "P": [
+        "103523"
+      ],
+      "@": [
+        "2405-8297"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 186,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Bio-inspired self-assembly of ordered interface topology for robust composite solid electrolytes"
+      ],
+      "A": [
+        "Wang, Youwei",
+        "Hu, Anjun",
+        "Sun, Feng",
+        "Yang, Wei",
+        "Li, Yuanjian",
+        "Chen, Kai",
+        "Hu, Yajie",
+        "Mu, Yongbiao",
+        "Yang, Lin",
+        "Shen, Zhenzhen"
+      ],
+      "J": [
+        "Energy & Environmental Science"
+      ],
+      "V": [
+        "19"
+      ],
+      "N": [
+        "20"
+      ],
+      "P": [
+        "7183-7195"
+      ],
+      "@": [
+        "1754-5692"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 187,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Wearable MXene nanocomposites-based strain sensor with tile-like stacked hierarchical microstructure for broad-range ultrasensitive sensing"
+      ],
+      "A": [
+        "Chao, Mingyuan",
+        "Wang, Yonggang",
+        "Ma, Di",
+        "Wu, Xiaoxuan",
+        "Zhang, Weixia",
+        "Zhang, Liqun",
+        "Wan, Pengbo"
+      ],
+      "J": [
+        "Nano Energy"
+      ],
+      "V": [
+        "78"
+      ],
+      "P": [
+        "105187"
+      ],
+      "@": [
+        "2211-2855"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 188,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "All‐MXene‐printed RF resonators as wireless plant wearable sensors for in situ ethylene detection"
+      ],
+      "A": [
+        "Li, Xin",
+        "Sun, Rujing",
+        "Pan, Jingying",
+        "Shi, Zhenghan",
+        "Lv, Jingjiang",
+        "An, Zijian",
+        "He, Yan",
+        "Chen, Qingmei",
+        "Han, Ray PS",
+        "Zhang, Fenni"
+      ],
+      "J": [
+        "Small"
+      ],
+      "V": [
+        "19"
+      ],
+      "N": [
+        "24"
+      ],
+      "P": [
+        "2207889"
+      ],
+      "@": [
+        "1613-6810"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 189,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Bioinspired Self-Assembly-Reinforced Ion Transport and Interface Regulation Enables Sustainable Metal-Ion Batteries for Wearable Electronics"
+      ],
+      "A": [
+        "Ma, Kang",
+        "Zeng, Ran",
+        "Chen, Shuang",
+        "Zhang, Yu",
+        "Wang, Jiqian",
+        "Hu, Xuzhi",
+        "Jiang, Yinzhu",
+        "Xu, Hai",
+        "Pan, Hongge",
+        "Mei, Deqing"
+      ],
+      "J": [
+        "Nano-Micro Letters"
+      ],
+      "V": [
+        "18"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "222"
+      ],
+      "@": [
+        "2311-6706"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "Springer"
+      ]
+    }
+  },
+  {
+    "number": 190,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Flexible Zinc-Ion Battery-Powered Wearable Devices for Vital Sign Monitoring"
+      ],
+      "A": [
+        "Lin, Kaiqi",
+        "Li, Jianlang",
+        "Mao, Juntian",
+        "Huang, Xiaolong",
+        "Gao, Xingyuan"
+      ],
+      "J": [
+        "Advanced Materials & Sustainable Manufacturing"
+      ],
+      "V": [
+        "3"
+      ],
+      "N": [
+        "2"
+      ],
+      "P": [
+        "10006"
+      ],
+      "@": [
+        "3006-2829"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "SCIEPublish"
+      ]
+    }
+  },
+  {
+    "number": 191,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Ultrathin cellulosic gel electrolytes with a gradient hydropenic interface for stable, high-energy and flexible zinc batteries"
+      ],
+      "A": [
+        "Zhai, Jichao",
+        "Zhao, Wang",
+        "Wang, Lei",
+        "Shuai, Jianbo",
+        "Chen, Ruwei",
+        "Ge, Wenjiao",
+        "Zong, Yu",
+        "He, Guanjie",
+        "Wang, Xiaohui"
+      ],
+      "J": [
+        "Energy & Environmental Science"
+      ],
+      "V": [
+        "18"
+      ],
+      "N": [
+        "9"
+      ],
+      "P": [
+        "4241-4250"
+      ],
+      "@": [
+        "1754-5692"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 192,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Cross-scale biomimetic design of loofah sponge-like Ti₃C₂Tₓ fiber electrodes for mechanical robustness and high-performance flexible lithium-ion batteries"
+      ],
+      "A": [
+        "Chen, Yu",
+        "Liu, Hang",
+        "Sun, Gang",
+        "Chang, Yingying",
+        "Yang, Junyan",
+        "Cheng, Lu",
+        "Zhou, Huimin",
+        "Chen, Su",
+        "Lee, Sunhee",
+        "Xia, Xin"
+      ],
+      "J": [
+        "Chemical Engineering Journal"
+      ],
+      "P": [
+        "177132"
+      ],
+      "@": [
+        "1385-8947"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 193,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Integrated health monitoring system with flexible asymmetric supercapacitors based on 2D Ti₃C₂ MXene and transitional metal oxides"
+      ],
+      "A": [
+        "Manoharan, Kaaviah",
+        "Pumera, Martin"
+      ],
+      "J": [
+        "npj Flexible Electronics"
+      ],
+      "V": [
+        "9"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "120"
+      ],
+      "@": [
+        "2397-4621"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Nature Publishing Group UK, London"
+      ]
+    }
+  },
+  {
+    "number": 194,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Phase Transition Driven Zn‐Ion Battery With Laser‐Processed V2C/V2O5 Electrodes for Wearable Temperature Monitoring"
+      ],
+      "A": [
+        "Deshmukh, Sujit",
+        "Vaghasiya, Jayraj V",
+        "Michalička, Jan",
+        "Langer, Rostislav",
+        "Otyepka, Michal",
+        "Pumera, Martin"
+      ],
+      "J": [
+        "Small"
+      ],
+      "V": [
+        "21"
+      ],
+      "N": [
+        "7"
+      ],
+      "P": [
+        "2409987"
+      ],
+      "@": [
+        "1613-6810"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 195,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Zn-PAA-C hydrogel for integrated energy storage and self-diagnostic health monitoring in wearable biomedical devices"
+      ],
+      "A": [
+        "Lu, Dejun",
+        "Hao, Yunchao",
+        "Wang, Zhiqiao",
+        "He, Jun",
+        "Huang, Xiaojiang",
+        "Shi, Yunxiang",
+        "Gao, Shuai",
+        "Zhang, Huiqing",
+        "Ma, Yue",
+        "Xu, Feng"
+      ],
+      "J": [
+        "Energy Storage Materials"
+      ],
+      "V": [
+        "80"
+      ],
+      "P": [
+        "104407"
+      ],
+      "@": [
+        "2405-8297"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 196,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Hydrogels with electrically conductive nanomaterials for biomedical applications"
+      ],
+      "A": [
+        "Kougkolos, Georgios",
+        "Golzio, Muriel",
+        "Laudebat, Lionel",
+        "Valdez-Nava, Zarel",
+        "Flahaut, Emmanuel"
+      ],
+      "J": [
+        "Journal of Materials Chemistry B"
+      ],
+      "V": [
+        "11"
+      ],
+      "N": [
+        "10"
+      ],
+      "P": [
+        "2036-2062"
+      ],
+      "@": [
+        "2050-750X"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 197,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Electroactive material-based biosensors for detection and drug delivery"
+      ],
+      "A": [
+        "Olvera, Dinorath",
+        "Monaghan, Michael G"
+      ],
+      "J": [
+        "Advanced drug delivery reviews"
+      ],
+      "V": [
+        "170"
+      ],
+      "P": [
+        "396-424"
+      ],
+      "@": [
+        "0169-409X"
+      ],
+      "D": [
+        "2021"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 198,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Functional two-dimensional materials for bioelectronic neural interfacing"
+      ],
+      "A": [
+        "Karbalaei Akbari, Mohammad",
+        "Siraj Lopa, Nasrin",
+        "Shahriari, Marina",
+        "Najafzadehkhoee, Aliasghar",
+        "Galusek, Dušan",
+        "Zhuiykov, Serge"
+      ],
+      "J": [
+        "Journal of Functional Biomaterials"
+      ],
+      "V": [
+        "14"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "35"
+      ],
+      "@": [
+        "2079-4983"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "MDPI"
+      ]
+    }
+  },
+  {
+    "number": 199,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Small-scale, long-duration, and biodegradable zinc–air batteries"
+      ],
+      "A": [
+        "Zhang, Jingwen",
+        "Allen, Mark G"
+      ],
+      "J": [
+        "EES Batteries"
+      ],
+      "V": [
+        "1"
+      ],
+      "N": [
+        "4"
+      ],
+      "P": [
+        "878-890"
+      ],
+      "@": [
+        "3033-4071"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 200,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Biomimetic and biodegradable separator with high modulus and large ionic conductivity enables dendrite-free zinc-ion batteries"
+      ],
+      "A": [
+        "Ma, Hong",
+        "Chen, Hongli",
+        "Chen, Minfeng",
+        "Li, Anxin",
+        "Han, Xiang",
+        "Ma, Dingtao",
+        "Zhang, Peixin",
+        "Chen, Jizhang"
+      ],
+      "J": [
+        "Nature Communications"
+      ],
+      "V": [
+        "16"
+      ],
+      "N": [
+        "1"
+      ],
+      "P": [
+        "1014"
+      ],
+      "@": [
+        "2041-1723"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Nature Publishing Group UK, London"
+      ]
+    }
+  },
+  {
+    "number": 201,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Bioimplantable and bioresorbable zinc-ion batteries based on biomacromolecule hydrogel electrolytes"
+      ],
+      "A": [
+        "Zhou, Junjie",
+        "Lu, Xiheng",
+        "Li, Chuang",
+        "Zhang, Tieyuan",
+        "Li, Tingrui",
+        "Wu, Xiaozhong",
+        "He, Yanle",
+        "Zhao, Haonan",
+        "Zhou, Hengxing",
+        "Liu, Hong"
+      ],
+      "J": [
+        "Chemical Engineering Journal"
+      ],
+      "V": [
+        "519"
+      ],
+      "P": [
+        "164927"
+      ],
+      "@": [
+        "1385-8947"
+      ],
+      "D": [
+        "2025"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 202,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Biodegradable Mg–Mo2C MXene air batteries for transient energy storage"
+      ],
+      "A": [
+        "Yamada, Shunsuke"
+      ],
+      "J": [
+        "ACS Applied Materials & Interfaces"
+      ],
+      "V": [
+        "16"
+      ],
+      "N": [
+        "12"
+      ],
+      "P": [
+        "14759"
+      ],
+      "D": [
+        "2024"
+      ]
+    }
+  },
+  {
+    "number": 203,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Antibacterial and antioxidant bifunctional hydrogel based on hyaluronic acid complex MoS2–dithiothreitol nanozyme for treatment of infected wounds"
+      ],
+      "A": [
+        "Lu, Yongping",
+        "Kang, Weiqi",
+        "Yu, Yue",
+        "Liang, Ling",
+        "Li, Jinrong",
+        "Lu, Haiying",
+        "Shi, Ping",
+        "He, Mingfang",
+        "Wang, Yuemin",
+        "Li, Jianshu"
+      ],
+      "J": [
+        "Regenerative Biomaterials"
+      ],
+      "V": [
+        "11"
+      ],
+      "P": [
+        "rbae025"
+      ],
+      "@": [
+        "2056-3426"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "Oxford University Press"
+      ]
+    }
+  },
+  {
+    "number": 204,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Rational Design of High Concentration Gel Electrolytes for Advanced Rechargeable Batteries"
+      ],
+      "A": [
+        "Gou, Xinyin",
+        "Guo, Tengfeng",
+        "Yang, Qi",
+        "Li, Weiping",
+        "Deng, Teng",
+        "Cao, Zhenjiang",
+        "Xi, Kai",
+        "Feng, Yaping",
+        "Liu, Yatao"
+      ],
+      "J": [
+        "Advanced Sustainable Systems"
+      ],
+      "V": [
+        "10"
+      ],
+      "N": [
+        "11"
+      ],
+      "P": [
+        "e70702"
+      ],
+      "@": [
+        "2366-7486"
+      ],
+      "D": [
+        "2026"
+      ],
+      "I": [
+        "Wiley Online Library"
+      ]
+    }
+  },
+  {
+    "number": 205,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "ATMP doped conductive PANI/CNTs composite hydrogel electrodes toward high energy density flexible supercapacitors"
+      ],
+      "A": [
+        "Tao, Xueyu",
+        "Ye, Shifang",
+        "Zhu, Kehu",
+        "Dou, Liyang",
+        "Cui, Peixin",
+        "Ma, Jie",
+        "Zhao, Cheng",
+        "Wei, Xianyong",
+        "Guo, Litong",
+        "Hojjati-Najafabadi, Akbar"
+      ],
+      "J": [
+        "ACS Applied Energy Materials"
+      ],
+      "V": [
+        "6"
+      ],
+      "N": [
+        "15"
+      ],
+      "P": [
+        "8177-8188"
+      ],
+      "@": [
+        "2574-0962"
+      ],
+      "D": [
+        "2023"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 206,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "A flexible supercapacitor with high energy density and wide range of temperature tolerance using a high-concentration aqueous gel electrolyte"
+      ],
+      "A": [
+        "Gong, Kyungmo",
+        "Lee, Hanchan",
+        "Choi, Yeonji",
+        "Jung, Gyusung",
+        "Keum, Kayeon",
+        "Kim, Jung Wook",
+        "Ha, Jeong Sook"
+      ],
+      "J": [
+        "Electrochimica Acta"
+      ],
+      "V": [
+        "475"
+      ],
+      "P": [
+        "143585"
+      ],
+      "@": [
+        "0013-4686"
+      ],
+      "D": [
+        "2024"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  },
+  {
+    "number": 207,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Flexible solvent-free supercapacitors with high energy density enabled by electrical-ionic hybrid polymer nanocomposites"
+      ],
+      "A": [
+        "Chi, Cheng",
+        "Li, Yang",
+        "Li, Dezhao",
+        "Huang, He",
+        "Wang, Qi",
+        "Yang, Yuewang",
+        "Huang, Baoling"
+      ],
+      "J": [
+        "Journal of Materials Chemistry A"
+      ],
+      "V": [
+        "7"
+      ],
+      "N": [
+        "28"
+      ],
+      "P": [
+        "16748-16760"
+      ],
+      "@": [
+        "2050-7488"
+      ],
+      "D": [
+        "2019"
+      ],
+      "I": [
+        "The Royal Society of Chemistry"
+      ]
+    }
+  },
+  {
+    "number": 208,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Flexible transparent symmetric solid-state supercapacitors based on NiO-decorated nanofiber-based composite electrodes with excellent mechanical flexibility and cyclability"
+      ],
+      "A": [
+        "Kwak, Chae-Song",
+        "Ko, Tae Hoon",
+        "Lee, Joong Hee",
+        "Kim, Hak-Yong",
+        "Kim, Byoung-Suhk"
+      ],
+      "J": [
+        "ACS Applied Energy Materials"
+      ],
+      "V": [
+        "3"
+      ],
+      "N": [
+        "3"
+      ],
+      "P": [
+        "2394-2403"
+      ],
+      "@": [
+        "2574-0962"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "ACS Publications"
+      ]
+    }
+  },
+  {
+    "number": 209,
+    "fields": {
+      "0": [
+        "Journal Article"
+      ],
+      "T": [
+        "Achieving high-energy density and superior cyclic stability in flexible and lightweight pseudocapacitor through synergic effects of binder-free CoGa2O4 2D-hexagonal nanoplates"
+      ],
+      "A": [
+        "Javed, Muhammad Sufyan",
+        "Shah, Syed Shoaib Ahmad",
+        "Najam, Tayyaba",
+        "Siyal, Sajid Hussain",
+        "Hussain, Shahid",
+        "Saleem, Muhammad",
+        "Zhao, Zhijuan",
+        "Mai, Wenjie"
+      ],
+      "J": [
+        "Nano Energy"
+      ],
+      "V": [
+        "77"
+      ],
+      "P": [
+        "105276"
+      ],
+      "@": [
+        "2211-2855"
+      ],
+      "D": [
+        "2020"
+      ],
+      "I": [
+        "Elsevier"
+      ]
+    }
+  }
+]

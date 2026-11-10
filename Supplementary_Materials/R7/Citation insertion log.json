@@ -1,0 +1,8203 @@
+[
+  {
+    "paragraph_index": 11,
+    "original_marker": "[1], [2], [3]",
+    "original_numbers": [
+      1,
+      2,
+      3
+    ],
+    "linked_original_numbers": [
+      1,
+      2,
+      3
+    ],
+    "endnote_record_ids": [
+      1,
+      2,
+      3
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 12,
+    "original_marker": "[4], [5], [6]",
+    "original_numbers": [
+      4,
+      5,
+      6
+    ],
+    "linked_original_numbers": [
+      4,
+      5,
+      6
+    ],
+    "endnote_record_ids": [
+      4,
+      5,
+      6
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 15,
+    "original_marker": "[12]",
+    "original_numbers": [
+      12
+    ],
+    "linked_original_numbers": [
+      12
+    ],
+    "endnote_record_ids": [
+      12
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 15,
+    "original_marker": "[11]",
+    "original_numbers": [
+      11
+    ],
+    "linked_original_numbers": [
+      11
+    ],
+    "endnote_record_ids": [
+      11
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 15,
+    "original_marker": "[10]",
+    "original_numbers": [
+      10
+    ],
+    "linked_original_numbers": [
+      10
+    ],
+    "endnote_record_ids": [
+      10
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 15,
+    "original_marker": "[9]",
+    "original_numbers": [
+      9
+    ],
+    "linked_original_numbers": [
+      9
+    ],
+    "endnote_record_ids": [
+      9
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 15,
+    "original_marker": "[8]",
+    "original_numbers": [
+      8
+    ],
+    "linked_original_numbers": [
+      8
+    ],
+    "endnote_record_ids": [
+      8
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 15,
+    "original_marker": "[7]",
+    "original_numbers": [
+      7
+    ],
+    "linked_original_numbers": [
+      7
+    ],
+    "endnote_record_ids": [
+      7
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 18,
+    "original_marker": "[2], [5], [16]",
+    "original_numbers": [
+      2,
+      5,
+      16
+    ],
+    "linked_original_numbers": [
+      2,
+      5,
+      16
+    ],
+    "endnote_record_ids": [
+      2,
+      5,
+      16
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 18,
+    "original_marker": "[13], [14], [15]",
+    "original_numbers": [
+      13,
+      14,
+      15
+    ],
+    "linked_original_numbers": [
+      13,
+      14,
+      15
+    ],
+    "endnote_record_ids": [
+      13,
+      14,
+      15
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 20,
+    "original_marker": "[2], [16], [17]",
+    "original_numbers": [
+      2,
+      16,
+      17
+    ],
+    "linked_original_numbers": [
+      2,
+      16,
+      17
+    ],
+    "endnote_record_ids": [
+      2,
+      16,
+      17
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 21,
+    "original_marker": "[2], [13]",
+    "original_numbers": [
+      2,
+      13
+    ],
+    "linked_original_numbers": [
+      2,
+      13
+    ],
+    "endnote_record_ids": [
+      2,
+      13
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 21,
+    "original_marker": "[21], [1]",
+    "original_numbers": [
+      21,
+      1
+    ],
+    "linked_original_numbers": [
+      21,
+      1
+    ],
+    "endnote_record_ids": [
+      21,
+      1
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 21,
+    "original_marker": "[18], [19], [20]",
+    "original_numbers": [
+      18,
+      19,
+      20
+    ],
+    "linked_original_numbers": [
+      18,
+      19,
+      20
+    ],
+    "endnote_record_ids": [
+      18,
+      19,
+      20
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 22,
+    "original_marker": "[13], [14], [17]",
+    "original_numbers": [
+      13,
+      14,
+      17
+    ],
+    "linked_original_numbers": [
+      13,
+      14,
+      17
+    ],
+    "endnote_record_ids": [
+      13,
+      14,
+      17
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 22,
+    "original_marker": "[16], [22]",
+    "original_numbers": [
+      16,
+      22
+    ],
+    "linked_original_numbers": [
+      16,
+      22
+    ],
+    "endnote_record_ids": [
+      16,
+      22
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 24,
+    "original_marker": "[23], [24], [25]",
+    "original_numbers": [
+      23,
+      24,
+      25
+    ],
+    "linked_original_numbers": [
+      23,
+      24,
+      25
+    ],
+    "endnote_record_ids": [
+      23,
+      24,
+      25
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 25,
+    "original_marker": "[26], [27], [28], [29]",
+    "original_numbers": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "linked_original_numbers": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "endnote_record_ids": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 26,
+    "original_marker": "[30], [32], [4]",
+    "original_numbers": [
+      30,
+      32,
+      4
+    ],
+    "linked_original_numbers": [
+      30,
+      32,
+      4
+    ],
+    "endnote_record_ids": [
+      30,
+      32,
+      4
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 26,
+    "original_marker": "[30], [4], [31]",
+    "original_numbers": [
+      30,
+      4,
+      31
+    ],
+    "linked_original_numbers": [
+      30,
+      4,
+      31
+    ],
+    "endnote_record_ids": [
+      30,
+      4,
+      31
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 28,
+    "original_marker": "[38]",
+    "original_numbers": [
+      38
+    ],
+    "linked_original_numbers": [
+      38
+    ],
+    "endnote_record_ids": [
+      38
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 28,
+    "original_marker": "[37]",
+    "original_numbers": [
+      37
+    ],
+    "linked_original_numbers": [
+      37
+    ],
+    "endnote_record_ids": [
+      37
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 28,
+    "original_marker": "[36]",
+    "original_numbers": [
+      36
+    ],
+    "linked_original_numbers": [
+      36
+    ],
+    "endnote_record_ids": [
+      36
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 28,
+    "original_marker": "[35]",
+    "original_numbers": [
+      35
+    ],
+    "linked_original_numbers": [
+      35
+    ],
+    "endnote_record_ids": [
+      35
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 28,
+    "original_marker": "[34]",
+    "original_numbers": [
+      34
+    ],
+    "linked_original_numbers": [
+      34
+    ],
+    "endnote_record_ids": [
+      34
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 28,
+    "original_marker": "[33]",
+    "original_numbers": [
+      33
+    ],
+    "linked_original_numbers": [
+      33
+    ],
+    "endnote_record_ids": [
+      33
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 30,
+    "original_marker": "[2], [39], [16]",
+    "original_numbers": [
+      2,
+      39,
+      16
+    ],
+    "linked_original_numbers": [
+      2,
+      39,
+      16
+    ],
+    "endnote_record_ids": [
+      2,
+      39,
+      16
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 31,
+    "original_marker": "[15] , [31], [39] ,[41], [42]",
+    "original_numbers": [
+      15,
+      31,
+      39,
+      41,
+      42
+    ],
+    "linked_original_numbers": [
+      15,
+      31,
+      39,
+      41,
+      42
+    ],
+    "endnote_record_ids": [
+      15,
+      31,
+      39,
+      41,
+      42
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 31,
+    "original_marker": "[5], [20], [40]",
+    "original_numbers": [
+      5,
+      20,
+      40
+    ],
+    "linked_original_numbers": [
+      5,
+      20,
+      40
+    ],
+    "endnote_record_ids": [
+      5,
+      20,
+      40
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 34,
+    "original_marker": "[43], [41], [45]",
+    "original_numbers": [
+      43,
+      41,
+      45
+    ],
+    "linked_original_numbers": [
+      43,
+      41,
+      45
+    ],
+    "endnote_record_ids": [
+      43,
+      41,
+      45
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 34,
+    "original_marker": "[43], [41], [44]",
+    "original_numbers": [
+      43,
+      41,
+      44
+    ],
+    "linked_original_numbers": [
+      43,
+      41,
+      44
+    ],
+    "endnote_record_ids": [
+      43,
+      41,
+      44
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 34,
+    "original_marker": "[21], [30], [4]",
+    "original_numbers": [
+      21,
+      30,
+      4
+    ],
+    "linked_original_numbers": [
+      21,
+      30,
+      4
+    ],
+    "endnote_record_ids": [
+      21,
+      30,
+      4
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 36,
+    "original_marker": "[21], [23], [46]",
+    "original_numbers": [
+      21,
+      23,
+      46
+    ],
+    "linked_original_numbers": [
+      21,
+      23,
+      46
+    ],
+    "endnote_record_ids": [
+      21,
+      23,
+      46
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 37,
+    "original_marker": "[2], [24], [25]",
+    "original_numbers": [
+      2,
+      24,
+      25
+    ],
+    "linked_original_numbers": [
+      2,
+      24,
+      25
+    ],
+    "endnote_record_ids": [
+      2,
+      24,
+      25
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 37,
+    "original_marker": "[47], [3], [48]",
+    "original_numbers": [
+      47,
+      3,
+      48
+    ],
+    "linked_original_numbers": [
+      47,
+      3,
+      48
+    ],
+    "endnote_record_ids": [
+      47,
+      3,
+      48
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 37,
+    "original_marker": "[47], [3]",
+    "original_numbers": [
+      47,
+      3
+    ],
+    "linked_original_numbers": [
+      47,
+      3
+    ],
+    "endnote_record_ids": [
+      47,
+      3
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 40,
+    "original_marker": "[53]",
+    "original_numbers": [
+      53
+    ],
+    "linked_original_numbers": [
+      53
+    ],
+    "endnote_record_ids": [
+      53
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 40,
+    "original_marker": "[52]",
+    "original_numbers": [
+      52
+    ],
+    "linked_original_numbers": [
+      52
+    ],
+    "endnote_record_ids": [
+      52
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 40,
+    "original_marker": "[51]",
+    "original_numbers": [
+      51
+    ],
+    "linked_original_numbers": [
+      51
+    ],
+    "endnote_record_ids": [
+      51
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 40,
+    "original_marker": "[50]",
+    "original_numbers": [
+      50
+    ],
+    "linked_original_numbers": [
+      50
+    ],
+    "endnote_record_ids": [
+      50
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 40,
+    "original_marker": "[49]",
+    "original_numbers": [
+      49
+    ],
+    "linked_original_numbers": [
+      49
+    ],
+    "endnote_record_ids": [
+      49
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 48,
+    "original_marker": "[49]",
+    "original_numbers": [
+      49
+    ],
+    "linked_original_numbers": [
+      49
+    ],
+    "endnote_record_ids": [
+      49
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 48,
+    "original_marker": "[21], [23], [47], [2], [24], [25]",
+    "original_numbers": [
+      21,
+      23,
+      47,
+      2,
+      24,
+      25
+    ],
+    "linked_original_numbers": [
+      21,
+      23,
+      47,
+      2,
+      24,
+      25
+    ],
+    "endnote_record_ids": [
+      21,
+      23,
+      47,
+      2,
+      24,
+      25
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 49,
+    "original_marker": "[50]",
+    "original_numbers": [
+      50
+    ],
+    "linked_original_numbers": [
+      50
+    ],
+    "endnote_record_ids": [
+      50
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 49,
+    "original_marker": "[50]",
+    "original_numbers": [
+      50
+    ],
+    "linked_original_numbers": [
+      50
+    ],
+    "endnote_record_ids": [
+      50
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 50,
+    "original_marker": "[51]",
+    "original_numbers": [
+      51
+    ],
+    "linked_original_numbers": [
+      51
+    ],
+    "endnote_record_ids": [
+      51
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 50,
+    "original_marker": "[51]",
+    "original_numbers": [
+      51
+    ],
+    "linked_original_numbers": [
+      51
+    ],
+    "endnote_record_ids": [
+      51
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 51,
+    "original_marker": "[53]",
+    "original_numbers": [
+      53
+    ],
+    "linked_original_numbers": [
+      53
+    ],
+    "endnote_record_ids": [
+      53
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 51,
+    "original_marker": "[53]",
+    "original_numbers": [
+      53
+    ],
+    "linked_original_numbers": [
+      53
+    ],
+    "endnote_record_ids": [
+      53
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 51,
+    "original_marker": "[52]",
+    "original_numbers": [
+      52
+    ],
+    "linked_original_numbers": [
+      52
+    ],
+    "endnote_record_ids": [
+      52
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 53,
+    "original_marker": "[54]",
+    "original_numbers": [
+      54
+    ],
+    "linked_original_numbers": [
+      54
+    ],
+    "endnote_record_ids": [
+      54
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 58,
+    "original_marker": "[55]",
+    "original_numbers": [
+      55
+    ],
+    "linked_original_numbers": [
+      55
+    ],
+    "endnote_record_ids": [
+      55
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 58,
+    "original_marker": "[54]",
+    "original_numbers": [
+      54
+    ],
+    "linked_original_numbers": [
+      54
+    ],
+    "endnote_record_ids": [
+      54
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 58,
+    "original_marker": "[55]",
+    "original_numbers": [
+      55
+    ],
+    "linked_original_numbers": [
+      55
+    ],
+    "endnote_record_ids": [
+      55
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 58,
+    "original_marker": "[55]",
+    "original_numbers": [
+      55
+    ],
+    "linked_original_numbers": [
+      55
+    ],
+    "endnote_record_ids": [
+      55
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 58,
+    "original_marker": "[54]",
+    "original_numbers": [
+      54
+    ],
+    "linked_original_numbers": [
+      54
+    ],
+    "endnote_record_ids": [
+      54
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 60,
+    "original_marker": "[55]",
+    "original_numbers": [
+      55
+    ],
+    "linked_original_numbers": [
+      55
+    ],
+    "endnote_record_ids": [
+      55
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 60,
+    "original_marker": "[55]",
+    "original_numbers": [
+      55
+    ],
+    "linked_original_numbers": [
+      55
+    ],
+    "endnote_record_ids": [
+      55
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 64,
+    "original_marker": "[54], [55]",
+    "original_numbers": [
+      54,
+      55
+    ],
+    "linked_original_numbers": [
+      54,
+      55
+    ],
+    "endnote_record_ids": [
+      54,
+      55
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 70,
+    "original_marker": "[30], [41], [42], [56]",
+    "original_numbers": [
+      30,
+      41,
+      42,
+      56
+    ],
+    "linked_original_numbers": [
+      30,
+      41,
+      42,
+      56
+    ],
+    "endnote_record_ids": [
+      30,
+      41,
+      42,
+      56
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 70,
+    "original_marker": "[28], [30], [54], [55]",
+    "original_numbers": [
+      28,
+      30,
+      54,
+      55
+    ],
+    "linked_original_numbers": [
+      28,
+      30,
+      54,
+      55
+    ],
+    "endnote_record_ids": [
+      28,
+      30,
+      54,
+      55
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 70,
+    "original_marker": "[56]–[57]",
+    "original_numbers": [
+      56,
+      57
+    ],
+    "linked_original_numbers": [
+      56,
+      57
+    ],
+    "endnote_record_ids": [
+      56,
+      61
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 73,
+    "original_marker": "[59]",
+    "original_numbers": [
+      59
+    ],
+    "linked_original_numbers": [
+      36
+    ],
+    "endnote_record_ids": [
+      36
+    ],
+    "action": "corrected source link"
+  },
+  {
+    "paragraph_index": 73,
+    "original_marker": "[58]",
+    "original_numbers": [
+      58
+    ],
+    "linked_original_numbers": [
+      58
+    ],
+    "endnote_record_ids": [
+      57
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 73,
+    "original_marker": "[56]",
+    "original_numbers": [
+      56
+    ],
+    "linked_original_numbers": [
+      56
+    ],
+    "endnote_record_ids": [
+      56
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 73,
+    "original_marker": "[29]",
+    "original_numbers": [
+      29
+    ],
+    "linked_original_numbers": [
+      29
+    ],
+    "endnote_record_ids": [
+      29
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 75,
+    "original_marker": "[26], [27], [60]–[61]",
+    "original_numbers": [
+      26,
+      27,
+      60,
+      61
+    ],
+    "linked_original_numbers": [
+      26,
+      27,
+      60,
+      61
+    ],
+    "endnote_record_ids": [
+      26,
+      27,
+      63,
+      66
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 76,
+    "original_marker": "[29]",
+    "original_numbers": [
+      29
+    ],
+    "linked_original_numbers": [
+      29
+    ],
+    "endnote_record_ids": [
+      29
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 76,
+    "original_marker": "[26], [27], [60]–[61]",
+    "original_numbers": [
+      26,
+      27,
+      60,
+      61
+    ],
+    "linked_original_numbers": [
+      26,
+      27,
+      60,
+      61
+    ],
+    "endnote_record_ids": [
+      26,
+      27,
+      63,
+      66
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 77,
+    "original_marker": "[56]",
+    "original_numbers": [
+      56
+    ],
+    "linked_original_numbers": [
+      56
+    ],
+    "endnote_record_ids": [
+      56
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 77,
+    "original_marker": "[29]",
+    "original_numbers": [
+      29
+    ],
+    "linked_original_numbers": [
+      29
+    ],
+    "endnote_record_ids": [
+      29
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 78,
+    "original_marker": "[65]",
+    "original_numbers": [
+      65
+    ],
+    "linked_original_numbers": [
+      65
+    ],
+    "endnote_record_ids": [
+      70
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 78,
+    "original_marker": "[58]",
+    "original_numbers": [
+      58
+    ],
+    "linked_original_numbers": [
+      58
+    ],
+    "endnote_record_ids": [
+      57
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 78,
+    "original_marker": "[64]",
+    "original_numbers": [
+      64
+    ],
+    "linked_original_numbers": [
+      64
+    ],
+    "endnote_record_ids": [
+      69
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 78,
+    "original_marker": "[63]",
+    "original_numbers": [
+      63
+    ],
+    "linked_original_numbers": [
+      63
+    ],
+    "endnote_record_ids": [
+      68
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 78,
+    "original_marker": "[62]",
+    "original_numbers": [
+      62
+    ],
+    "linked_original_numbers": [
+      62
+    ],
+    "endnote_record_ids": [
+      67
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 78,
+    "original_marker": "[58]",
+    "original_numbers": [
+      58
+    ],
+    "linked_original_numbers": [
+      58
+    ],
+    "endnote_record_ids": [
+      57
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 79,
+    "original_marker": "[59]",
+    "original_numbers": [
+      59
+    ],
+    "linked_original_numbers": [
+      36
+    ],
+    "endnote_record_ids": [
+      36
+    ],
+    "action": "corrected source link"
+  },
+  {
+    "paragraph_index": 79,
+    "original_marker": "[38]",
+    "original_numbers": [
+      38
+    ],
+    "linked_original_numbers": [
+      38
+    ],
+    "endnote_record_ids": [
+      38
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 79,
+    "original_marker": "[37]",
+    "original_numbers": [
+      37
+    ],
+    "linked_original_numbers": [
+      37
+    ],
+    "endnote_record_ids": [
+      37
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 81,
+    "original_marker": "[68]",
+    "original_numbers": [
+      68
+    ],
+    "linked_original_numbers": [
+      68
+    ],
+    "endnote_record_ids": [
+      73
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 81,
+    "original_marker": "[67]",
+    "original_numbers": [
+      67
+    ],
+    "linked_original_numbers": [
+      67
+    ],
+    "endnote_record_ids": [
+      72
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 81,
+    "original_marker": "[36]",
+    "original_numbers": [
+      36
+    ],
+    "linked_original_numbers": [
+      36
+    ],
+    "endnote_record_ids": [
+      36
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 81,
+    "original_marker": "[66]",
+    "original_numbers": [
+      66
+    ],
+    "linked_original_numbers": [
+      66
+    ],
+    "endnote_record_ids": [
+      71
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 81,
+    "original_marker": "[35]",
+    "original_numbers": [
+      35
+    ],
+    "linked_original_numbers": [
+      35
+    ],
+    "endnote_record_ids": [
+      35
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 83,
+    "original_marker": "[66]",
+    "original_numbers": [
+      66
+    ],
+    "linked_original_numbers": [
+      66
+    ],
+    "endnote_record_ids": [
+      71
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 83,
+    "original_marker": "[70]",
+    "original_numbers": [
+      70
+    ],
+    "linked_original_numbers": [
+      70
+    ],
+    "endnote_record_ids": [
+      75
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 83,
+    "original_marker": "[35]",
+    "original_numbers": [
+      35
+    ],
+    "linked_original_numbers": [
+      35
+    ],
+    "endnote_record_ids": [
+      35
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 83,
+    "original_marker": "[69]",
+    "original_numbers": [
+      69
+    ],
+    "linked_original_numbers": [
+      69
+    ],
+    "endnote_record_ids": [
+      74
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 84,
+    "original_marker": "[74]",
+    "original_numbers": [
+      74
+    ],
+    "linked_original_numbers": [
+      74
+    ],
+    "endnote_record_ids": [
+      79
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 84,
+    "original_marker": "[73]",
+    "original_numbers": [
+      73
+    ],
+    "linked_original_numbers": [
+      73
+    ],
+    "endnote_record_ids": [
+      78
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 84,
+    "original_marker": "[72]",
+    "original_numbers": [
+      72
+    ],
+    "linked_original_numbers": [
+      72
+    ],
+    "endnote_record_ids": [
+      77
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 84,
+    "original_marker": "[71]",
+    "original_numbers": [
+      71
+    ],
+    "linked_original_numbers": [
+      71
+    ],
+    "endnote_record_ids": [
+      76
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 86,
+    "original_marker": "[67]",
+    "original_numbers": [
+      67
+    ],
+    "linked_original_numbers": [
+      67
+    ],
+    "endnote_record_ids": [
+      72
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 86,
+    "original_marker": "[75]",
+    "original_numbers": [
+      75
+    ],
+    "linked_original_numbers": [
+      75
+    ],
+    "endnote_record_ids": [
+      80
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 86,
+    "original_marker": "[36]",
+    "original_numbers": [
+      36
+    ],
+    "linked_original_numbers": [
+      36
+    ],
+    "endnote_record_ids": [
+      36
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 87,
+    "original_marker": "[78]",
+    "original_numbers": [
+      78
+    ],
+    "linked_original_numbers": [
+      78
+    ],
+    "endnote_record_ids": [
+      83
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 87,
+    "original_marker": "[77]",
+    "original_numbers": [
+      77
+    ],
+    "linked_original_numbers": [
+      77
+    ],
+    "endnote_record_ids": [
+      82
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 87,
+    "original_marker": "[76]",
+    "original_numbers": [
+      76
+    ],
+    "linked_original_numbers": [
+      76
+    ],
+    "endnote_record_ids": [
+      81
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 89,
+    "original_marker": "[83]",
+    "original_numbers": [
+      83
+    ],
+    "linked_original_numbers": [
+      83
+    ],
+    "endnote_record_ids": [
+      88
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 89,
+    "original_marker": "[82]",
+    "original_numbers": [
+      82
+    ],
+    "linked_original_numbers": [
+      82
+    ],
+    "endnote_record_ids": [
+      87
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 89,
+    "original_marker": "[81]",
+    "original_numbers": [
+      81
+    ],
+    "linked_original_numbers": [
+      81
+    ],
+    "endnote_record_ids": [
+      86
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 89,
+    "original_marker": "[68]",
+    "original_numbers": [
+      68
+    ],
+    "linked_original_numbers": [
+      68
+    ],
+    "endnote_record_ids": [
+      73
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 89,
+    "original_marker": "[80]",
+    "original_numbers": [
+      80
+    ],
+    "linked_original_numbers": [
+      80
+    ],
+    "endnote_record_ids": [
+      85
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 89,
+    "original_marker": "[79]",
+    "original_numbers": [
+      79
+    ],
+    "linked_original_numbers": [
+      79
+    ],
+    "endnote_record_ids": [
+      84
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 89,
+    "original_marker": "[66]",
+    "original_numbers": [
+      66
+    ],
+    "linked_original_numbers": [
+      66
+    ],
+    "endnote_record_ids": [
+      71
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 91,
+    "original_marker": "[84], [85]",
+    "original_numbers": [
+      84,
+      85
+    ],
+    "linked_original_numbers": [
+      84,
+      85
+    ],
+    "endnote_record_ids": [
+      89,
+      90
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 93,
+    "original_marker": "[87]",
+    "original_numbers": [
+      87
+    ],
+    "linked_original_numbers": [
+      87
+    ],
+    "endnote_record_ids": [
+      92
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 93,
+    "original_marker": "[86]",
+    "original_numbers": [
+      86
+    ],
+    "linked_original_numbers": [
+      86
+    ],
+    "endnote_record_ids": [
+      91
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 94,
+    "original_marker": "[88]",
+    "original_numbers": [
+      88
+    ],
+    "linked_original_numbers": [
+      88
+    ],
+    "endnote_record_ids": [
+      93
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 95,
+    "original_marker": "[89]",
+    "original_numbers": [
+      89
+    ],
+    "linked_original_numbers": [
+      89
+    ],
+    "endnote_record_ids": [
+      94
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 97,
+    "original_marker": "[84]",
+    "original_numbers": [
+      84
+    ],
+    "linked_original_numbers": [
+      84
+    ],
+    "endnote_record_ids": [
+      89
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 98,
+    "original_marker": "[90]",
+    "original_numbers": [
+      90
+    ],
+    "linked_original_numbers": [
+      90
+    ],
+    "endnote_record_ids": [
+      95
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 99,
+    "original_marker": "[92]",
+    "original_numbers": [
+      92
+    ],
+    "linked_original_numbers": [
+      92
+    ],
+    "endnote_record_ids": [
+      97
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 99,
+    "original_marker": "[91]",
+    "original_numbers": [
+      91
+    ],
+    "linked_original_numbers": [
+      91
+    ],
+    "endnote_record_ids": [
+      96
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 102,
+    "original_marker": "[94]",
+    "original_numbers": [
+      94
+    ],
+    "linked_original_numbers": [
+      94
+    ],
+    "endnote_record_ids": [
+      99
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 102,
+    "original_marker": "[93]",
+    "original_numbers": [
+      93
+    ],
+    "linked_original_numbers": [
+      93
+    ],
+    "endnote_record_ids": [
+      98
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 103,
+    "original_marker": "[94]",
+    "original_numbers": [
+      94
+    ],
+    "linked_original_numbers": [
+      94
+    ],
+    "endnote_record_ids": [
+      99
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 105,
+    "original_marker": "[95]",
+    "original_numbers": [
+      95
+    ],
+    "linked_original_numbers": [
+      95
+    ],
+    "endnote_record_ids": [
+      100
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 108,
+    "original_marker": "[96]",
+    "original_numbers": [
+      96
+    ],
+    "linked_original_numbers": [
+      96
+    ],
+    "endnote_record_ids": [
+      101
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 110,
+    "original_marker": "[98]",
+    "original_numbers": [
+      98
+    ],
+    "linked_original_numbers": [
+      98
+    ],
+    "endnote_record_ids": [
+      103
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 110,
+    "original_marker": "[97]",
+    "original_numbers": [
+      97
+    ],
+    "linked_original_numbers": [
+      97
+    ],
+    "endnote_record_ids": [
+      102
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 112,
+    "original_marker": "[89]",
+    "original_numbers": [
+      89
+    ],
+    "linked_original_numbers": [
+      89
+    ],
+    "endnote_record_ids": [
+      94
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 112,
+    "original_marker": "[91]",
+    "original_numbers": [
+      91
+    ],
+    "linked_original_numbers": [
+      91
+    ],
+    "endnote_record_ids": [
+      96
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 112,
+    "original_marker": "[99]",
+    "original_numbers": [
+      99
+    ],
+    "linked_original_numbers": [
+      99
+    ],
+    "endnote_record_ids": [
+      104
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 115,
+    "original_marker": "[89]",
+    "original_numbers": [
+      89
+    ],
+    "linked_original_numbers": [
+      89
+    ],
+    "endnote_record_ids": [
+      94
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 115,
+    "original_marker": "[99]",
+    "original_numbers": [
+      99
+    ],
+    "linked_original_numbers": [
+      99
+    ],
+    "endnote_record_ids": [
+      104
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 115,
+    "original_marker": "[95]",
+    "original_numbers": [
+      95
+    ],
+    "linked_original_numbers": [
+      95
+    ],
+    "endnote_record_ids": [
+      100
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 115,
+    "original_marker": "[91]",
+    "original_numbers": [
+      91
+    ],
+    "linked_original_numbers": [
+      91
+    ],
+    "endnote_record_ids": [
+      96
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 115,
+    "original_marker": "[93]",
+    "original_numbers": [
+      93
+    ],
+    "linked_original_numbers": [
+      93
+    ],
+    "endnote_record_ids": [
+      98
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 115,
+    "original_marker": "[90]",
+    "original_numbers": [
+      90
+    ],
+    "linked_original_numbers": [
+      90
+    ],
+    "endnote_record_ids": [
+      95
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 115,
+    "original_marker": "[86]",
+    "original_numbers": [
+      86
+    ],
+    "linked_original_numbers": [
+      86
+    ],
+    "endnote_record_ids": [
+      91
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 117,
+    "original_marker": "[101]",
+    "original_numbers": [
+      101
+    ],
+    "linked_original_numbers": [
+      101
+    ],
+    "endnote_record_ids": [
+      106
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 117,
+    "original_marker": "[100]",
+    "original_numbers": [
+      100
+    ],
+    "linked_original_numbers": [
+      100
+    ],
+    "endnote_record_ids": [
+      105
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 118,
+    "original_marker": "[85]",
+    "original_numbers": [
+      85
+    ],
+    "linked_original_numbers": [
+      85
+    ],
+    "endnote_record_ids": [
+      90
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 125,
+    "original_marker": "[38]",
+    "original_numbers": [
+      38
+    ],
+    "linked_original_numbers": [
+      38
+    ],
+    "endnote_record_ids": [
+      38
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 125,
+    "original_marker": "[65]",
+    "original_numbers": [
+      65
+    ],
+    "linked_original_numbers": [
+      65
+    ],
+    "endnote_record_ids": [
+      70
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 126,
+    "original_marker": "[35]",
+    "original_numbers": [
+      35
+    ],
+    "linked_original_numbers": [
+      35
+    ],
+    "endnote_record_ids": [
+      35
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 127,
+    "original_marker": "[36]",
+    "original_numbers": [
+      36
+    ],
+    "linked_original_numbers": [
+      36
+    ],
+    "endnote_record_ids": [
+      36
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 127,
+    "original_marker": "[36]",
+    "original_numbers": [
+      36
+    ],
+    "linked_original_numbers": [
+      36
+    ],
+    "endnote_record_ids": [
+      36
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 128,
+    "original_marker": "[71]",
+    "original_numbers": [
+      71
+    ],
+    "linked_original_numbers": [
+      71
+    ],
+    "endnote_record_ids": [
+      76
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 128,
+    "original_marker": "[66]",
+    "original_numbers": [
+      66
+    ],
+    "linked_original_numbers": [
+      66
+    ],
+    "endnote_record_ids": [
+      71
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 133,
+    "original_marker": "[36]",
+    "original_numbers": [
+      36
+    ],
+    "linked_original_numbers": [
+      36
+    ],
+    "endnote_record_ids": [
+      36
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 133,
+    "original_marker": "[35]",
+    "original_numbers": [
+      35
+    ],
+    "linked_original_numbers": [
+      35
+    ],
+    "endnote_record_ids": [
+      35
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 133,
+    "original_marker": "[65]",
+    "original_numbers": [
+      65
+    ],
+    "linked_original_numbers": [
+      65
+    ],
+    "endnote_record_ids": [
+      70
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 136,
+    "original_marker": "[5], [29], [41], [43], [102]",
+    "original_numbers": [
+      5,
+      29,
+      41,
+      43,
+      102
+    ],
+    "linked_original_numbers": [
+      5,
+      29,
+      41,
+      43,
+      102
+    ],
+    "endnote_record_ids": [
+      5,
+      29,
+      41,
+      43,
+      107
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 137,
+    "original_marker": "[25], [32], [45], [103], [102]",
+    "original_numbers": [
+      25,
+      32,
+      45,
+      103,
+      102
+    ],
+    "linked_original_numbers": [
+      25,
+      32,
+      45,
+      103,
+      102
+    ],
+    "endnote_record_ids": [
+      25,
+      32,
+      45,
+      108,
+      107
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 138,
+    "original_marker": "[42]",
+    "original_numbers": [
+      42
+    ],
+    "linked_original_numbers": [
+      42
+    ],
+    "endnote_record_ids": [
+      42
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 138,
+    "original_marker": "[42]",
+    "original_numbers": [
+      42
+    ],
+    "linked_original_numbers": [
+      42
+    ],
+    "endnote_record_ids": [
+      42
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 139,
+    "original_marker": "[42]",
+    "original_numbers": [
+      42
+    ],
+    "linked_original_numbers": [
+      42
+    ],
+    "endnote_record_ids": [
+      42
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 140,
+    "original_marker": "[103]",
+    "original_numbers": [
+      103
+    ],
+    "linked_original_numbers": [
+      103
+    ],
+    "endnote_record_ids": [
+      108
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 140,
+    "original_marker": "[103]",
+    "original_numbers": [
+      103
+    ],
+    "linked_original_numbers": [
+      103
+    ],
+    "endnote_record_ids": [
+      108
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 141,
+    "original_marker": "[103]",
+    "original_numbers": [
+      103
+    ],
+    "linked_original_numbers": [
+      103
+    ],
+    "endnote_record_ids": [
+      108
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 142,
+    "original_marker": "[103]",
+    "original_numbers": [
+      103
+    ],
+    "linked_original_numbers": [
+      103
+    ],
+    "endnote_record_ids": [
+      108
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 143,
+    "original_marker": "[104]",
+    "original_numbers": [
+      104
+    ],
+    "linked_original_numbers": [
+      104
+    ],
+    "endnote_record_ids": [
+      109
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 143,
+    "original_marker": "[104]",
+    "original_numbers": [
+      104
+    ],
+    "linked_original_numbers": [
+      104
+    ],
+    "endnote_record_ids": [
+      109
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 144,
+    "original_marker": "[104]",
+    "original_numbers": [
+      104
+    ],
+    "linked_original_numbers": [
+      104
+    ],
+    "endnote_record_ids": [
+      109
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 148,
+    "original_marker": "[104]",
+    "original_numbers": [
+      104
+    ],
+    "linked_original_numbers": [
+      104
+    ],
+    "endnote_record_ids": [
+      109
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 148,
+    "original_marker": "[103]",
+    "original_numbers": [
+      103
+    ],
+    "linked_original_numbers": [
+      103
+    ],
+    "endnote_record_ids": [
+      108
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 148,
+    "original_marker": "[42]",
+    "original_numbers": [
+      42
+    ],
+    "linked_original_numbers": [
+      42
+    ],
+    "endnote_record_ids": [
+      42
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 166,
+    "original_marker": "[25], [32], [45]",
+    "original_numbers": [
+      25,
+      32,
+      45
+    ],
+    "linked_original_numbers": [
+      25,
+      32,
+      45
+    ],
+    "endnote_record_ids": [
+      25,
+      32,
+      45
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 167,
+    "original_marker": "[25], [32], [45]",
+    "original_numbers": [
+      25,
+      32,
+      45
+    ],
+    "linked_original_numbers": [
+      25,
+      32,
+      45
+    ],
+    "endnote_record_ids": [
+      25,
+      32,
+      45
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 167,
+    "original_marker": "[104]",
+    "original_numbers": [
+      104
+    ],
+    "linked_original_numbers": [
+      104
+    ],
+    "endnote_record_ids": [
+      109
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 167,
+    "original_marker": "[103]",
+    "original_numbers": [
+      103
+    ],
+    "linked_original_numbers": [
+      103
+    ],
+    "endnote_record_ids": [
+      108
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 167,
+    "original_marker": "[42]",
+    "original_numbers": [
+      42
+    ],
+    "linked_original_numbers": [
+      42
+    ],
+    "endnote_record_ids": [
+      42
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 181,
+    "original_marker": "[33], [34], [105]",
+    "original_numbers": [
+      33,
+      34,
+      105
+    ],
+    "linked_original_numbers": [
+      33,
+      34,
+      105
+    ],
+    "endnote_record_ids": [
+      33,
+      34,
+      110
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 186,
+    "original_marker": "[65], [106], [37], [38]",
+    "original_numbers": [
+      65,
+      106,
+      37,
+      38
+    ],
+    "linked_original_numbers": [
+      65,
+      106,
+      37,
+      38
+    ],
+    "endnote_record_ids": [
+      70,
+      111,
+      37,
+      38
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 191,
+    "original_marker": "[35], [70], [71], [72], [73]",
+    "original_numbers": [
+      35,
+      70,
+      71,
+      72,
+      73
+    ],
+    "linked_original_numbers": [
+      35,
+      70,
+      71,
+      72,
+      73
+    ],
+    "endnote_record_ids": [
+      35,
+      75,
+      76,
+      77,
+      78
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 196,
+    "original_marker": "[36], [75], [67], [76]",
+    "original_numbers": [
+      36,
+      75,
+      67,
+      76
+    ],
+    "linked_original_numbers": [
+      36,
+      75,
+      67,
+      76
+    ],
+    "endnote_record_ids": [
+      36,
+      80,
+      72,
+      81
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 201,
+    "original_marker": "[66], [79], [80]",
+    "original_numbers": [
+      66,
+      79,
+      80
+    ],
+    "linked_original_numbers": [
+      66,
+      79,
+      80
+    ],
+    "endnote_record_ids": [
+      71,
+      84,
+      85
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 206,
+    "original_marker": "[68], [81], [82], [83]",
+    "original_numbers": [
+      68,
+      81,
+      82,
+      83
+    ],
+    "linked_original_numbers": [
+      68,
+      81,
+      82,
+      83
+    ],
+    "endnote_record_ids": [
+      73,
+      86,
+      87,
+      88
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 210,
+    "original_marker": "[32], [107], [31]",
+    "original_numbers": [
+      32,
+      107,
+      31
+    ],
+    "linked_original_numbers": [
+      32,
+      107,
+      31
+    ],
+    "endnote_record_ids": [
+      32,
+      112,
+      31
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 210,
+    "original_marker": "[32], [107], [108], [109]",
+    "original_numbers": [
+      32,
+      107,
+      108,
+      109
+    ],
+    "linked_original_numbers": [
+      32,
+      107,
+      108,
+      109
+    ],
+    "endnote_record_ids": [
+      32,
+      112,
+      113,
+      114
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 211,
+    "original_marker": "[111], [4]",
+    "original_numbers": [
+      111,
+      4
+    ],
+    "linked_original_numbers": [
+      111,
+      4
+    ],
+    "endnote_record_ids": [
+      116,
+      4
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 211,
+    "original_marker": "[45], [110], [39]",
+    "original_numbers": [
+      45,
+      110,
+      39
+    ],
+    "linked_original_numbers": [
+      45,
+      110,
+      39
+    ],
+    "endnote_record_ids": [
+      45,
+      115,
+      39
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 213,
+    "original_marker": "[116]",
+    "original_numbers": [
+      116
+    ],
+    "linked_original_numbers": [
+      116
+    ],
+    "endnote_record_ids": [
+      121
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 213,
+    "original_marker": "[112], [21], [113], [114], [103], [44], [42], [32], [4], [107], [115], [2], [31]",
+    "original_numbers": [
+      112,
+      21,
+      113,
+      114,
+      103,
+      44,
+      42,
+      32,
+      4,
+      107,
+      115,
+      2,
+      31
+    ],
+    "linked_original_numbers": [
+      112,
+      21,
+      113,
+      114,
+      103,
+      44,
+      42,
+      32,
+      4,
+      107,
+      115,
+      2,
+      31
+    ],
+    "endnote_record_ids": [
+      117,
+      21,
+      118,
+      119,
+      108,
+      44,
+      42,
+      32,
+      4,
+      112,
+      120,
+      2,
+      31
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 223,
+    "original_marker": "[112], [21], [2]",
+    "original_numbers": [
+      112,
+      21,
+      2
+    ],
+    "linked_original_numbers": [
+      112,
+      21,
+      2
+    ],
+    "endnote_record_ids": [
+      117,
+      21,
+      2
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 228,
+    "original_marker": "[113], [114], [103]",
+    "original_numbers": [
+      113,
+      114,
+      103
+    ],
+    "linked_original_numbers": [
+      113,
+      114,
+      103
+    ],
+    "endnote_record_ids": [
+      118,
+      119,
+      108
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 233,
+    "original_marker": "[117], [44], [42]",
+    "original_numbers": [
+      117,
+      44,
+      42
+    ],
+    "linked_original_numbers": [
+      117,
+      44,
+      42
+    ],
+    "endnote_record_ids": [
+      122,
+      44,
+      42
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 238,
+    "original_marker": "[32], [107], [115]",
+    "original_numbers": [
+      32,
+      107,
+      115
+    ],
+    "linked_original_numbers": [
+      32,
+      107,
+      115
+    ],
+    "endnote_record_ids": [
+      32,
+      112,
+      120
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 243,
+    "original_marker": "[31], [116]",
+    "original_numbers": [
+      31,
+      116
+    ],
+    "linked_original_numbers": [
+      31,
+      116
+    ],
+    "endnote_record_ids": [
+      31,
+      121
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 246,
+    "original_marker": "[4], [107], [115], [118]",
+    "original_numbers": [
+      4,
+      107,
+      115,
+      118
+    ],
+    "linked_original_numbers": [
+      4,
+      107,
+      115,
+      118
+    ],
+    "endnote_record_ids": [
+      4,
+      112,
+      120,
+      123
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 246,
+    "original_marker": "[117], [44], [42]",
+    "original_numbers": [
+      117,
+      44,
+      42
+    ],
+    "linked_original_numbers": [
+      117,
+      44,
+      42
+    ],
+    "endnote_record_ids": [
+      122,
+      44,
+      42
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 246,
+    "original_marker": "[113], [114], [103]",
+    "original_numbers": [
+      113,
+      114,
+      103
+    ],
+    "linked_original_numbers": [
+      113,
+      114,
+      103
+    ],
+    "endnote_record_ids": [
+      118,
+      119,
+      108
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 247,
+    "original_marker": "[107]",
+    "original_numbers": [
+      107
+    ],
+    "linked_original_numbers": [
+      107
+    ],
+    "endnote_record_ids": [
+      112
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 248,
+    "original_marker": "[119]",
+    "original_numbers": [
+      119
+    ],
+    "linked_original_numbers": [
+      119
+    ],
+    "endnote_record_ids": [
+      124
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 253,
+    "original_marker": "[120]",
+    "original_numbers": [
+      120
+    ],
+    "linked_original_numbers": [
+      120
+    ],
+    "endnote_record_ids": [
+      125
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 253,
+    "original_marker": "[107]",
+    "original_numbers": [
+      107
+    ],
+    "linked_original_numbers": [
+      107
+    ],
+    "endnote_record_ids": [
+      112
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 253,
+    "original_marker": "[119]",
+    "original_numbers": [
+      119
+    ],
+    "linked_original_numbers": [
+      119
+    ],
+    "endnote_record_ids": [
+      124
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 255,
+    "original_marker": "[120]",
+    "original_numbers": [
+      120
+    ],
+    "linked_original_numbers": [
+      120
+    ],
+    "endnote_record_ids": [
+      125
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 256,
+    "original_marker": "[107]",
+    "original_numbers": [
+      107
+    ],
+    "linked_original_numbers": [
+      107
+    ],
+    "endnote_record_ids": [
+      112
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 258,
+    "original_marker": "[67]",
+    "original_numbers": [
+      67
+    ],
+    "linked_original_numbers": [
+      67
+    ],
+    "endnote_record_ids": [
+      72
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 258,
+    "original_marker": "[36]",
+    "original_numbers": [
+      36
+    ],
+    "linked_original_numbers": [
+      36
+    ],
+    "endnote_record_ids": [
+      36
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 258,
+    "original_marker": "[35]",
+    "original_numbers": [
+      35
+    ],
+    "linked_original_numbers": [
+      35
+    ],
+    "endnote_record_ids": [
+      35
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 258,
+    "original_marker": "[72]",
+    "original_numbers": [
+      72
+    ],
+    "linked_original_numbers": [
+      72
+    ],
+    "endnote_record_ids": [
+      77
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 258,
+    "original_marker": "[38]",
+    "original_numbers": [
+      38
+    ],
+    "linked_original_numbers": [
+      38
+    ],
+    "endnote_record_ids": [
+      38
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 258,
+    "original_marker": "[65]",
+    "original_numbers": [
+      65
+    ],
+    "linked_original_numbers": [
+      65
+    ],
+    "endnote_record_ids": [
+      70
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 260,
+    "original_marker": "[45], [39]",
+    "original_numbers": [
+      45,
+      39
+    ],
+    "linked_original_numbers": [
+      45,
+      39
+    ],
+    "endnote_record_ids": [
+      45,
+      39
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 260,
+    "original_marker": "[107], [121], [24]",
+    "original_numbers": [
+      107,
+      121,
+      24
+    ],
+    "linked_original_numbers": [
+      107,
+      121,
+      24
+    ],
+    "endnote_record_ids": [
+      112,
+      126,
+      24
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 261,
+    "original_marker": "[32], [24], [25]",
+    "original_numbers": [
+      32,
+      24,
+      25
+    ],
+    "linked_original_numbers": [
+      32,
+      24,
+      25
+    ],
+    "endnote_record_ids": [
+      32,
+      24,
+      25
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 261,
+    "original_marker": "[32], [25], [109]",
+    "original_numbers": [
+      32,
+      25,
+      109
+    ],
+    "linked_original_numbers": [
+      32,
+      25,
+      109
+    ],
+    "endnote_record_ids": [
+      32,
+      25,
+      114
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 262,
+    "original_marker": "[122]",
+    "original_numbers": [
+      122
+    ],
+    "linked_original_numbers": [
+      122
+    ],
+    "endnote_record_ids": [
+      127
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 263,
+    "original_marker": "[125], [126], [127]",
+    "original_numbers": [
+      125,
+      126,
+      127
+    ],
+    "linked_original_numbers": [
+      125,
+      126,
+      127
+    ],
+    "endnote_record_ids": [
+      130,
+      131,
+      132
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 263,
+    "original_marker": "[123], [124]",
+    "original_numbers": [
+      123,
+      124
+    ],
+    "linked_original_numbers": [
+      123,
+      124
+    ],
+    "endnote_record_ids": [
+      128,
+      129
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 266,
+    "original_marker": "[128]",
+    "original_numbers": [
+      128
+    ],
+    "linked_original_numbers": [
+      128
+    ],
+    "endnote_record_ids": [
+      133
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 266,
+    "original_marker": "[32]",
+    "original_numbers": [
+      32
+    ],
+    "linked_original_numbers": [
+      32
+    ],
+    "endnote_record_ids": [
+      32
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 266,
+    "original_marker": "[122]",
+    "original_numbers": [
+      122
+    ],
+    "linked_original_numbers": [
+      122
+    ],
+    "endnote_record_ids": [
+      127
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 268,
+    "original_marker": "[107]",
+    "original_numbers": [
+      107
+    ],
+    "linked_original_numbers": [
+      107
+    ],
+    "endnote_record_ids": [
+      112
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 268,
+    "original_marker": "[32]",
+    "original_numbers": [
+      32
+    ],
+    "linked_original_numbers": [
+      32
+    ],
+    "endnote_record_ids": [
+      32
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 268,
+    "original_marker": "[132], [133], [134]",
+    "original_numbers": [
+      132,
+      133,
+      134
+    ],
+    "linked_original_numbers": [
+      132,
+      133,
+      134
+    ],
+    "endnote_record_ids": [
+      137,
+      138,
+      139
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 268,
+    "original_marker": "[129], [130], [131]",
+    "original_numbers": [
+      129,
+      130,
+      131
+    ],
+    "linked_original_numbers": [
+      129,
+      130,
+      131
+    ],
+    "endnote_record_ids": [
+      134,
+      135,
+      136
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 269,
+    "original_marker": "[128]",
+    "original_numbers": [
+      128
+    ],
+    "linked_original_numbers": [
+      128
+    ],
+    "endnote_record_ids": [
+      133
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 269,
+    "original_marker": "[128]",
+    "original_numbers": [
+      128
+    ],
+    "linked_original_numbers": [
+      128
+    ],
+    "endnote_record_ids": [
+      133
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 269,
+    "original_marker": "[128]",
+    "original_numbers": [
+      128
+    ],
+    "linked_original_numbers": [
+      128
+    ],
+    "endnote_record_ids": [
+      133
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 269,
+    "original_marker": "[128]",
+    "original_numbers": [
+      128
+    ],
+    "linked_original_numbers": [
+      128
+    ],
+    "endnote_record_ids": [
+      133
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 271,
+    "original_marker": "[135], [109], [136]",
+    "original_numbers": [
+      135,
+      109,
+      136
+    ],
+    "linked_original_numbers": [
+      135,
+      109,
+      136
+    ],
+    "endnote_record_ids": [
+      140,
+      114,
+      141
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 271,
+    "original_marker": "[31], [135], [109]",
+    "original_numbers": [
+      31,
+      135,
+      109
+    ],
+    "linked_original_numbers": [
+      31,
+      135,
+      109
+    ],
+    "endnote_record_ids": [
+      31,
+      140,
+      114
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 272,
+    "original_marker": "[135], [109], [136]",
+    "original_numbers": [
+      135,
+      109,
+      136
+    ],
+    "linked_original_numbers": [
+      135,
+      109,
+      136
+    ],
+    "endnote_record_ids": [
+      140,
+      114,
+      141
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 272,
+    "original_marker": "[31], [135], [109]",
+    "original_numbers": [
+      31,
+      135,
+      109
+    ],
+    "linked_original_numbers": [
+      31,
+      135,
+      109
+    ],
+    "endnote_record_ids": [
+      31,
+      140,
+      114
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 273,
+    "original_marker": "[138], [14], [15]",
+    "original_numbers": [
+      138,
+      14,
+      15
+    ],
+    "linked_original_numbers": [
+      138,
+      14,
+      15
+    ],
+    "endnote_record_ids": [
+      143,
+      14,
+      15
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 273,
+    "original_marker": "[48], [31], [116]",
+    "original_numbers": [
+      48,
+      31,
+      116
+    ],
+    "linked_original_numbers": [
+      48,
+      31,
+      116
+    ],
+    "endnote_record_ids": [
+      48,
+      31,
+      121
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 273,
+    "original_marker": "[2], [137]",
+    "original_numbers": [
+      2,
+      137
+    ],
+    "linked_original_numbers": [
+      2,
+      137
+    ],
+    "endnote_record_ids": [
+      2,
+      142
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 274,
+    "original_marker": "[135], [109], [15], [136], [139]",
+    "original_numbers": [
+      135,
+      109,
+      15,
+      136,
+      139
+    ],
+    "linked_original_numbers": [
+      135,
+      109,
+      15,
+      136,
+      139
+    ],
+    "endnote_record_ids": [
+      140,
+      114,
+      15,
+      141,
+      144
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 275,
+    "original_marker": "[140]",
+    "original_numbers": [
+      140
+    ],
+    "linked_original_numbers": [
+      140
+    ],
+    "endnote_record_ids": [
+      145
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 276,
+    "original_marker": "[141]",
+    "original_numbers": [
+      141
+    ],
+    "linked_original_numbers": [
+      141
+    ],
+    "endnote_record_ids": [
+      146
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 277,
+    "original_marker": "[109]",
+    "original_numbers": [
+      109
+    ],
+    "linked_original_numbers": [
+      109
+    ],
+    "endnote_record_ids": [
+      114
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 277,
+    "original_marker": "[109]",
+    "original_numbers": [
+      109
+    ],
+    "linked_original_numbers": [
+      109
+    ],
+    "endnote_record_ids": [
+      114
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 277,
+    "original_marker": "[135]",
+    "original_numbers": [
+      135
+    ],
+    "linked_original_numbers": [
+      135
+    ],
+    "endnote_record_ids": [
+      140
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 277,
+    "original_marker": "[135]",
+    "original_numbers": [
+      135
+    ],
+    "linked_original_numbers": [
+      135
+    ],
+    "endnote_record_ids": [
+      140
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 282,
+    "original_marker": "[15]",
+    "original_numbers": [
+      15
+    ],
+    "linked_original_numbers": [
+      15
+    ],
+    "endnote_record_ids": [
+      15
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 282,
+    "original_marker": "[141]",
+    "original_numbers": [
+      141
+    ],
+    "linked_original_numbers": [
+      141
+    ],
+    "endnote_record_ids": [
+      146
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 282,
+    "original_marker": "[109]",
+    "original_numbers": [
+      109
+    ],
+    "linked_original_numbers": [
+      109
+    ],
+    "endnote_record_ids": [
+      114
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 282,
+    "original_marker": "[135]",
+    "original_numbers": [
+      135
+    ],
+    "linked_original_numbers": [
+      135
+    ],
+    "endnote_record_ids": [
+      140
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 282,
+    "original_marker": "[140]",
+    "original_numbers": [
+      140
+    ],
+    "linked_original_numbers": [
+      140
+    ],
+    "endnote_record_ids": [
+      145
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 284,
+    "original_marker": "[139]",
+    "original_numbers": [
+      139
+    ],
+    "linked_original_numbers": [
+      139
+    ],
+    "endnote_record_ids": [
+      144
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 284,
+    "original_marker": "[136]",
+    "original_numbers": [
+      136
+    ],
+    "linked_original_numbers": [
+      136
+    ],
+    "endnote_record_ids": [
+      141
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 284,
+    "original_marker": "[15]",
+    "original_numbers": [
+      15
+    ],
+    "linked_original_numbers": [
+      15
+    ],
+    "endnote_record_ids": [
+      15
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 284,
+    "original_marker": "[142], [143], [123]",
+    "original_numbers": [
+      142,
+      143,
+      123
+    ],
+    "linked_original_numbers": [
+      142,
+      143,
+      123
+    ],
+    "endnote_record_ids": [
+      147,
+      148,
+      128
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 284,
+    "original_marker": "[138], [14]",
+    "original_numbers": [
+      138,
+      14
+    ],
+    "linked_original_numbers": [
+      138,
+      14
+    ],
+    "endnote_record_ids": [
+      143,
+      14
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 284,
+    "original_marker": "[141]",
+    "original_numbers": [
+      141
+    ],
+    "linked_original_numbers": [
+      141
+    ],
+    "endnote_record_ids": [
+      146
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 286,
+    "original_marker": "[2], [13], [17]",
+    "original_numbers": [
+      2,
+      13,
+      17
+    ],
+    "linked_original_numbers": [
+      2,
+      13,
+      17
+    ],
+    "endnote_record_ids": [
+      2,
+      13,
+      17
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 286,
+    "original_marker": "[2], [13], [17]",
+    "original_numbers": [
+      2,
+      13,
+      17
+    ],
+    "linked_original_numbers": [
+      2,
+      13,
+      17
+    ],
+    "endnote_record_ids": [
+      2,
+      13,
+      17
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 286,
+    "original_marker": "[5], [16], [20]",
+    "original_numbers": [
+      5,
+      16,
+      20
+    ],
+    "linked_original_numbers": [
+      5,
+      16,
+      20
+    ],
+    "endnote_record_ids": [
+      5,
+      16,
+      20
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 288,
+    "original_marker": "[45], [109]",
+    "original_numbers": [
+      45,
+      109
+    ],
+    "linked_original_numbers": [
+      45,
+      109
+    ],
+    "endnote_record_ids": [
+      45,
+      114
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 288,
+    "original_marker": "[16], [124], [17]",
+    "original_numbers": [
+      16,
+      124,
+      17
+    ],
+    "linked_original_numbers": [
+      16,
+      124,
+      17
+    ],
+    "endnote_record_ids": [
+      16,
+      129,
+      17
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 288,
+    "original_marker": "[16], [17]",
+    "original_numbers": [
+      16,
+      17
+    ],
+    "linked_original_numbers": [
+      16,
+      17
+    ],
+    "endnote_record_ids": [
+      16,
+      17
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 288,
+    "original_marker": "[25], [124], [17]",
+    "original_numbers": [
+      25,
+      124,
+      17
+    ],
+    "linked_original_numbers": [
+      25,
+      124,
+      17
+    ],
+    "endnote_record_ids": [
+      25,
+      129,
+      17
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 299,
+    "original_marker": "[5], [16], [144]",
+    "original_numbers": [
+      5,
+      16,
+      144
+    ],
+    "linked_original_numbers": [
+      5,
+      16,
+      144
+    ],
+    "endnote_record_ids": [
+      5,
+      16,
+      149
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 299,
+    "original_marker": "[5], [16], [144]",
+    "original_numbers": [
+      5,
+      16,
+      144
+    ],
+    "linked_original_numbers": [
+      5,
+      16,
+      144
+    ],
+    "endnote_record_ids": [
+      5,
+      16,
+      149
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 300,
+    "original_marker": "[30], [41], [45]",
+    "original_numbers": [
+      30,
+      41,
+      45
+    ],
+    "linked_original_numbers": [
+      30,
+      41,
+      45
+    ],
+    "endnote_record_ids": [
+      30,
+      41,
+      45
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 300,
+    "original_marker": "[126], [116]",
+    "original_numbers": [
+      126,
+      116
+    ],
+    "linked_original_numbers": [
+      126,
+      116
+    ],
+    "endnote_record_ids": [
+      131,
+      121
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 312,
+    "original_marker": "[30], [13], [14]",
+    "original_numbers": [
+      30,
+      13,
+      14
+    ],
+    "linked_original_numbers": [
+      30,
+      13,
+      14
+    ],
+    "endnote_record_ids": [
+      30,
+      13,
+      14
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 312,
+    "original_marker": "[13], [138], [14]",
+    "original_numbers": [
+      13,
+      138,
+      14
+    ],
+    "linked_original_numbers": [
+      13,
+      138,
+      14
+    ],
+    "endnote_record_ids": [
+      13,
+      143,
+      14
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 313,
+    "original_marker": "[18], [20], [40]",
+    "original_numbers": [
+      18,
+      20,
+      40
+    ],
+    "linked_original_numbers": [
+      18,
+      20,
+      40
+    ],
+    "endnote_record_ids": [
+      18,
+      20,
+      40
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 313,
+    "original_marker": "[30], [41], [45]",
+    "original_numbers": [
+      30,
+      41,
+      45
+    ],
+    "linked_original_numbers": [
+      30,
+      41,
+      45
+    ],
+    "endnote_record_ids": [
+      30,
+      41,
+      45
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 314,
+    "original_marker": "[127]",
+    "original_numbers": [
+      127
+    ],
+    "linked_original_numbers": [
+      127
+    ],
+    "endnote_record_ids": [
+      132
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 314,
+    "original_marker": "[2], [5], [16], [17]",
+    "original_numbers": [
+      2,
+      5,
+      16,
+      17
+    ],
+    "linked_original_numbers": [
+      2,
+      5,
+      16,
+      17
+    ],
+    "endnote_record_ids": [
+      2,
+      5,
+      16,
+      17
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 316,
+    "original_marker": "[127]",
+    "original_numbers": [
+      127
+    ],
+    "linked_original_numbers": [
+      127
+    ],
+    "endnote_record_ids": [
+      132
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 317,
+    "original_marker": "[130]",
+    "original_numbers": [
+      130
+    ],
+    "linked_original_numbers": [
+      130
+    ],
+    "endnote_record_ids": [
+      135
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 317,
+    "original_marker": "[129]",
+    "original_numbers": [
+      129
+    ],
+    "linked_original_numbers": [
+      129
+    ],
+    "endnote_record_ids": [
+      134
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 317,
+    "original_marker": "[129]",
+    "original_numbers": [
+      129
+    ],
+    "linked_original_numbers": [
+      129
+    ],
+    "endnote_record_ids": [
+      134
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 320,
+    "original_marker": "[131]",
+    "original_numbers": [
+      131
+    ],
+    "linked_original_numbers": [
+      131
+    ],
+    "endnote_record_ids": [
+      136
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 320,
+    "original_marker": "[130]",
+    "original_numbers": [
+      130
+    ],
+    "linked_original_numbers": [
+      130
+    ],
+    "endnote_record_ids": [
+      135
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 320,
+    "original_marker": "[129]",
+    "original_numbers": [
+      129
+    ],
+    "linked_original_numbers": [
+      129
+    ],
+    "endnote_record_ids": [
+      134
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 320,
+    "original_marker": "[127]",
+    "original_numbers": [
+      127
+    ],
+    "linked_original_numbers": [
+      127
+    ],
+    "endnote_record_ids": [
+      132
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 323,
+    "original_marker": "[139]",
+    "original_numbers": [
+      139
+    ],
+    "linked_original_numbers": [
+      139
+    ],
+    "endnote_record_ids": [
+      144
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 323,
+    "original_marker": "[76]",
+    "original_numbers": [
+      76
+    ],
+    "linked_original_numbers": [
+      76
+    ],
+    "endnote_record_ids": [
+      81
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 323,
+    "original_marker": "[74]",
+    "original_numbers": [
+      74
+    ],
+    "linked_original_numbers": [
+      74
+    ],
+    "endnote_record_ids": [
+      79
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 323,
+    "original_marker": "[38]",
+    "original_numbers": [
+      38
+    ],
+    "linked_original_numbers": [
+      38
+    ],
+    "endnote_record_ids": [
+      38
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 323,
+    "original_marker": "[105]",
+    "original_numbers": [
+      105
+    ],
+    "linked_original_numbers": [
+      105
+    ],
+    "endnote_record_ids": [
+      110
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 323,
+    "original_marker": "[34]",
+    "original_numbers": [
+      34
+    ],
+    "linked_original_numbers": [
+      34
+    ],
+    "endnote_record_ids": [
+      34
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 323,
+    "original_marker": "[33]",
+    "original_numbers": [
+      33
+    ],
+    "linked_original_numbers": [
+      33
+    ],
+    "endnote_record_ids": [
+      33
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 325,
+    "original_marker": "[16], [20], [116]",
+    "original_numbers": [
+      16,
+      20,
+      116
+    ],
+    "linked_original_numbers": [
+      16,
+      20,
+      116
+    ],
+    "endnote_record_ids": [
+      16,
+      20,
+      121
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 325,
+    "original_marker": "[1], [4], [5]",
+    "original_numbers": [
+      1,
+      4,
+      5
+    ],
+    "linked_original_numbers": [
+      1,
+      4,
+      5
+    ],
+    "endnote_record_ids": [
+      1,
+      4,
+      5
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 327,
+    "original_marker": "[18], [20], [40]",
+    "original_numbers": [
+      18,
+      20,
+      40
+    ],
+    "linked_original_numbers": [
+      18,
+      20,
+      40
+    ],
+    "endnote_record_ids": [
+      18,
+      20,
+      40
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 327,
+    "original_marker": "[5], [145], [39]",
+    "original_numbers": [
+      5,
+      145,
+      39
+    ],
+    "linked_original_numbers": [
+      5,
+      145,
+      39
+    ],
+    "endnote_record_ids": [
+      5,
+      150,
+      39
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 328,
+    "original_marker": "[146], [19], [147]",
+    "original_numbers": [
+      146,
+      19,
+      147
+    ],
+    "linked_original_numbers": [
+      146,
+      19,
+      147
+    ],
+    "endnote_record_ids": [
+      209,
+      19,
+      151
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 328,
+    "original_marker": "[132], [133], [134], [20]",
+    "original_numbers": [
+      132,
+      133,
+      134,
+      20
+    ],
+    "linked_original_numbers": [
+      132,
+      133,
+      134,
+      20
+    ],
+    "endnote_record_ids": [
+      137,
+      138,
+      139,
+      20
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 328,
+    "original_marker": "[110], [39], [19]",
+    "original_numbers": [
+      110,
+      39,
+      19
+    ],
+    "linked_original_numbers": [
+      110,
+      39,
+      19
+    ],
+    "endnote_record_ids": [
+      115,
+      39,
+      19
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 335,
+    "original_marker": "[110], [39], [146], [19], [147]",
+    "original_numbers": [
+      110,
+      39,
+      146,
+      19,
+      147
+    ],
+    "linked_original_numbers": [
+      110,
+      39,
+      146,
+      19,
+      147
+    ],
+    "endnote_record_ids": [
+      115,
+      39,
+      209,
+      19,
+      151
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 336,
+    "original_marker": "[151]",
+    "original_numbers": [
+      151
+    ],
+    "linked_original_numbers": [
+      151
+    ],
+    "endnote_record_ids": [
+      155
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 336,
+    "original_marker": "[110], [132], [133], [134], [150]",
+    "original_numbers": [
+      110,
+      132,
+      133,
+      134,
+      150
+    ],
+    "linked_original_numbers": [
+      110,
+      132,
+      133,
+      134,
+      150
+    ],
+    "endnote_record_ids": [
+      115,
+      137,
+      138,
+      139,
+      154
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 336,
+    "original_marker": "[148]",
+    "original_numbers": [
+      148
+    ],
+    "linked_original_numbers": [
+      148
+    ],
+    "endnote_record_ids": [
+      152
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 336,
+    "original_marker": "[149]",
+    "original_numbers": [
+      149
+    ],
+    "linked_original_numbers": [
+      149
+    ],
+    "endnote_record_ids": [
+      153
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 336,
+    "original_marker": "[149]",
+    "original_numbers": [
+      149
+    ],
+    "linked_original_numbers": [
+      149
+    ],
+    "endnote_record_ids": [
+      153
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 336,
+    "original_marker": "[148]",
+    "original_numbers": [
+      148
+    ],
+    "linked_original_numbers": [
+      148
+    ],
+    "endnote_record_ids": [
+      152
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 336,
+    "original_marker": "[110]",
+    "original_numbers": [
+      110
+    ],
+    "linked_original_numbers": [
+      110
+    ],
+    "endnote_record_ids": [
+      115
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 336,
+    "original_marker": "[5]",
+    "original_numbers": [
+      5
+    ],
+    "linked_original_numbers": [
+      5
+    ],
+    "endnote_record_ids": [
+      5
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 337,
+    "original_marker": "[152]",
+    "original_numbers": [
+      152
+    ],
+    "linked_original_numbers": [
+      152
+    ],
+    "endnote_record_ids": [
+      156
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 340,
+    "original_marker": "[152]",
+    "original_numbers": [
+      152
+    ],
+    "linked_original_numbers": [
+      152
+    ],
+    "endnote_record_ids": [
+      156
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 340,
+    "original_marker": "[110]",
+    "original_numbers": [
+      110
+    ],
+    "linked_original_numbers": [
+      110
+    ],
+    "endnote_record_ids": [
+      115
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 340,
+    "original_marker": "[39]",
+    "original_numbers": [
+      39
+    ],
+    "linked_original_numbers": [
+      39
+    ],
+    "endnote_record_ids": [
+      39
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 344,
+    "original_marker": "[157]",
+    "original_numbers": [
+      157
+    ],
+    "linked_original_numbers": [
+      157
+    ],
+    "endnote_record_ids": [
+      161
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 344,
+    "original_marker": "[18], [153], [19], [154], [20], [40], [126], [155], [156]",
+    "original_numbers": [
+      18,
+      153,
+      19,
+      154,
+      20,
+      40,
+      126,
+      155,
+      156
+    ],
+    "linked_original_numbers": [
+      18,
+      153,
+      19,
+      154,
+      20,
+      40,
+      126,
+      155,
+      156
+    ],
+    "endnote_record_ids": [
+      18,
+      157,
+      19,
+      158,
+      20,
+      40,
+      131,
+      159,
+      160
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 354,
+    "original_marker": "[18]",
+    "original_numbers": [
+      18
+    ],
+    "linked_original_numbers": [
+      18
+    ],
+    "endnote_record_ids": [
+      18
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 359,
+    "original_marker": "[19]",
+    "original_numbers": [
+      19
+    ],
+    "linked_original_numbers": [
+      19
+    ],
+    "endnote_record_ids": [
+      19
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 364,
+    "original_marker": "[20]",
+    "original_numbers": [
+      20
+    ],
+    "linked_original_numbers": [
+      20
+    ],
+    "endnote_record_ids": [
+      20
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 369,
+    "original_marker": "[157]",
+    "original_numbers": [
+      157
+    ],
+    "linked_original_numbers": [
+      157
+    ],
+    "endnote_record_ids": [
+      161
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 374,
+    "original_marker": "[156]",
+    "original_numbers": [
+      156
+    ],
+    "linked_original_numbers": [
+      156
+    ],
+    "endnote_record_ids": [
+      160
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 379,
+    "original_marker": "[126]",
+    "original_numbers": [
+      126
+    ],
+    "linked_original_numbers": [
+      126
+    ],
+    "endnote_record_ids": [
+      131
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 384,
+    "original_marker": "[153]",
+    "original_numbers": [
+      153
+    ],
+    "linked_original_numbers": [
+      153
+    ],
+    "endnote_record_ids": [
+      157
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 389,
+    "original_marker": "[40]",
+    "original_numbers": [
+      40
+    ],
+    "linked_original_numbers": [
+      40
+    ],
+    "endnote_record_ids": [
+      40
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 394,
+    "original_marker": "[155]",
+    "original_numbers": [
+      155
+    ],
+    "linked_original_numbers": [
+      155
+    ],
+    "endnote_record_ids": [
+      159
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 398,
+    "original_marker": "[1], [5], [18], [19], [20]",
+    "original_numbers": [
+      1,
+      5,
+      18,
+      19,
+      20
+    ],
+    "linked_original_numbers": [
+      1,
+      5,
+      18,
+      19,
+      20
+    ],
+    "endnote_record_ids": [
+      1,
+      5,
+      18,
+      19,
+      20
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 399,
+    "original_marker": "[1], [116]",
+    "original_numbers": [
+      1,
+      116
+    ],
+    "linked_original_numbers": [
+      1,
+      116
+    ],
+    "endnote_record_ids": [
+      1,
+      121
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 399,
+    "original_marker": "[159], [160]",
+    "original_numbers": [
+      159,
+      160
+    ],
+    "linked_original_numbers": [
+      159,
+      160
+    ],
+    "endnote_record_ids": [
+      163,
+      164
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 399,
+    "original_marker": "[126], [144], [124], [158]",
+    "original_numbers": [
+      126,
+      144,
+      124,
+      158
+    ],
+    "linked_original_numbers": [
+      126,
+      144,
+      124,
+      158
+    ],
+    "endnote_record_ids": [
+      131,
+      149,
+      129,
+      162
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 399,
+    "original_marker": "[1], [126]",
+    "original_numbers": [
+      1,
+      126
+    ],
+    "linked_original_numbers": [
+      1,
+      126
+    ],
+    "endnote_record_ids": [
+      1,
+      131
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 400,
+    "original_marker": "[18], [19], [20], [161]",
+    "original_numbers": [
+      18,
+      19,
+      20,
+      161
+    ],
+    "linked_original_numbers": [
+      18,
+      19,
+      20,
+      161
+    ],
+    "endnote_record_ids": [
+      18,
+      19,
+      20,
+      165
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 400,
+    "original_marker": "[18], [20]",
+    "original_numbers": [
+      18,
+      20
+    ],
+    "linked_original_numbers": [
+      18,
+      20
+    ],
+    "endnote_record_ids": [
+      18,
+      20
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 400,
+    "original_marker": "[3], [19], [20]",
+    "original_numbers": [
+      3,
+      19,
+      20
+    ],
+    "linked_original_numbers": [
+      3,
+      19,
+      20
+    ],
+    "endnote_record_ids": [
+      3,
+      19,
+      20
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 400,
+    "original_marker": "[18], [19], [161]",
+    "original_numbers": [
+      18,
+      19,
+      161
+    ],
+    "linked_original_numbers": [
+      18,
+      19,
+      161
+    ],
+    "endnote_record_ids": [
+      18,
+      19,
+      165
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 403,
+    "original_marker": "[164]",
+    "original_numbers": [
+      164
+    ],
+    "linked_original_numbers": [
+      164
+    ],
+    "endnote_record_ids": [
+      168
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 403,
+    "original_marker": "[161]",
+    "original_numbers": [
+      161
+    ],
+    "linked_original_numbers": [
+      161
+    ],
+    "endnote_record_ids": [
+      165
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 403,
+    "original_marker": "[20]",
+    "original_numbers": [
+      20
+    ],
+    "linked_original_numbers": [
+      20
+    ],
+    "endnote_record_ids": [
+      20
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 403,
+    "original_marker": "[19]",
+    "original_numbers": [
+      19
+    ],
+    "linked_original_numbers": [
+      19
+    ],
+    "endnote_record_ids": [
+      19
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 403,
+    "original_marker": "[18]",
+    "original_numbers": [
+      18
+    ],
+    "linked_original_numbers": [
+      18
+    ],
+    "endnote_record_ids": [
+      18
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 403,
+    "original_marker": "[147]",
+    "original_numbers": [
+      147
+    ],
+    "linked_original_numbers": [
+      147
+    ],
+    "endnote_record_ids": [
+      151
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 403,
+    "original_marker": "[163]",
+    "original_numbers": [
+      163
+    ],
+    "linked_original_numbers": [
+      163
+    ],
+    "endnote_record_ids": [
+      167
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 403,
+    "original_marker": "[146]",
+    "original_numbers": [
+      146
+    ],
+    "linked_original_numbers": [
+      146
+    ],
+    "endnote_record_ids": [
+      209
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 403,
+    "original_marker": "[162]",
+    "original_numbers": [
+      162
+    ],
+    "linked_original_numbers": [
+      162
+    ],
+    "endnote_record_ids": [
+      166
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 405,
+    "original_marker": "[162]",
+    "original_numbers": [
+      162
+    ],
+    "linked_original_numbers": [
+      162
+    ],
+    "endnote_record_ids": [
+      166
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 405,
+    "original_marker": "[18], [19], [20], [161]",
+    "original_numbers": [
+      18,
+      19,
+      20,
+      161
+    ],
+    "linked_original_numbers": [
+      18,
+      19,
+      20,
+      161
+    ],
+    "endnote_record_ids": [
+      18,
+      19,
+      20,
+      165
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 406,
+    "original_marker": "[162]",
+    "original_numbers": [
+      162
+    ],
+    "linked_original_numbers": [
+      162
+    ],
+    "endnote_record_ids": [
+      166
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 406,
+    "original_marker": "[162]",
+    "original_numbers": [
+      162
+    ],
+    "linked_original_numbers": [
+      162
+    ],
+    "endnote_record_ids": [
+      166
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 407,
+    "original_marker": "[167], [18], [20], [168], [169], [170], [171]",
+    "original_numbers": [
+      167,
+      18,
+      20,
+      168,
+      169,
+      170,
+      171
+    ],
+    "linked_original_numbers": [
+      167,
+      18,
+      20,
+      168,
+      169,
+      170,
+      171
+    ],
+    "endnote_record_ids": [
+      171,
+      18,
+      20,
+      172,
+      173,
+      174,
+      175
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 407,
+    "original_marker": "[154]",
+    "original_numbers": [
+      154
+    ],
+    "linked_original_numbers": [
+      154
+    ],
+    "endnote_record_ids": [
+      158
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 407,
+    "original_marker": "[19]",
+    "original_numbers": [
+      19
+    ],
+    "linked_original_numbers": [
+      19
+    ],
+    "endnote_record_ids": [
+      19
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 407,
+    "original_marker": "[146]",
+    "original_numbers": [
+      146
+    ],
+    "linked_original_numbers": [
+      146
+    ],
+    "endnote_record_ids": [
+      209
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 407,
+    "original_marker": "[163], [147]",
+    "original_numbers": [
+      163,
+      147
+    ],
+    "linked_original_numbers": [
+      163,
+      147
+    ],
+    "endnote_record_ids": [
+      167,
+      151
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 407,
+    "original_marker": "[165], [166]",
+    "original_numbers": [
+      165,
+      166
+    ],
+    "linked_original_numbers": [
+      165,
+      166
+    ],
+    "endnote_record_ids": [
+      169,
+      170
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 408,
+    "original_marker": "[164]",
+    "original_numbers": [
+      164
+    ],
+    "linked_original_numbers": [
+      164
+    ],
+    "endnote_record_ids": [
+      168
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 408,
+    "original_marker": "[164]",
+    "original_numbers": [
+      164
+    ],
+    "linked_original_numbers": [
+      164
+    ],
+    "endnote_record_ids": [
+      168
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 408,
+    "original_marker": "[161]",
+    "original_numbers": [
+      161
+    ],
+    "linked_original_numbers": [
+      161
+    ],
+    "endnote_record_ids": [
+      165
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 410,
+    "original_marker": "[33]",
+    "original_numbers": [
+      33
+    ],
+    "linked_original_numbers": [
+      33
+    ],
+    "endnote_record_ids": [
+      33
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 410,
+    "original_marker": "[35]",
+    "original_numbers": [
+      35
+    ],
+    "linked_original_numbers": [
+      35
+    ],
+    "endnote_record_ids": [
+      35
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 410,
+    "original_marker": "[71]",
+    "original_numbers": [
+      71
+    ],
+    "linked_original_numbers": [
+      71
+    ],
+    "endnote_record_ids": [
+      76
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 410,
+    "original_marker": "[36]",
+    "original_numbers": [
+      36
+    ],
+    "linked_original_numbers": [
+      36
+    ],
+    "endnote_record_ids": [
+      36
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 410,
+    "original_marker": "[66]",
+    "original_numbers": [
+      66
+    ],
+    "linked_original_numbers": [
+      66
+    ],
+    "endnote_record_ids": [
+      71
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 410,
+    "original_marker": "[65]",
+    "original_numbers": [
+      65
+    ],
+    "linked_original_numbers": [
+      65
+    ],
+    "endnote_record_ids": [
+      70
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 412,
+    "original_marker": "[16], [20]",
+    "original_numbers": [
+      16,
+      20
+    ],
+    "linked_original_numbers": [
+      16,
+      20
+    ],
+    "endnote_record_ids": [
+      16,
+      20
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 412,
+    "original_marker": "[107], [2], [3]",
+    "original_numbers": [
+      107,
+      2,
+      3
+    ],
+    "linked_original_numbers": [
+      107,
+      2,
+      3
+    ],
+    "endnote_record_ids": [
+      112,
+      2,
+      3
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 414,
+    "original_marker": "[135], [109]",
+    "original_numbers": [
+      135,
+      109
+    ],
+    "linked_original_numbers": [
+      135,
+      109
+    ],
+    "endnote_record_ids": [
+      140,
+      114
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 414,
+    "original_marker": "[107], [109]",
+    "original_numbers": [
+      107,
+      109
+    ],
+    "linked_original_numbers": [
+      107,
+      109
+    ],
+    "endnote_record_ids": [
+      112,
+      114
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 414,
+    "original_marker": "[45], [109]",
+    "original_numbers": [
+      45,
+      109
+    ],
+    "linked_original_numbers": [
+      45,
+      109
+    ],
+    "endnote_record_ids": [
+      45,
+      114
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 415,
+    "original_marker": "[172]",
+    "original_numbers": [
+      172
+    ],
+    "linked_original_numbers": [
+      172
+    ],
+    "endnote_record_ids": [
+      176
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 415,
+    "original_marker": "[172]",
+    "original_numbers": [
+      172
+    ],
+    "linked_original_numbers": [
+      172
+    ],
+    "endnote_record_ids": [
+      176
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 415,
+    "original_marker": "[45], [107], [109], [16], [20]",
+    "original_numbers": [
+      45,
+      107,
+      109,
+      16,
+      20
+    ],
+    "linked_original_numbers": [
+      45,
+      107,
+      109,
+      16,
+      20
+    ],
+    "endnote_record_ids": [
+      45,
+      112,
+      114,
+      16,
+      20
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 416,
+    "original_marker": "[173]",
+    "original_numbers": [
+      173
+    ],
+    "linked_original_numbers": [
+      173
+    ],
+    "endnote_record_ids": [
+      177
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 416,
+    "original_marker": "[172]",
+    "original_numbers": [
+      172
+    ],
+    "linked_original_numbers": [
+      172
+    ],
+    "endnote_record_ids": [
+      176
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 417,
+    "original_marker": "[173]",
+    "original_numbers": [
+      173
+    ],
+    "linked_original_numbers": [
+      173
+    ],
+    "endnote_record_ids": [
+      177
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 418,
+    "original_marker": "[174]",
+    "original_numbers": [
+      174
+    ],
+    "linked_original_numbers": [
+      174
+    ],
+    "endnote_record_ids": [
+      178
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 418,
+    "original_marker": "[174]",
+    "original_numbers": [
+      174
+    ],
+    "linked_original_numbers": [
+      174
+    ],
+    "endnote_record_ids": [
+      178
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 421,
+    "original_marker": "[174]",
+    "original_numbers": [
+      174
+    ],
+    "linked_original_numbers": [
+      174
+    ],
+    "endnote_record_ids": [
+      178
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 421,
+    "original_marker": "[173]",
+    "original_numbers": [
+      173
+    ],
+    "linked_original_numbers": [
+      173
+    ],
+    "endnote_record_ids": [
+      177
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 421,
+    "original_marker": "[172]",
+    "original_numbers": [
+      172
+    ],
+    "linked_original_numbers": [
+      172
+    ],
+    "endnote_record_ids": [
+      176
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 423,
+    "original_marker": "[174]",
+    "original_numbers": [
+      174
+    ],
+    "linked_original_numbers": [
+      174
+    ],
+    "endnote_record_ids": [
+      178
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 425,
+    "original_marker": "[45], [107]",
+    "original_numbers": [
+      45,
+      107
+    ],
+    "linked_original_numbers": [
+      45,
+      107
+    ],
+    "endnote_record_ids": [
+      45,
+      112
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 425,
+    "original_marker": "[175], [176], [177], [178]",
+    "original_numbers": [
+      175,
+      176,
+      177,
+      178
+    ],
+    "linked_original_numbers": [
+      175,
+      176,
+      177,
+      178
+    ],
+    "endnote_record_ids": [
+      179,
+      180,
+      181,
+      182
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 426,
+    "original_marker": "[39], [20]",
+    "original_numbers": [
+      39,
+      20
+    ],
+    "linked_original_numbers": [
+      39,
+      20
+    ],
+    "endnote_record_ids": [
+      39,
+      20
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 429,
+    "original_marker": "[180]",
+    "original_numbers": [
+      180
+    ],
+    "linked_original_numbers": [
+      180
+    ],
+    "endnote_record_ids": [
+      184
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 429,
+    "original_marker": "[179]",
+    "original_numbers": [
+      179
+    ],
+    "linked_original_numbers": [
+      179
+    ],
+    "endnote_record_ids": [
+      183
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 431,
+    "original_marker": "[179]",
+    "original_numbers": [
+      179
+    ],
+    "linked_original_numbers": [
+      179
+    ],
+    "endnote_record_ids": [
+      183
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 431,
+    "original_marker": "[175], [176], [177], [178], [39]",
+    "original_numbers": [
+      175,
+      176,
+      177,
+      178,
+      39
+    ],
+    "linked_original_numbers": [
+      175,
+      176,
+      177,
+      178,
+      39
+    ],
+    "endnote_record_ids": [
+      179,
+      180,
+      181,
+      182,
+      39
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 432,
+    "original_marker": "[180]",
+    "original_numbers": [
+      180
+    ],
+    "linked_original_numbers": [
+      180
+    ],
+    "endnote_record_ids": [
+      184
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 432,
+    "original_marker": "[180]",
+    "original_numbers": [
+      180
+    ],
+    "linked_original_numbers": [
+      180
+    ],
+    "endnote_record_ids": [
+      184
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 432,
+    "original_marker": "[179]",
+    "original_numbers": [
+      179
+    ],
+    "linked_original_numbers": [
+      179
+    ],
+    "endnote_record_ids": [
+      183
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 433,
+    "original_marker": "[180]",
+    "original_numbers": [
+      180
+    ],
+    "linked_original_numbers": [
+      180
+    ],
+    "endnote_record_ids": [
+      184
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 433,
+    "original_marker": "[180]",
+    "original_numbers": [
+      180
+    ],
+    "linked_original_numbers": [
+      180
+    ],
+    "endnote_record_ids": [
+      184
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 434,
+    "original_marker": "[106]",
+    "original_numbers": [
+      106
+    ],
+    "linked_original_numbers": [
+      106
+    ],
+    "endnote_record_ids": [
+      111
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 434,
+    "original_marker": "[59]",
+    "original_numbers": [
+      59
+    ],
+    "linked_original_numbers": [
+      59
+    ],
+    "endnote_record_ids": [
+      62
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 434,
+    "original_marker": "[181]",
+    "original_numbers": [
+      181
+    ],
+    "linked_original_numbers": [
+      181
+    ],
+    "endnote_record_ids": [
+      185
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 436,
+    "original_marker": "[108], [3], [182]",
+    "original_numbers": [
+      108,
+      3,
+      182
+    ],
+    "linked_original_numbers": [
+      108,
+      3,
+      182
+    ],
+    "endnote_record_ids": [
+      113,
+      3,
+      186
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 436,
+    "original_marker": "[108], [2], [3]",
+    "original_numbers": [
+      108,
+      2,
+      3
+    ],
+    "linked_original_numbers": [
+      108,
+      2,
+      3
+    ],
+    "endnote_record_ids": [
+      113,
+      2,
+      3
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 436,
+    "original_marker": "",
+    "original_numbers": [],
+    "linked_original_numbers": [
+      208,
+      209
+    ],
+    "endnote_record_ids": [
+      64,
+      65
+    ],
+    "action": "added supplied reviews at strain/pressure transduction statement; verified publisher abstracts"
+  },
+  {
+    "paragraph_index": 437,
+    "original_marker": "[136], [182]",
+    "original_numbers": [
+      136,
+      182
+    ],
+    "linked_original_numbers": [
+      136,
+      182
+    ],
+    "endnote_record_ids": [
+      141,
+      186
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 437,
+    "original_marker": "[39], [183]",
+    "original_numbers": [
+      39,
+      183
+    ],
+    "linked_original_numbers": [
+      39,
+      183
+    ],
+    "endnote_record_ids": [
+      39,
+      187
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 437,
+    "original_marker": "[108], [137], [182]",
+    "original_numbers": [
+      108,
+      137,
+      182
+    ],
+    "linked_original_numbers": [
+      108,
+      137,
+      182
+    ],
+    "endnote_record_ids": [
+      113,
+      142,
+      186
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 438,
+    "original_marker": "[184]",
+    "original_numbers": [
+      184
+    ],
+    "linked_original_numbers": [
+      184
+    ],
+    "endnote_record_ids": [
+      188
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 438,
+    "original_marker": "[108], [2], [3], [136], [183], [182]",
+    "original_numbers": [
+      108,
+      2,
+      3,
+      136,
+      183,
+      182
+    ],
+    "linked_original_numbers": [
+      108,
+      2,
+      3,
+      136,
+      183,
+      182
+    ],
+    "endnote_record_ids": [
+      113,
+      2,
+      3,
+      141,
+      187,
+      186
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 441,
+    "original_marker": "[187]",
+    "original_numbers": [
+      187
+    ],
+    "linked_original_numbers": [
+      187
+    ],
+    "endnote_record_ids": [
+      191
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 441,
+    "original_marker": "[186]",
+    "original_numbers": [
+      186
+    ],
+    "linked_original_numbers": [
+      186
+    ],
+    "endnote_record_ids": [
+      190
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 441,
+    "original_marker": "[185]",
+    "original_numbers": [
+      185
+    ],
+    "linked_original_numbers": [
+      185
+    ],
+    "endnote_record_ids": [
+      189
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 441,
+    "original_marker": "[184]",
+    "original_numbers": [
+      184
+    ],
+    "linked_original_numbers": [
+      184
+    ],
+    "endnote_record_ids": [
+      188
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 443,
+    "original_marker": "[184]",
+    "original_numbers": [
+      184
+    ],
+    "linked_original_numbers": [
+      184
+    ],
+    "endnote_record_ids": [
+      188
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 444,
+    "original_marker": "[185]",
+    "original_numbers": [
+      185
+    ],
+    "linked_original_numbers": [
+      185
+    ],
+    "endnote_record_ids": [
+      189
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 445,
+    "original_marker": "[187]",
+    "original_numbers": [
+      187
+    ],
+    "linked_original_numbers": [
+      187
+    ],
+    "endnote_record_ids": [
+      191
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 445,
+    "original_marker": "[187]",
+    "original_numbers": [
+      187
+    ],
+    "linked_original_numbers": [
+      187
+    ],
+    "endnote_record_ids": [
+      191
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 445,
+    "original_marker": "[186]",
+    "original_numbers": [
+      186
+    ],
+    "linked_original_numbers": [
+      186
+    ],
+    "endnote_record_ids": [
+      190
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 446,
+    "original_marker": "[187]",
+    "original_numbers": [
+      187
+    ],
+    "linked_original_numbers": [
+      187
+    ],
+    "endnote_record_ids": [
+      191
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 447,
+    "original_marker": "[138], [14], [143], [15]",
+    "original_numbers": [
+      138,
+      14,
+      143,
+      15
+    ],
+    "linked_original_numbers": [
+      138,
+      14,
+      143,
+      15
+    ],
+    "endnote_record_ids": [
+      143,
+      14,
+      148,
+      15
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 447,
+    "original_marker": "[138], [14], [142], [143], [123], [15]",
+    "original_numbers": [
+      138,
+      14,
+      142,
+      143,
+      123,
+      15
+    ],
+    "linked_original_numbers": [
+      138,
+      14,
+      142,
+      143,
+      123,
+      15
+    ],
+    "endnote_record_ids": [
+      143,
+      14,
+      147,
+      148,
+      128,
+      15
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 448,
+    "original_marker": "[188]",
+    "original_numbers": [
+      188
+    ],
+    "linked_original_numbers": [
+      188
+    ],
+    "endnote_record_ids": [
+      192
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 451,
+    "original_marker": "[190]",
+    "original_numbers": [
+      190
+    ],
+    "linked_original_numbers": [
+      190
+    ],
+    "endnote_record_ids": [
+      194
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 451,
+    "original_marker": "[189]",
+    "original_numbers": [
+      189
+    ],
+    "linked_original_numbers": [
+      189
+    ],
+    "endnote_record_ids": [
+      193
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 451,
+    "original_marker": "[188]",
+    "original_numbers": [
+      188
+    ],
+    "linked_original_numbers": [
+      188
+    ],
+    "endnote_record_ids": [
+      192
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 453,
+    "original_marker": "[188]",
+    "original_numbers": [
+      188
+    ],
+    "linked_original_numbers": [
+      188
+    ],
+    "endnote_record_ids": [
+      192
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 454,
+    "original_marker": "[190]",
+    "original_numbers": [
+      190
+    ],
+    "linked_original_numbers": [
+      190
+    ],
+    "endnote_record_ids": [
+      194
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 454,
+    "original_marker": "[189]",
+    "original_numbers": [
+      189
+    ],
+    "linked_original_numbers": [
+      189
+    ],
+    "endnote_record_ids": [
+      193
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 454,
+    "original_marker": "[189]",
+    "original_numbers": [
+      189
+    ],
+    "linked_original_numbers": [
+      189
+    ],
+    "endnote_record_ids": [
+      193
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 456,
+    "original_marker": "[138], [14], [15]",
+    "original_numbers": [
+      138,
+      14,
+      15
+    ],
+    "linked_original_numbers": [
+      138,
+      14,
+      15
+    ],
+    "endnote_record_ids": [
+      143,
+      14,
+      15
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 456,
+    "original_marker": "[112], [2], [13]",
+    "original_numbers": [
+      112,
+      2,
+      13
+    ],
+    "linked_original_numbers": [
+      112,
+      2,
+      13
+    ],
+    "endnote_record_ids": [
+      117,
+      2,
+      13
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 458,
+    "original_marker": "[191], [13], [192]",
+    "original_numbers": [
+      191,
+      13,
+      192
+    ],
+    "linked_original_numbers": [
+      191,
+      13,
+      192
+    ],
+    "endnote_record_ids": [
+      195,
+      13,
+      196
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 458,
+    "original_marker": "[191], [13], [192]",
+    "original_numbers": [
+      191,
+      13,
+      192
+    ],
+    "linked_original_numbers": [
+      191,
+      13,
+      192
+    ],
+    "endnote_record_ids": [
+      195,
+      13,
+      196
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 459,
+    "original_marker": "[2], [191]",
+    "original_numbers": [
+      2,
+      191
+    ],
+    "linked_original_numbers": [
+      2,
+      191
+    ],
+    "endnote_record_ids": [
+      2,
+      195
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 459,
+    "original_marker": "[112], [193]",
+    "original_numbers": [
+      112,
+      193
+    ],
+    "linked_original_numbers": [
+      112,
+      193
+    ],
+    "endnote_record_ids": [
+      117,
+      197
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 461,
+    "original_marker": "[14], [15]",
+    "original_numbers": [
+      14,
+      15
+    ],
+    "linked_original_numbers": [
+      14,
+      15
+    ],
+    "endnote_record_ids": [
+      14,
+      15
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 461,
+    "original_marker": "[138], [14], [143]",
+    "original_numbers": [
+      138,
+      14,
+      143
+    ],
+    "linked_original_numbers": [
+      138,
+      14,
+      143
+    ],
+    "endnote_record_ids": [
+      143,
+      14,
+      148
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 462,
+    "original_marker": "[138], [14], [15]",
+    "original_numbers": [
+      138,
+      14,
+      15
+    ],
+    "linked_original_numbers": [
+      138,
+      14,
+      15
+    ],
+    "endnote_record_ids": [
+      143,
+      14,
+      15
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 462,
+    "original_marker": "[58], [194], [195], [138]",
+    "original_numbers": [
+      58,
+      194,
+      195,
+      138
+    ],
+    "linked_original_numbers": [
+      58,
+      194,
+      195,
+      138
+    ],
+    "endnote_record_ids": [
+      57,
+      58,
+      59,
+      143
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 465,
+    "original_marker": "[199]",
+    "original_numbers": [
+      199
+    ],
+    "linked_original_numbers": [
+      199
+    ],
+    "endnote_record_ids": [
+      201
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 465,
+    "original_marker": "[198]",
+    "original_numbers": [
+      198
+    ],
+    "linked_original_numbers": [
+      198
+    ],
+    "endnote_record_ids": [
+      200
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 465,
+    "original_marker": "[197]",
+    "original_numbers": [
+      197
+    ],
+    "linked_original_numbers": [
+      197
+    ],
+    "endnote_record_ids": [
+      199
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 465,
+    "original_marker": "[196]",
+    "original_numbers": [
+      196
+    ],
+    "linked_original_numbers": [
+      196
+    ],
+    "endnote_record_ids": [
+      198
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 467,
+    "original_marker": "[196]",
+    "original_numbers": [
+      196
+    ],
+    "linked_original_numbers": [
+      196
+    ],
+    "endnote_record_ids": [
+      198
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 467,
+    "original_marker": "[112], [2], [191], [13], [192]",
+    "original_numbers": [
+      112,
+      2,
+      191,
+      13,
+      192
+    ],
+    "linked_original_numbers": [
+      112,
+      2,
+      191,
+      13,
+      192
+    ],
+    "endnote_record_ids": [
+      117,
+      2,
+      195,
+      13,
+      196
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 467,
+    "original_marker": "[112], [2], [191], [193], [13], [192]",
+    "original_numbers": [
+      112,
+      2,
+      191,
+      193,
+      13,
+      192
+    ],
+    "linked_original_numbers": [
+      112,
+      2,
+      191,
+      193,
+      13,
+      192
+    ],
+    "endnote_record_ids": [
+      117,
+      2,
+      195,
+      197,
+      13,
+      196
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 468,
+    "original_marker": "[197]",
+    "original_numbers": [
+      197
+    ],
+    "linked_original_numbers": [
+      197
+    ],
+    "endnote_record_ids": [
+      199
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 468,
+    "original_marker": "[196]",
+    "original_numbers": [
+      196
+    ],
+    "linked_original_numbers": [
+      196
+    ],
+    "endnote_record_ids": [
+      198
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 468,
+    "original_marker": "[196]",
+    "original_numbers": [
+      196
+    ],
+    "linked_original_numbers": [
+      196
+    ],
+    "endnote_record_ids": [
+      198
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 469,
+    "original_marker": "[198]",
+    "original_numbers": [
+      198
+    ],
+    "linked_original_numbers": [
+      198
+    ],
+    "endnote_record_ids": [
+      200
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 470,
+    "original_marker": "[198]",
+    "original_numbers": [
+      198
+    ],
+    "linked_original_numbers": [
+      199
+    ],
+    "endnote_record_ids": [
+      201
+    ],
+    "action": "corrected source link"
+  },
+  {
+    "paragraph_index": 472,
+    "original_marker": "[199]",
+    "original_numbers": [
+      199
+    ],
+    "linked_original_numbers": [
+      199
+    ],
+    "endnote_record_ids": [
+      201
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 476,
+    "original_marker": "[138], [15]",
+    "original_numbers": [
+      138,
+      15
+    ],
+    "linked_original_numbers": [
+      138,
+      15
+    ],
+    "endnote_record_ids": [
+      143,
+      15
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 476,
+    "original_marker": "[13], [14]",
+    "original_numbers": [
+      13,
+      14
+    ],
+    "linked_original_numbers": [
+      13,
+      14
+    ],
+    "endnote_record_ids": [
+      13,
+      14
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 477,
+    "original_marker": "[13], [138], [14], [15]",
+    "original_numbers": [
+      13,
+      138,
+      14,
+      15
+    ],
+    "linked_original_numbers": [
+      13,
+      138,
+      14,
+      15
+    ],
+    "endnote_record_ids": [
+      13,
+      143,
+      14,
+      15
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 477,
+    "original_marker": "[46], [13], [143]",
+    "original_numbers": [
+      46,
+      13,
+      143
+    ],
+    "linked_original_numbers": [
+      46,
+      13,
+      143
+    ],
+    "endnote_record_ids": [
+      46,
+      13,
+      148
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 479,
+    "original_marker": "[197]",
+    "original_numbers": [
+      197
+    ],
+    "linked_original_numbers": [
+      197
+    ],
+    "endnote_record_ids": [
+      199
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 479,
+    "original_marker": "[198]",
+    "original_numbers": [
+      198
+    ],
+    "linked_original_numbers": [
+      198
+    ],
+    "endnote_record_ids": [
+      200
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 479,
+    "original_marker": "[199]",
+    "original_numbers": [
+      199
+    ],
+    "linked_original_numbers": [
+      199
+    ],
+    "endnote_record_ids": [
+      201
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 479,
+    "original_marker": "[78]",
+    "original_numbers": [
+      78
+    ],
+    "linked_original_numbers": [
+      78
+    ],
+    "endnote_record_ids": [
+      83
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 479,
+    "original_marker": "[200]",
+    "original_numbers": [
+      200
+    ],
+    "linked_original_numbers": [
+      200
+    ],
+    "endnote_record_ids": [
+      202
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 479,
+    "original_marker": "[139]",
+    "original_numbers": [
+      139
+    ],
+    "linked_original_numbers": [
+      139
+    ],
+    "endnote_record_ids": [
+      144
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 481,
+    "original_marker": "[5], [16], [116]",
+    "original_numbers": [
+      5,
+      16,
+      116
+    ],
+    "linked_original_numbers": [
+      5,
+      16,
+      116
+    ],
+    "endnote_record_ids": [
+      5,
+      16,
+      121
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 481,
+    "original_marker": "[201]",
+    "original_numbers": [
+      201
+    ],
+    "linked_original_numbers": [
+      201
+    ],
+    "endnote_record_ids": [
+      203
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 481,
+    "original_marker": "[201]",
+    "original_numbers": [
+      201
+    ],
+    "linked_original_numbers": [
+      201
+    ],
+    "endnote_record_ids": [
+      203
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 481,
+    "original_marker": "[5], [16], [144]",
+    "original_numbers": [
+      5,
+      16,
+      144
+    ],
+    "linked_original_numbers": [
+      5,
+      16,
+      144
+    ],
+    "endnote_record_ids": [
+      5,
+      16,
+      149
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 483,
+    "original_marker": "[116]",
+    "original_numbers": [
+      116
+    ],
+    "linked_original_numbers": [
+      116
+    ],
+    "endnote_record_ids": [
+      121
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 483,
+    "original_marker": "[22], [202], [203], [79], [124], [204], [205], [206]",
+    "original_numbers": [
+      22,
+      202,
+      203,
+      79,
+      124,
+      204,
+      205,
+      206
+    ],
+    "linked_original_numbers": [
+      22,
+      202,
+      203,
+      79,
+      124,
+      204,
+      205,
+      206
+    ],
+    "endnote_record_ids": [
+      22,
+      204,
+      205,
+      84,
+      129,
+      206,
+      207,
+      208
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 493,
+    "original_marker": "[22]",
+    "original_numbers": [
+      22
+    ],
+    "linked_original_numbers": [
+      22
+    ],
+    "endnote_record_ids": [
+      22
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 498,
+    "original_marker": "[202]",
+    "original_numbers": [
+      202
+    ],
+    "linked_original_numbers": [
+      202
+    ],
+    "endnote_record_ids": [
+      204
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 503,
+    "original_marker": "[203]",
+    "original_numbers": [
+      203
+    ],
+    "linked_original_numbers": [
+      203
+    ],
+    "endnote_record_ids": [
+      205
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 508,
+    "original_marker": "[79]",
+    "original_numbers": [
+      79
+    ],
+    "linked_original_numbers": [
+      79
+    ],
+    "endnote_record_ids": [
+      84
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 513,
+    "original_marker": "[124]",
+    "original_numbers": [
+      124
+    ],
+    "linked_original_numbers": [
+      124
+    ],
+    "endnote_record_ids": [
+      129
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 518,
+    "original_marker": "[204]",
+    "original_numbers": [
+      204
+    ],
+    "linked_original_numbers": [
+      204
+    ],
+    "endnote_record_ids": [
+      206
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 523,
+    "original_marker": "[205]",
+    "original_numbers": [
+      205
+    ],
+    "linked_original_numbers": [
+      205
+    ],
+    "endnote_record_ids": [
+      207
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 528,
+    "original_marker": "[206]",
+    "original_numbers": [
+      206
+    ],
+    "linked_original_numbers": [
+      206
+    ],
+    "endnote_record_ids": [
+      208
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 533,
+    "original_marker": "[116]",
+    "original_numbers": [
+      116
+    ],
+    "linked_original_numbers": [
+      116
+    ],
+    "endnote_record_ids": [
+      121
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 536,
+    "original_marker": "[41], [31], [116]",
+    "original_numbers": [
+      41,
+      31,
+      116
+    ],
+    "linked_original_numbers": [
+      41,
+      31,
+      116
+    ],
+    "endnote_record_ids": [
+      41,
+      31,
+      121
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 536,
+    "original_marker": "[39], [16], [20]",
+    "original_numbers": [
+      39,
+      16,
+      20
+    ],
+    "linked_original_numbers": [
+      39,
+      16,
+      20
+    ],
+    "endnote_record_ids": [
+      39,
+      16,
+      20
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 536,
+    "original_marker": "[30], [4], [5]",
+    "original_numbers": [
+      30,
+      4,
+      5
+    ],
+    "linked_original_numbers": [
+      30,
+      4,
+      5
+    ],
+    "endnote_record_ids": [
+      30,
+      4,
+      5
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 541,
+    "original_marker": "[138], [14], [143]",
+    "original_numbers": [
+      138,
+      14,
+      143
+    ],
+    "linked_original_numbers": [
+      138,
+      14,
+      143
+    ],
+    "endnote_record_ids": [
+      143,
+      14,
+      148
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 541,
+    "original_marker": "[58], [194], [195], [207], [39], [20]",
+    "original_numbers": [
+      58,
+      194,
+      195,
+      207,
+      39,
+      20
+    ],
+    "linked_original_numbers": [
+      58,
+      194,
+      195,
+      207,
+      39,
+      20
+    ],
+    "endnote_record_ids": [
+      57,
+      58,
+      59,
+      60,
+      39,
+      20
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 541,
+    "original_marker": "[48], [31], [116]",
+    "original_numbers": [
+      48,
+      31,
+      116
+    ],
+    "linked_original_numbers": [
+      48,
+      31,
+      116
+    ],
+    "endnote_record_ids": [
+      48,
+      31,
+      121
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 541,
+    "original_marker": "[30], [41], [45]",
+    "original_numbers": [
+      30,
+      41,
+      45
+    ],
+    "linked_original_numbers": [
+      30,
+      41,
+      45
+    ],
+    "endnote_record_ids": [
+      30,
+      41,
+      45
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 543,
+    "original_marker": "[116]",
+    "original_numbers": [
+      116
+    ],
+    "linked_original_numbers": [
+      116
+    ],
+    "endnote_record_ids": [
+      121
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 543,
+    "original_marker": "[112], [30], [41], [44], [42], [45], [25], [31], [135], [109], [14], [15], [39], [20], [40]",
+    "original_numbers": [
+      112,
+      30,
+      41,
+      44,
+      42,
+      45,
+      25,
+      31,
+      135,
+      109,
+      14,
+      15,
+      39,
+      20,
+      40
+    ],
+    "linked_original_numbers": [
+      112,
+      30,
+      41,
+      44,
+      42,
+      45,
+      25,
+      31,
+      135,
+      109,
+      14,
+      15,
+      39,
+      20,
+      40
+    ],
+    "endnote_record_ids": [
+      117,
+      30,
+      41,
+      44,
+      42,
+      45,
+      25,
+      31,
+      140,
+      114,
+      14,
+      15,
+      39,
+      20,
+      40
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 551,
+    "original_marker": "[30], [41], [45]",
+    "original_numbers": [
+      30,
+      41,
+      45
+    ],
+    "linked_original_numbers": [
+      30,
+      41,
+      45
+    ],
+    "endnote_record_ids": [
+      30,
+      41,
+      45
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 555,
+    "original_marker": "[31], [116]",
+    "original_numbers": [
+      31,
+      116
+    ],
+    "linked_original_numbers": [
+      31,
+      116
+    ],
+    "endnote_record_ids": [
+      31,
+      121
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 559,
+    "original_marker": "[43], [44], [42]",
+    "original_numbers": [
+      43,
+      44,
+      42
+    ],
+    "linked_original_numbers": [
+      43,
+      44,
+      42
+    ],
+    "endnote_record_ids": [
+      43,
+      44,
+      42
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 563,
+    "original_marker": "[25], [135], [109]",
+    "original_numbers": [
+      25,
+      135,
+      109
+    ],
+    "linked_original_numbers": [
+      25,
+      135,
+      109
+    ],
+    "endnote_record_ids": [
+      25,
+      140,
+      114
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 567,
+    "original_marker": "[112], [14], [15]",
+    "original_numbers": [
+      112,
+      14,
+      15
+    ],
+    "linked_original_numbers": [
+      112,
+      14,
+      15
+    ],
+    "endnote_record_ids": [
+      117,
+      14,
+      15
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 571,
+    "original_marker": "[39], [20], [40]",
+    "original_numbers": [
+      39,
+      20,
+      40
+    ],
+    "linked_original_numbers": [
+      39,
+      20,
+      40
+    ],
+    "endnote_record_ids": [
+      39,
+      20,
+      40
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 573,
+    "original_marker": "[116]",
+    "original_numbers": [
+      116
+    ],
+    "linked_original_numbers": [
+      116
+    ],
+    "endnote_record_ids": [
+      121
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 573,
+    "original_marker": "[40]",
+    "original_numbers": [
+      40
+    ],
+    "linked_original_numbers": [
+      40
+    ],
+    "endnote_record_ids": [
+      40
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 573,
+    "original_marker": "[20]",
+    "original_numbers": [
+      20
+    ],
+    "linked_original_numbers": [
+      20
+    ],
+    "endnote_record_ids": [
+      20
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 573,
+    "original_marker": "[39]",
+    "original_numbers": [
+      39
+    ],
+    "linked_original_numbers": [
+      39
+    ],
+    "endnote_record_ids": [
+      39
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 573,
+    "original_marker": "[143]",
+    "original_numbers": [
+      143
+    ],
+    "linked_original_numbers": [
+      143
+    ],
+    "endnote_record_ids": [
+      148
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 573,
+    "original_marker": "[142]",
+    "original_numbers": [
+      142
+    ],
+    "linked_original_numbers": [
+      142
+    ],
+    "endnote_record_ids": [
+      147
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 573,
+    "original_marker": "[14]",
+    "original_numbers": [
+      14
+    ],
+    "linked_original_numbers": [
+      14
+    ],
+    "endnote_record_ids": [
+      14
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 573,
+    "original_marker": "[138]",
+    "original_numbers": [
+      138
+    ],
+    "linked_original_numbers": [
+      138
+    ],
+    "endnote_record_ids": [
+      143
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 573,
+    "original_marker": "[207]",
+    "original_numbers": [
+      207
+    ],
+    "linked_original_numbers": [
+      207
+    ],
+    "endnote_record_ids": [
+      60
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 573,
+    "original_marker": "[195]",
+    "original_numbers": [
+      195
+    ],
+    "linked_original_numbers": [
+      195
+    ],
+    "endnote_record_ids": [
+      59
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 573,
+    "original_marker": "[194]",
+    "original_numbers": [
+      194
+    ],
+    "linked_original_numbers": [
+      194
+    ],
+    "endnote_record_ids": [
+      58
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 573,
+    "original_marker": "[58]",
+    "original_numbers": [
+      58
+    ],
+    "linked_original_numbers": [
+      58
+    ],
+    "endnote_record_ids": [
+      57
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 573,
+    "original_marker": "[12]",
+    "original_numbers": [
+      12
+    ],
+    "linked_original_numbers": [
+      12
+    ],
+    "endnote_record_ids": [
+      12
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 575,
+    "original_marker": "[12], [58], [194], [195], [207], [138], [14], [142], [143], [39], [20], [116]",
+    "original_numbers": [
+      12,
+      58,
+      194,
+      195,
+      207,
+      138,
+      14,
+      142,
+      143,
+      39,
+      20,
+      116
+    ],
+    "linked_original_numbers": [
+      12,
+      58,
+      194,
+      195,
+      207,
+      138,
+      14,
+      142,
+      143,
+      39,
+      20,
+      116
+    ],
+    "endnote_record_ids": [
+      12,
+      57,
+      58,
+      59,
+      60,
+      143,
+      14,
+      147,
+      148,
+      39,
+      20,
+      121
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 577,
+    "original_marker": "[68]",
+    "original_numbers": [
+      68
+    ],
+    "linked_original_numbers": [
+      68
+    ],
+    "endnote_record_ids": [
+      73
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 577,
+    "original_marker": "[67]",
+    "original_numbers": [
+      67
+    ],
+    "linked_original_numbers": [
+      67
+    ],
+    "endnote_record_ids": [
+      72
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 577,
+    "original_marker": "[65]",
+    "original_numbers": [
+      65
+    ],
+    "linked_original_numbers": [
+      65
+    ],
+    "endnote_record_ids": [
+      70
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 577,
+    "original_marker": "[106]",
+    "original_numbers": [
+      106
+    ],
+    "linked_original_numbers": [
+      106
+    ],
+    "endnote_record_ids": [
+      111
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 577,
+    "original_marker": "[38]",
+    "original_numbers": [
+      38
+    ],
+    "linked_original_numbers": [
+      38
+    ],
+    "endnote_record_ids": [
+      38
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 577,
+    "original_marker": "[37]",
+    "original_numbers": [
+      37
+    ],
+    "linked_original_numbers": [
+      37
+    ],
+    "endnote_record_ids": [
+      37
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 579,
+    "original_marker": "[4], [5], [16], [31]",
+    "original_numbers": [
+      4,
+      5,
+      16,
+      31
+    ],
+    "linked_original_numbers": [
+      4,
+      5,
+      16,
+      31
+    ],
+    "endnote_record_ids": [
+      4,
+      5,
+      16,
+      31
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 580,
+    "original_marker": "[5], [16], [17], [144]",
+    "original_numbers": [
+      5,
+      16,
+      17,
+      144
+    ],
+    "linked_original_numbers": [
+      5,
+      16,
+      17,
+      144
+    ],
+    "endnote_record_ids": [
+      5,
+      16,
+      17,
+      149
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 581,
+    "original_marker": "[30], [41], [45], [31], [116]",
+    "original_numbers": [
+      30,
+      41,
+      45,
+      31,
+      116
+    ],
+    "linked_original_numbers": [
+      30,
+      41,
+      45,
+      31,
+      116
+    ],
+    "endnote_record_ids": [
+      30,
+      41,
+      45,
+      31,
+      121
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 582,
+    "original_marker": "[42], [43], [44], [25], [109], [135]",
+    "original_numbers": [
+      42,
+      43,
+      44,
+      25,
+      109,
+      135
+    ],
+    "linked_original_numbers": [
+      42,
+      43,
+      44,
+      25,
+      109,
+      135
+    ],
+    "endnote_record_ids": [
+      42,
+      43,
+      44,
+      25,
+      114,
+      140
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 583,
+    "original_marker": "[12], [32], [45], [25]",
+    "original_numbers": [
+      12,
+      32,
+      45,
+      25
+    ],
+    "linked_original_numbers": [
+      12,
+      32,
+      45,
+      25
+    ],
+    "endnote_record_ids": [
+      12,
+      32,
+      45,
+      25
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 584,
+    "original_marker": "[58], [194], [195], [207], [39], [20], [40]",
+    "original_numbers": [
+      58,
+      194,
+      195,
+      207,
+      39,
+      20,
+      40
+    ],
+    "linked_original_numbers": [
+      58,
+      194,
+      195,
+      207,
+      39,
+      20,
+      40
+    ],
+    "endnote_record_ids": [
+      57,
+      58,
+      59,
+      60,
+      39,
+      20,
+      40
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 585,
+    "original_marker": "[18], [19], [20], [161], [17]",
+    "original_numbers": [
+      18,
+      19,
+      20,
+      161,
+      17
+    ],
+    "linked_original_numbers": [
+      18,
+      19,
+      20,
+      161,
+      17
+    ],
+    "endnote_record_ids": [
+      18,
+      19,
+      20,
+      165,
+      17
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 586,
+    "original_marker": "[13], [14], [15], [112], [138], [143], [191]",
+    "original_numbers": [
+      13,
+      14,
+      15,
+      112,
+      138,
+      143,
+      191
+    ],
+    "linked_original_numbers": [
+      13,
+      14,
+      15,
+      112,
+      138,
+      143,
+      191
+    ],
+    "endnote_record_ids": [
+      13,
+      14,
+      15,
+      117,
+      143,
+      148,
+      195
+    ],
+    "action": "converted existing citation"
+  },
+  {
+    "paragraph_index": 587,
+    "original_marker": "[58], [194], [195], [138], [14], [143]",
+    "original_numbers": [
+      58,
+      194,
+      195,
+      138,
+      14,
+      143
+    ],
+    "linked_original_numbers": [
+      58,
+      194,
+      195,
+      138,
+      14,
+      143
+    ],
+    "endnote_record_ids": [
+      57,
+      58,
+      59,
+      143,
+      14,
+      148
+    ],
+    "action": "converted existing citation"
+  }
+]

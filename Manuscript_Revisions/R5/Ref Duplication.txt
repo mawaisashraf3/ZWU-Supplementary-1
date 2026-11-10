@@ -1,0 +1,6 @@
+Confirmed duplicate references
+No.	Duplicate pair	Recommended reference to keep
+1	[36] and [69]	
+2	[53] and [54]
+3	[60] and [71]	
+4	[172] and [271]
